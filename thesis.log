@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  21 OCT 2014 00:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  21 OCT 2014 21:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -63,8 +63,8 @@ Enter file names to process, (chap1,chap2 ...), or `all' to process all files:
 
 \files=all
 Including all files.
-(./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/chap1.aux)
-(./biblio/biblio.aux))
+(./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/preface.aux)
+(./chaps/chap1.aux) (./biblio/biblio.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -113,18 +113,39 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 
 
 [7])
+\openout2 = `chaps/preface.aux'.
+
+ (./chaps/preface.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+
+Underfull \vbox (badness 4229) has occurred while \output is active []
+
+ [8
+
+
+]
+[9]) [10]
 \openout2 = `chaps/chap1.aux'.
 
- (./chaps/chap1.tex [8
+ (./chaps/chap1.tex
+Chapter 1.
+) [11
 
 
 
 ]
-Chapter 1.
-) [9]
 \openout2 = `biblio/biblio.aux'.
 
- (./biblio/biblio.tex (./thesis.bbl [10
+ (./biblio/biblio.tex (./thesis.bbl [12
 
 
 
@@ -132,15 +153,15 @@ Chapter 1.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 5.
 
-)) [11] (./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/chap1.aux)
-(./biblio/biblio.aux)) ) 
+)) [13] (./thesis.aux (./front/cover.aux) (./front/toc.aux)
+(./chaps/preface.aux) (./chaps/chap1.aux) (./biblio/biblio.aux)) ) 
 Here is how much of TeX's memory you used:
- 723 strings out of 493118
- 7578 string characters out of 6135459
- 58091 words of memory out of 5000000
- 4201 multiletter control sequences out of 15000+600000
- 11138 words of font info for 25 fonts, out of 8000000 for 9000
+ 749 strings out of 493118
+ 7862 string characters out of 6135459
+ 60091 words of memory out of 5000000
+ 4209 multiletter control sequences out of 15000+600000
+ 16555 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,21p,141b,173s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,8n,21p,1008b,173s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.dvi (11 pages, 4524 bytes).
+Output written on thesis.dvi (13 pages, 13536 bytes).
