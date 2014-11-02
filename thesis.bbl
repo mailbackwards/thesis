@@ -1,5 +1,56 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
 \newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
   \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
-\begin{thebibliography}{}
+}
 
-\end{thebibliography}
+\entry{zuckerman_internets_2014}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zuckerman}{Z.}%
+     {Ethan}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZE1}
+  \strng{fullhash}{ZE1}
+  \field{sortinit}{Z}
+  \field{titleaddon}{The Atlantic}
+  \field{title}{The Internet's Original Sin}
+  \verb{url}
+  \verb http://www.theatlantic.com/technology/archive/2014/08/advertising-is-th
+  \verb e-internets-original-sin/376041/4/
+  \endverb
+  \verb{file}
+  \verb The Atlantic Print View:/Users/liam/Library/Application Support/Zotero/
+  \verb Profiles/78nlwb7i.default/zotero/storage/A4W2EAK4/4.html:text/html
+  \endverb
+  \field{day}{14}
+  \field{month}{08}
+  \field{year}{2014}
+  \field{urlday}{14}
+  \field{urlmonth}{08}
+  \field{urlyear}{2014}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

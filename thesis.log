@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  21 OCT 2014 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  2 NOV 2014 17:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**thesis.tex
+**thesis
 (./thesis.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
@@ -59,109 +59,278 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex1.sty
+Package: biblatex1 2013/11/25 v2.8a programmable bibliographies (bibtex) (PK/JW
+/AB)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count93
+)
+\etb@tempcnta=\count94
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count95
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count96
+\c@listtotal=\count97
+\c@listcount=\count98
+\c@liststart=\count99
+\c@liststop=\count100
+\c@citecount=\count101
+\c@citetotal=\count102
+\c@multicitecount=\count103
+\c@multicitetotal=\count104
+\c@instcount=\count105
+\c@maxnames=\count106
+\c@minnames=\count107
+\c@maxitems=\count108
+\c@minitems=\count109
+\c@citecounter=\count110
+\c@savedcitecounter=\count111
+\c@uniquelist=\count112
+\c@uniquename=\count113
+\c@refsection=\count114
+\c@refsegment=\count115
+\c@maxextrayear=\count116
+\c@maxextraalpha=\count117
+\c@abbrvpenalty=\count118
+\c@highnamepenalty=\count119
+\c@lownamepenalty=\count120
+\c@maxparens=\count121
+\c@parenlevel=\count122
+\blx@tempcnta=\count123
+\blx@tempcntb=\count124
+\blx@tempcntc=\count125
+\blx@maxsection=\count126
+\blx@maxsegment=\count127
+\blx@notetype=\count128
+\blx@parenlevel@text=\count129
+\blx@parenlevel@foot=\count130
+\labelnumberwidth=\skip45
+\labelalphawidth=\skip46
+\shorthandwidth=\skip47
+\biblabelsep=\skip48
+\bibitemsep=\skip49
+\bibnamesep=\skip50
+\bibinitsep=\skip51
+\bibparsep=\skip52
+\bibhang=\skip53
+\blx@auxin=\read1
+\blx@auxout=\write3
+\c@mincomprange=\count131
+\c@maxcomprange=\count132
+\c@mincompwidth=\count133
+\c@labelname=\count134
+\c@savedlabelname=\count135
+\c@author=\count136
+\c@savedauthor=\count137
+\c@shortauthor=\count138
+\c@savedshortauthor=\count139
+\c@editor=\count140
+\c@savededitor=\count141
+\c@editora=\count142
+\c@savededitora=\count143
+\c@editorb=\count144
+\c@savededitorb=\count145
+\c@editorc=\count146
+\c@savededitorc=\count147
+\c@shorteditor=\count148
+\c@savedshorteditor=\count149
+\c@bookauthor=\count150
+\c@savedbookauthor=\count151
+\c@translator=\count152
+\c@savedtranslator=\count153
+\c@annotator=\count154
+\c@savedannotator=\count155
+\c@commentator=\count156
+\c@savedcommentator=\count157
+\c@introduction=\count158
+\c@savedintroduction=\count159
+\c@foreword=\count160
+\c@savedforeword=\count161
+\c@afterword=\count162
+\c@savedafterword=\count163
+\c@holder=\count164
+\c@savedholder=\count165
+\c@namea=\count166
+\c@savednamea=\count167
+\c@nameb=\count168
+\c@savednameb=\count169
+\c@namec=\count170
+\c@savednamec=\count171
+\c@institution=\count172
+\c@savedinstitution=\count173
+\c@language=\count174
+\c@savedlanguage=\count175
+\c@location=\count176
+\c@savedlocation=\count177
+\c@organization=\count178
+\c@savedorganization=\count179
+\c@origlocation=\count180
+\c@savedoriglocation=\count181
+\c@origpublisher=\count182
+\c@savedorigpublisher=\count183
+\c@pageref=\count184
+\c@savedpageref=\count185
+\c@publisher=\count186
+\c@savedpublisher=\count187
+\c@lista=\count188
+\c@savedlista=\count189
+\c@listb=\count190
+\c@savedlistb=\count191
+\c@listc=\count192
+\c@savedlistc=\count193
+\c@listd=\count194
+\c@savedlistd=\count195
+\c@liste=\count196
+\c@savedliste=\count197
+\c@listf=\count198
+\c@savedlistf=\count199
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count200
+\c@textcitetotal=\count201
+\c@textcitemaxnames=\count202
+\c@biburlnumpenalty=\count203
+\c@biburlucpenalty=\count204
+\c@biburllcpenalty=\count205
+\c@smartand=\count206
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count207
+\c@bbx:relatedtotal=\count208
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
 Enter file names to process, (chap1,chap2 ...), or `all' to process all files:
 
-\files=all
-Including all files.
+\files=chaps/intro
+Including only chaps/intro.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
+)
+\@quotelevel=\count209
+\@quotereset=\count210
+
 (./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/preface.aux)
-(./chaps/chap1.aux) (./biblio/biblio.aux))
+No file chaps/intro.aux.
+(./biblio/biblio.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-\openout2 = `front/cover.aux'.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+\openout3 = `thesis-blx.bib'.
 
- (./front/cover.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'thesis.bbl' found.
+ (./thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
+\openout2 = `chaps/intro.aux'.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
- [1
-
-
-
-] [2
-
-]
-(./front/abstract.tex) [3
-
-] [4
-
-]) [5]
-\openout2 = `front/toc.aux'.
-
- (./front/toc.tex [6
+ (./chaps/intro.tex [11
 
 
-
-] (./thesis.toc)
-\tf@toc=\write3
-\openout3 = `thesis.toc'.
-
-
-[7])
-\openout2 = `chaps/preface.aux'.
-
- (./chaps/preface.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 14.
-
-Underfull \vbox (badness 4229) has occurred while \output is active []
-
- [8
-
-
-]
-[9]) [10]
-\openout2 = `chaps/chap1.aux'.
-
- (./chaps/chap1.tex
-Chapter 1.
-) [11
 
 
 
 ]
-\openout2 = `biblio/biblio.aux'.
+Underfull \vbox (badness 1675) has occurred while \output is active []
 
- (./biblio/biblio.tex (./thesis.bbl [12
+ [12]
+Underfull \vbox (badness 1675) has occurred while \output is active []
 
+ [13]
+[14]) [15] (./thesis.aux (./front/cover.aux) (./front/toc.aux)
+(./chaps/preface.aux) (./chaps/intro.aux) (./biblio/biblio.aux))
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+\openout1 = `thesis.run.xml'.
 
-
-]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 5.
-
-)) [13] (./thesis.aux (./front/cover.aux) (./front/toc.aux)
-(./chaps/preface.aux) (./chaps/chap1.aux) (./biblio/biblio.aux)) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 749 strings out of 493118
- 7862 string characters out of 6135459
- 60091 words of memory out of 5000000
- 4209 multiletter control sequences out of 15000+600000
- 16555 words of font info for 37 fonts, out of 8000000 for 9000
+ 5554 strings out of 493118
+ 90110 string characters out of 6135459
+ 256626 words of memory out of 5000000
+ 8986 multiletter control sequences out of 15000+600000
+ 8474 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,8n,21p,1008b,173s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,4n,33p,1058b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.dvi (13 pages, 13536 bytes).
+Output written on thesis.dvi (5 pages, 14864 bytes).
