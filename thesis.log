@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  2 NOV 2014 17:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  20 JAN 2015 11:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**thesis
+**thesis.tex
 (./thesis.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
@@ -48,17 +48,14 @@ Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
 \@ts=\dimen104
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
-
-
-Package cmap Warning: pdftex in DVI mode - exiting.
-
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
+)<<t1.cmap>>)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
 
@@ -265,8 +262,8 @@ File: biblatex.cfg
 )))
 Enter file names to process, (chap1,chap2 ...), or `all' to process all files:
 
-\files=chaps/intro
-Including only chaps/intro.
+\files=all
+Including all files.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -276,8 +273,7 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 \@quotereset=\count210
 
 (./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/preface.aux)
-No file chaps/intro.aux.
-(./biblio/biblio.aux))
+(./chaps/intro.aux) (./chaps/chap1.aux) (./biblio/biblio.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -303,34 +299,262 @@ Package biblatex Info: ... file 'thesis.bbl' found.
  (./thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 47.
 Package biblatex Info: Reference segment=0 on input line 47.
+\openout2 = `front/cover.aux'.
+
+
+(./front/cover.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
+<<oms.cmap>> [1
+
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] (./front/abstract.tex) [3
+
+] [4
+
+]) [5]
+\openout2 = `front/toc.aux'.
+
+ (./front/toc.tex [6
+
+
+
+]
+(./thesis.toc<<ot1.cmap>><<oml.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+<<omx.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+ [7])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [8])
+\openout2 = `chaps/preface.aux'.
+
+
+(./chaps/preface.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9
+
+
+]
+[10]) [11]
 \openout2 = `chaps/intro.aux'.
 
- (./chaps/intro.tex [11
-
-
-
+ (./chaps/intro.tex [12
 
 
 ]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [12]
+ [13]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [13]
-[14]) [15] (./thesis.aux (./front/cover.aux) (./front/toc.aux)
-(./chaps/preface.aux) (./chaps/intro.aux) (./biblio/biblio.aux))
+ [14]
+[15] [16]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [19]
+[20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+[22]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [23]
+Overfull \hbox (3.5385pt too wide) in paragraph at lines 83--84
+\T1/cmr/m/n/12 With a URL short-ener, a small and in-nocu-ous do-main (such as 
+“bit.ly/a423e56”)
+ []
+
+
+Overfull \hbox (87.30386pt too wide) in paragraph at lines 83--84
+\T1/cmr/m/n/12 google.com”) or its most spe-cific (like “pbs.twimg.com/medi
+a/Bm6QZAGCQAADEOk.png”).
+ []
+
+[24]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [29]
+[30]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [33]
+[34]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [36]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [37]
+[38] [39]) [40]
+\openout2 = `chaps/chap1.aux'.
+
+ (./chaps/chap1.tex
+Chapter 1.
+
+Overfull \hbox (12.75423pt too wide) in paragraph at lines 13--14
+\T1/cmr/m/n/12 The word “archive” brings to mind a stuffy room full of old 
+books and manuscripts,
+ []
+
+[41
+
+
+
+] [42]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [44]
+[45] [46]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [47]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [48]
+[49]
+Overfull \hbox (10.14247pt too wide) in paragraph at lines 72--73
+[]\T1/cmr/m/n/12 Chambers’ use of Heads and Com-mon Places fol-lowed Phillipp
+ Melanchthon’s
+ []
+
+
+Overfull \hbox (10.58885pt too wide) in paragraph at lines 74--75
+[]\T1/cmr/m/n/12 The Cy-clopae-dia was an an-ces-tor to Diderot’s cel-e-brate
+d En-cy-clopédie (Diderot
+ []
+
+
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [50]
+[51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+[53]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [54]
+Overfull \hbox (6.89871pt too wide) in paragraph at lines 110--111
+\T1/cmr/m/n/12 Unlike Otlet’s ra-di-ated li-brary, or Nel-son’s Xanadu, Van
+-nevar Bush’s memex
+ []
+
+[55]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [56]
+Overfull \hbox (1.55984pt too wide) in paragraph at lines 126--127
+[]\T1/cmr/m/n/12 Another lim-i-ta-tion of the memex, of-fered by Be-linda Bar-n
+et, is that “Bush’s
+ []
+
+[57] [58]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [59]
+[60]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [61]
+[62]) [63]
+\openout2 = `biblio/biblio.aux'.
+
+ (./biblio/biblio.tex [64
+
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)) [65]
+(./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/preface.aux)
+(./chaps/intro.aux) (./chaps/chap1.aux) (./biblio/biblio.aux))
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 5554 strings out of 493118
- 90110 string characters out of 6135459
- 256626 words of memory out of 5000000
- 8986 multiletter control sequences out of 15000+600000
- 8474 words of font info for 21 fonts, out of 8000000 for 9000
+ 5809 strings out of 493117
+ 94404 string characters out of 6135433
+ 258874 words of memory out of 5000000
+ 9148 multiletter control sequences out of 15000+600000
+ 18229 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,4n,33p,1058b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,8n,50p,1925b,971s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on thesis.pdf (65 pages, 384819 bytes).
+PDF statistics:
+ 280 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on thesis.dvi (5 pages, 14864 bytes).
