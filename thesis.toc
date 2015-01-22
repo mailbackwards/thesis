@@ -2,60 +2,70 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {0.1}Preface}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.2}The Stakes}{12}
+\contentsline {chapter}{\numberline {1}Introduction}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.2.1}BuzzFeed plagiarism incident}{12}
+\contentsline {section}{\numberline {1.1}The Stakes}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.2.2}New York Times Innovation Report}{15}
+\contentsline {subsection}{\numberline {1.1.1}BuzzFeed plagiarism incident}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.2.3}Project Xanadu and Newslynx}{15}
+\contentsline {subsection}{\numberline {1.1.2}New York Times Innovation Report}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.3}Big Data???}{16}
+\contentsline {subsection}{\numberline {1.1.3}Project Xanadu and Newslynx}{17}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.4}Layers of containment}{16}
+\contentsline {section}{\numberline {1.2}Big Data???}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.4.1}Theorizing containment}{20}
+\contentsline {section}{\numberline {1.3}Layers of containment}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.4.2}Stage One: The URL}{22}
+\contentsline {subsection}{\numberline {1.3.1}Theorizing containment}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.4.3}Stage Two: The Link}{24}
+\contentsline {subsection}{\numberline {1.3.2}Stage One: The URL}{24}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.4.4}Stage Three: The Feed, the Index}{30}
+\contentsline {subsection}{\numberline {1.3.3}Stage Two: The Link}{26}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.4.5}Stage Four: The Archive}{34}
+\contentsline {subsection}{\numberline {1.3.4}Stage Three: The Feed, the Index}{31}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.4.6}Postscript: Erasure and Afterlife}{38}
+\contentsline {subsection}{\numberline {1.3.5}Stage Four: The Archive}{36}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.4.7}Conclusion}{39}
+\contentsline {subsection}{\numberline {1.3.6}Postscript: Erasure and Afterlife}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}The Size and Shape of Archives}{41}
+\contentsline {subsection}{\numberline {1.3.7}Conclusion}{41}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Introduction}{41}
+\contentsline {chapter}{\numberline {2}The Size and Shape of Archives}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}The Networked Archive}{41}
+\contentsline {section}{\numberline {2.1}Introduction}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Defining the Archive}{42}
+\contentsline {subsection}{\numberline {2.1.1}The Networked Archive}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.3}Outline of Themes}{45}
+\contentsline {subsection}{\numberline {2.1.2}Defining the Archive}{44}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Spatialization}{46}
+\contentsline {subsection}{\numberline {2.1.3}Outline of Themes}{47}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}The Dimensions of Memory}{46}
+\contentsline {section}{\numberline {2.2}Spatialization}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}The Linked Encyclopedia}{49}
+\contentsline {subsection}{\numberline {2.2.1}The Dimensions of Memory}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}Paul Otlet and the Radiated Library}{51}
+\contentsline {subsection}{\numberline {2.2.2}The Linked Encyclopedia}{51}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Intersubjectivity}{53}
+\contentsline {subsection}{\numberline {2.2.3}Paul Otlet and the Radiated Library}{53}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}From personal memory to collective history}{53}
+\contentsline {section}{\numberline {2.3}Intersubjectivity}{55}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.2}Vannevar Bush's Memex}{55}
+\contentsline {subsection}{\numberline {2.3.1}From personal memory to collective history}{55}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Encyclopedism}{58}
+\contentsline {subsection}{\numberline {2.3.2}Vannevar Bush's Memex}{57}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}The Endless Archive}{58}
+\contentsline {section}{\numberline {2.4}Encyclopedism}{60}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.2}Ted Nelson and Xanadu}{60}
+\contentsline {subsection}{\numberline {2.4.1}The Endless Archive}{60}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Conclusion}{62}
+\contentsline {subsection}{\numberline {2.4.2}Ted Nelson and Xanadu}{62}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Conclusion}{64}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Publishers and the Archive}{67}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}The networked news archive}{68}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Case Study: Time Vault}{69}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Case Study: Vox cards? Quartz obsessions?}{69}

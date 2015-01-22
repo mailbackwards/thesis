@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  20 JAN 2015 13:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  22 JAN 2015 10:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -318,7 +318,8 @@ Package biblatex Warning: Missing 'hyperref' package.
 \@quotelevel=\count210
 \@quotereset=\count211
 (./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/preface.aux)
-(./chaps/intro.aux) (./chaps/chap1.aux) (./biblio/biblio.aux))
+(./chaps/intro.aux) (./chaps/chap1.aux) (./chaps/chap2.aux)
+(./biblio/biblio.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -346,19 +347,21 @@ Package biblatex Info: Reference section=0 on input line 47.
 Package biblatex Info: Reference segment=0 on input line 47.
 \openout2 = `front/cover.aux'.
 
-
-(./front/cover.tex
+ (./front/cover.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
-<<oms.cmap>> [1
+<<oms.cmap>>
+[1
 
 
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2
 
 ] (./front/abstract.tex) [3
 
@@ -371,8 +374,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 
 
 
-]
-(./thesis.toc<<ot1.cmap>><<oml.cmap>>
+] (./thesis.toc<<ot1.cmap>><<oml.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 <<omx.cmap>>
@@ -387,8 +389,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [8])
 \openout2 = `chaps/preface.aux'.
 
-
-(./chaps/preface.tex
+ (./chaps/preface.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9
@@ -401,47 +402,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (./chaps/intro.tex [12
 
 
+
 ]
+Chapter 1.
+Package biblatex Info: Resetting trackers on input line 1.
+[13] [14]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [13]
+ [15]
+[16] [17] [18]
 Underfull \vbox (badness 1675) has occurred while \output is active []
-
- [14]
-[15] [16]
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
- [17]
-Underfull \vbox (badness 1675) has occurred while \output is active []
-
- [18]
-Underfull \vbox (badness 5652) has occurred while \output is active []
 
  [19]
-[20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [21]
-[22]
+ [20]
+[21]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [23]
-Overfull \hbox (3.5385pt too wide) in paragraph at lines 83--84
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Overfull \hbox (3.5385pt too wide) in paragraph at lines 85--86
 \T1/cmr/m/n/12 With a URL short-ener, a small and in-nocu-ous do-main (such as 
 “bit.ly/a423e56”)
  []
 
 
-Overfull \hbox (87.30386pt too wide) in paragraph at lines 83--84
+Overfull \hbox (87.30386pt too wide) in paragraph at lines 85--86
 \T1/cmr/m/n/12 google.com”) or its most spe-cific (like “pbs.twimg.com/medi
 a/Bm6QZAGCQAADEOk.png”).
  []
 
-[24]
+
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
  [25]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
 Underfull \vbox (badness 5652) has occurred while \output is active []
@@ -450,67 +451,76 @@ Underfull \vbox (badness 5652) has occurred while \output is active []
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
  [28]
-Underfull \vbox (badness 1675) has occurred while \output is active []
+Underfull \vbox (badness 5652) has occurred while \output is active []
 
  [29]
-[30]
-Underfull \vbox (badness 1675) has occurred while \output is active []
+Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [31]
+ [30]
+[31]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
  [32]
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
- [33]
-[34]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [35]
+ [33]
 Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 7981) has occurred while \output is active []
 
  [36]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
  [37]
-[38] [39]) [40]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [38]
+[39]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [40]
+[41]) [42]
 \openout2 = `chaps/chap1.aux'.
 
  (./chaps/chap1.tex
-Chapter 1.
-Package biblatex Info: Resetting trackers on input line 7.
+Chapter 2.
+Package biblatex Info: Resetting trackers on input line 1.
 
-Overfull \hbox (12.75423pt too wide) in paragraph at lines 13--14
+Overfull \hbox (12.75423pt too wide) in paragraph at lines 7--8
 \T1/cmr/m/n/12 The word “archive” brings to mind a stuffy room full of old 
 books and manuscripts,
  []
 
-[41
+[43
 
 
 
-] [42]
+] [44]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [43]
+ [45]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [44]
-[45] [46]
+ [46]
+[47] [48]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [47]
+ [49]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [48]
-[49]
-Overfull \hbox (10.14247pt too wide) in paragraph at lines 72--73
+ [50]
+[51]
+Overfull \hbox (10.14247pt too wide) in paragraph at lines 66--67
 []\T1/cmr/m/n/12 Chambers’ use of Heads and Com-mon Places fol-lowed Phillipp
  Melanchthon’s
  []
 
 
-Overfull \hbox (10.58885pt too wide) in paragraph at lines 74--75
+Overfull \hbox (10.58885pt too wide) in paragraph at lines 68--69
 []\T1/cmr/m/n/12 The Cy-clopae-dia was an an-ces-tor to Diderot’s cel-e-brate
 d En-cy-clopédie (Diderot
  []
@@ -518,38 +528,52 @@ d En-cy-clopédie (Diderot
 
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [50]
-[51]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [52]
 [53]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54]
-Overfull \hbox (6.89871pt too wide) in paragraph at lines 110--111
+[55]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [56]
+Overfull \hbox (6.89871pt too wide) in paragraph at lines 104--105
 \T1/cmr/m/n/12 Unlike Otlet’s ra-di-ated li-brary, or Nel-son’s Xanadu, Van
 -nevar Bush’s memex
  []
 
-[55]
+[57]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [56]
-Overfull \hbox (1.55984pt too wide) in paragraph at lines 126--127
+ [58]
+Overfull \hbox (1.55984pt too wide) in paragraph at lines 120--121
 []\T1/cmr/m/n/12 Another lim-i-ta-tion of the memex, of-fered by Be-linda Bar-n
 et, is that “Bush’s
  []
 
-[57] [58]
-Underfull \vbox (badness 1675) has occurred while \output is active []
-
- [59]
-[60]
+[59] [60]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
  [61]
-[62]) [63]
+[62]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [63]
+[64]) [65]
+\openout2 = `chaps/chap2.aux'.
+
+ (./chaps/chap2.tex [66
+
+
+
+]
+Chapter 3.
+Package biblatex Info: Resetting trackers on input line 1.
+[67])
+Underfull \vbox (badness 1755) has occurred while \output is active []
+
+ [68]
+[69]
 \openout2 = `biblio/biblio.aux'.
 
  (./biblio/biblio.tex
@@ -557,16 +581,17 @@ Underfull \vbox (badness 1675) has occurred while \output is active []
 LaTeX Warning: Empty bibliography on input line 6.
 
 ) (./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/preface.aux)
-(./chaps/intro.aux) (./chaps/chap1.aux) (./biblio/biblio.aux))
+(./chaps/intro.aux) (./chaps/chap1.aux) (./chaps/chap2.aux)
+(./biblio/biblio.aux))
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 7403 strings out of 493117
- 129528 string characters out of 6135433
- 617527 words of memory out of 5000000
- 10734 multiletter control sequences out of 15000+600000
+ 7411 strings out of 493117
+ 129643 string characters out of 6135433
+ 619674 words of memory out of 5000000
+ 10735 multiletter control sequences out of 15000+600000
  16473 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,7n,37p,1921b,1319s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -583,10 +608,10 @@ live/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texli
 ve/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive
 /2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on thesis.pdf (63 pages, 331958 bytes).
+Output written on thesis.pdf (69 pages, 345176 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
+ 281 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
