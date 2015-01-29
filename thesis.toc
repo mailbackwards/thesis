@@ -64,8 +64,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Publishers and the Archive}{67}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}The networked news archive}{68}
+\contentsline {section}{\numberline {3.1}Context in context}{68}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Case Study: Time Vault}{69}
+\contentsline {section}{\numberline {3.2}Reasons to link}{71}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Case Study: Vox cards? Quartz obsessions?}{69}
+\contentsline {section}{\numberline {3.3}The stages of news archives}{71}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Case Study: Time Vault}{72}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Case Study: Vox cards? Quartz obsessions?}{73}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Libraries and historical repositories}{73}
