@@ -2036,9 +2036,28 @@
     <bcf:datasource type="file" datatype="bibtex">thesis.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="3">rosen_2008</bcf:citekey>
-    <bcf:citekey order="4">rosen_2010</bcf:citekey>
-    <bcf:citekey order="6">nyt_vox_melding</bcf:citekey>
+    <bcf:citekey order="1">rosenberg</bcf:citekey>
+    <bcf:citekey order="2">markham</bcf:citekey>
+    <bcf:citekey order="3">drucker</bcf:citekey>
+    <bcf:citekey order="4">duguid</bcf:citekey>
+    <bcf:citekey order="5">gillespie_politics</bcf:citekey>
+    <bcf:citekey order="6">berners-lee</bcf:citekey>
+    <bcf:citekey order="7">nelson_one_liners</bcf:citekey>
+    <bcf:citekey order="8">jenkins</bcf:citekey>
+    <bcf:citekey order="9">searls</bcf:citekey>
+    <bcf:citekey order="10">add figures here; one concentric-circle view</bcf:citekey>
+    <bcf:citekey order="10">one more concrete view showing a specific sample webpage</bcf:citekey>
+    <bcf:citekey order="11">kopytoff</bcf:citekey>
+    <bcf:citekey order="12">lanier</bcf:citekey>
+    <bcf:citekey order="13">kopytoff</bcf:citekey>
+    <bcf:citekey order="14">bowker_star</bcf:citekey>
+    <bcf:citekey order="15">star_ethnography_of_infrastructure</bcf:citekey>
+    <bcf:citekey order="16">latour</bcf:citekey>
+    <bcf:citekey order="19">bbc_leetaru</bcf:citekey>
+    <bcf:citekey order="21">rosen_2008</bcf:citekey>
+    <bcf:citekey order="22">rosen_2010</bcf:citekey>
+    <bcf:citekey order="24">nyt_vox_melding</bcf:citekey>
+    <bcf:citekey order="28">catutto_semiotic_dynamics</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="cms">
   <bcf:sorting>
