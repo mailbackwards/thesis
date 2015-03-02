@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 FEB 2015 09:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 MAR 2015 23:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,7 +410,7 @@ Package biblatex Info: Resetting trackers on input line 1.
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
  [15]
-[16]) [17] [18]
+[16] [17]) [18]
 \openout2 = `chaps/chap1.aux'.
 
  (./chaps/chap1.tex
@@ -421,120 +421,181 @@ Package biblatex Info: Resetting trackers on input line 1.
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation 'rosenberg' on page 20 undefined on input line 7.
+ [20]
 
-
-LaTeX Warning: Citation 'markham' on page 20 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'drucker' on page 20 undefined on input line 7.
+LaTeX Warning: Citation 'rosenberg' on page 21 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'duguid' on page 20 undefined on input line 9.
+LaTeX Warning: Citation 'markham' on page 21 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'gillespie_politics' on page 20 undefined on input line
- 9.
+LaTeX Warning: Citation 'drucker' on page 21 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'berners-lee' on page 20 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'nelson_one_liners' on page 20 undefined on input line 
-11.
-
-[20]
-
-LaTeX Warning: Citation 'jenkins' on page 21 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'searls' on page 21 undefined on input line 13.
-
-
-Underfull \vbox (badness 1688) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
 
-LaTeX Warning: Citation 'add figures here; one concentric-circle view' on page 
-22 undefined on input line 17.
+LaTeX Warning: Citation 'duguid' on page 22 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'one more concrete view showing a specific sample webpa
-ge' on page 22 undefined on input line 17.
+LaTeX Warning: Citation 'gillespie_politics' on page 22 undefined on input line
+ 28.
 
 
-Overfull \hbox (112.26154pt too wide) in paragraph at lines 17--17
+LaTeX Warning: Citation 'berners-lee' on page 22 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'nelson_one_liners' on page 22 undefined on input line 
+30.
+
+
+Underfull \vbox (badness 1048) has occurred while \output is active []
+
+ [22]
+[23]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [25]
+
+LaTeX Warning: Citation 'jenkins' on page 26 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'searls' on page 26 undefined on input line 58.
+
+[26]
+
+LaTeX Warning: Citation 'add figures here; one abstract concentric-circle view'
+ on page 27 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'one concrete view with a sample webpage' on page 27 un
+defined on input line 62.
+
+
+Overfull \hbox (70.04129pt too wide) in paragraph at lines 62--62
 [][][]\T1/cmr/m/n/10 ; [].| 
  []
 
 
-LaTeX Warning: Citation 'kopytoff' on page 22 undefined on input line 21.
+LaTeX Warning: Citation 'kopytoff' on page 27 undefined on input line 64.
 
 
-LaTeX Warning: Citation 'lanier' on page 22 undefined on input line 21.
+Underfull \vbox (badness 2538) has occurred while \output is active []
 
-[22]
+ [27]
 
-LaTeX Warning: Citation 'kopytoff' on page 23 undefined on input line 23.
+LaTeX Warning: Citation 'kopytoff' on page 28 undefined on input line 68.
 
+[28]
 
-Underfull \vbox (badness 4391) has occurred while \output is active []
-
- [23]
-
-LaTeX Warning: Citation 'bowker_star' on page 24 undefined on input line 25.
+LaTeX Warning: Citation 'bowker_star' on page 29 undefined on input line 70.
 
 
-LaTeX Warning: Citation 'star_ethnography_of_infrastructure' on page 24 undefin
-ed on input line 25.
+LaTeX Warning: Citation 'berners-lee' on page 29 undefined on input line 80.
+
+[29]
+
+LaTeX Warning: Citation 'figure here with detailed annotations of a single URL'
+ on page 30 undefined on input line 82.
 
 
-LaTeX Warning: Citation 'latour' on page 24 undefined on input line 27.
-
-
-Underfull \vbox (badness 1688) has occurred while \output is active []
-
- [24]
-[25]
-Underfull \vbox (badness 1675) has occurred while \output is active []
-
- [26]
-[27]
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
- [28]
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
- [29]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+Underfull \vbox (badness 2495) has occurred while \output is active []
 
  [30]
-Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [31]
-[32] [33]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+LaTeX Warning: Citation 'hargittai' on page 31 undefined on input line 84.
 
- [34]
-[35]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+
+LaTeX Warning: Citation 'chakrabarti' on page 31 undefined on input line 88.
+
+
+LaTeX Warning: Citation 'err find all this wherever I read it' on page 31 undef
+ined on input line 88.
+
+[31]
+
+LaTeX Warning: Citation 'park' on page 32 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'others' on page 32 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'find cite for .tv sale' on page 32 undefined on input 
+line 90.
+
+
+LaTeX Warning: Citation 'helmond' on page 32 undefined on input line 92.
+
+
+Overfull \hbox (74.60283pt too wide) in paragraph at lines 92--93
+\T1/cmr/m/n/12 (think ``google.com'') or its most spe-cific (like ``pbs.twimg.c
+om/media/Bm6QZAGCQAADEOk.png'').
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+
+LaTeX Warning: Citation 'berners-lee' on page 33 undefined on input line 96.
+
+
+LaTeX Warning: Citation 'nelson' on page 33 undefined on input line 96.
+
+
+LaTeX Warning: Citation 'deleuze' on page 33 undefined on input line 96.
+
+
+LaTeX Warning: Citation 'nelson. figure here too?' on page 33 undefined on inpu
+t line 96.
+
+
+LaTeX Warning: Citation 'figure here of nodes and then network' on page 33 unde
+fined on input line 100.
+
+
+LaTeX Warning: Citation 'bowker_star' on page 33 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'walker' on page 33 undefined on input line 108.
+
+[33]
+
+LaTeX Warning: Citation 'nelson' on page 34 undefined on input line 112.
+
+
+Overfull \hbox (0.52765pt too wide) in paragraph at lines 112--113
+[]\T1/cmr/m/n/12 The link is for-ever as-so-ci-ated with (and per-haps plagued 
+by) the foot-note. Theodor
+ []
+
+[34]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [36]
 [37]
-Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [38]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+LaTeX Warning: Citation 'upworthy -- check this date' on page 38 undefined on i
+nput line 136.
 
- [39]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+[38] [39]
+Underfull \vbox (badness 1675) has occurred while \output is active []
 
  [40]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[41]
+Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [41]
-[42]) [43]
+ [42])
+[43]
 \openout2 = `chaps/chap2.aux'.
 
  (./chaps/chap2.tex [44
@@ -544,34 +605,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 1.
-
-Overfull \hbox (12.75423pt too wide) in paragraph at lines 7--8
-\T1/cmr/m/n/12 The word “archive” brings to mind a stuffy room full of old 
-books and manuscripts,
- []
-
 [45] [46]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
  [47]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [48]
-[49] [50]
-Underfull \vbox (badness 5652) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
- [52]
-[53]
-Overfull \hbox (10.14247pt too wide) in paragraph at lines 66--67
+ [49]
+Overfull \hbox (10.14247pt too wide) in paragraph at lines 38--39
 []\T1/cmr/m/n/12 Chambers’ use of Heads and Com-mon Places fol-lowed Phillipp
  Melanchthon’s
  []
 
 
-Overfull \hbox (10.58885pt too wide) in paragraph at lines 68--69
+Overfull \hbox (10.58885pt too wide) in paragraph at lines 40--41
 []\T1/cmr/m/n/12 The Cy-clopae-dia was an an-ces-tor to Diderot’s cel-e-brate
 d En-cy-clopédie (Diderot
  []
@@ -579,113 +629,107 @@ d En-cy-clopédie (Diderot
 
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [54]
-[55]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]
-[57]
+ [50]
+[51]
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [58]
-Overfull \hbox (6.89871pt too wide) in paragraph at lines 104--105
+ [52]
+[53]
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+ [54]
+Overfull \hbox (6.89871pt too wide) in paragraph at lines 76--77
 \T1/cmr/m/n/12 Unlike Otlet’s ra-di-ated li-brary, or Nel-son’s Xanadu, Van
 -nevar Bush’s memex
  []
 
-[59]
+[55]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [60]
-Overfull \hbox (1.55984pt too wide) in paragraph at lines 120--121
+ [56]
+Overfull \hbox (1.55984pt too wide) in paragraph at lines 92--93
 []\T1/cmr/m/n/12 Another lim-i-ta-tion of the memex, of-fered by Be-linda Bar-n
 et, is that “Bush’s
  []
 
-[61] [62]
+[57] [58]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [63]
-[64]
+ [59]
+[60]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [65]
-[66]) [67]
+ [61]
+[62]) [63]
 \openout2 = `chaps/chap3.aux'.
 
- (./chaps/chap3.tex [68
+ (./chaps/chap3.tex [64
 
 
 
 ]
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 1.
-[69] [70]
+[65] [66]
 Overfull \hbox (4.73953pt too wide) in paragraph at lines 23--24
 \T1/cmr/m/n/12 While many tra-di-tional me-dia pub-li-ca-tions are rec-og-niz-i
 ng the po-ten-tial role of archives
  []
 
-[71] [72] [73]
+[67] [68] [69]
 
-LaTeX Warning: Citation 'bbc_leetaru' on page 74 undefined on input line 57.
+LaTeX Warning: Citation 'bbc_leetaru' on page 70 undefined on input line 57.
 
-[74]
+[70]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
+ [71]
+[72] [73] [74]
+
+LaTeX Warning: Citation 'rosen_2008' on page 75 undefined on input line 109.
+
+
+LaTeX Warning: Citation 'rosen_2010' on page 75 undefined on input line 113.
+
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
  [75]
-[76] [77] [78]
+[76]
 
-LaTeX Warning: Citation 'rosen_2008' on page 79 undefined on input line 109.
+LaTeX Warning: Citation 'nyt_vox_melding' on page 77 undefined on input line 14
+2.
 
-
-LaTeX Warning: Citation 'rosen_2010' on page 79 undefined on input line 113.
-
-
+[77] [78]
 Underfull \vbox (badness 1072) has occurred while \output is active []
 
  [79]
 [80]
-
-LaTeX Warning: Citation 'nyt_vox_melding' on page 81 undefined on input line 14
-2.
-
-[81] [82]
 Underfull \vbox (badness 1072) has occurred while \output is active []
 
- [83]
-[84]
-Underfull \vbox (badness 1072) has occurred while \output is active []
+ [81]
+[82]
 
- [85]
-[86]
-
-LaTeX Warning: Citation 'catutto_semiotic_dynamics' on page 87 undefined on inp
+LaTeX Warning: Citation 'catutto_semiotic_dynamics' on page 83 undefined on inp
 ut line 208.
 
-[87] [88] [89]
-! Misplaced alignment tab character &.
-l.234 ...ing their archives. The New York Times R&
-                                                  D lab recently released a ...
-
-? 
-[90]) [91]
+[83] [84] [85] [86]) [87]
 \openout2 = `chaps/chap4.aux'.
 
- (./chaps/chap4.tex [92
+ (./chaps/chap4.tex [88
 
 
 
 ]
 Chapter 5.
 Package biblatex Info: Resetting trackers on input line 1.
-[93]) [94]
+[89]) [90]
 \openout2 = `chaps/conc.aux'.
 
  (./chaps/conc.tex
 Chapter 6.
 Package biblatex Info: Resetting trackers on input line 1.
-) [95
+) [91
 
 
 
@@ -714,11 +758,11 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  7554 strings out of 493117
  132146 string characters out of 6135433
- 628292 words of memory out of 5000000
+ 626677 words of memory out of 5000000
  10855 multiletter control sequences out of 15000+600000
  17249 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,7n,37p,1983b,1319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,7n,37p,1696b,1319s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></u
@@ -733,10 +777,10 @@ ve/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive
 /2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/201
 4/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on thesis.pdf (95 pages, 437699 bytes).
+Output written on thesis.pdf (91 pages, 433674 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
+ 357 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

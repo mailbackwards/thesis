@@ -2045,19 +2045,34 @@
     <bcf:citekey order="7">nelson_one_liners</bcf:citekey>
     <bcf:citekey order="8">jenkins</bcf:citekey>
     <bcf:citekey order="9">searls</bcf:citekey>
-    <bcf:citekey order="10">add figures here; one concentric-circle view</bcf:citekey>
-    <bcf:citekey order="10">one more concrete view showing a specific sample webpage</bcf:citekey>
+    <bcf:citekey order="10">add figures here; one abstract concentric-circle view</bcf:citekey>
+    <bcf:citekey order="10">one concrete view with a sample webpage</bcf:citekey>
     <bcf:citekey order="11">kopytoff</bcf:citekey>
-    <bcf:citekey order="12">lanier</bcf:citekey>
-    <bcf:citekey order="13">kopytoff</bcf:citekey>
-    <bcf:citekey order="14">bowker_star</bcf:citekey>
-    <bcf:citekey order="15">star_ethnography_of_infrastructure</bcf:citekey>
-    <bcf:citekey order="16">latour</bcf:citekey>
-    <bcf:citekey order="19">bbc_leetaru</bcf:citekey>
-    <bcf:citekey order="21">rosen_2008</bcf:citekey>
-    <bcf:citekey order="22">rosen_2010</bcf:citekey>
-    <bcf:citekey order="24">nyt_vox_melding</bcf:citekey>
-    <bcf:citekey order="28">catutto_semiotic_dynamics</bcf:citekey>
+    <bcf:citekey order="12">kopytoff</bcf:citekey>
+    <bcf:citekey order="13">bowker_star</bcf:citekey>
+    <bcf:citekey order="14">berners-lee</bcf:citekey>
+    <bcf:citekey order="15">figure here with detailed annotations of a single URL</bcf:citekey>
+    <bcf:citekey order="16">hargittai</bcf:citekey>
+    <bcf:citekey order="17">chakrabarti</bcf:citekey>
+    <bcf:citekey order="18">err find all this wherever I read it</bcf:citekey>
+    <bcf:citekey order="19">park</bcf:citekey>
+    <bcf:citekey order="19">others</bcf:citekey>
+    <bcf:citekey order="20">find cite for .tv sale</bcf:citekey>
+    <bcf:citekey order="21">helmond</bcf:citekey>
+    <bcf:citekey order="22">berners-lee</bcf:citekey>
+    <bcf:citekey order="22">nelson</bcf:citekey>
+    <bcf:citekey order="23">deleuze</bcf:citekey>
+    <bcf:citekey order="23">nelson. figure here too?</bcf:citekey>
+    <bcf:citekey order="24">figure here of nodes and then network</bcf:citekey>
+    <bcf:citekey order="25">bowker_star</bcf:citekey>
+    <bcf:citekey order="26">walker</bcf:citekey>
+    <bcf:citekey order="27">nelson</bcf:citekey>
+    <bcf:citekey order="28">upworthy -- check this date</bcf:citekey>
+    <bcf:citekey order="31">bbc_leetaru</bcf:citekey>
+    <bcf:citekey order="33">rosen_2008</bcf:citekey>
+    <bcf:citekey order="34">rosen_2010</bcf:citekey>
+    <bcf:citekey order="36">nyt_vox_melding</bcf:citekey>
+    <bcf:citekey order="40">catutto_semiotic_dynamics</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="cms">
   <bcf:sorting>
