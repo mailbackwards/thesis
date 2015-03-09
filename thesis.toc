@@ -1,109 +1,25 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.1}Preface}{10}
+\contentsline {chapter}{\numberline {1}Networking the News}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{13}
+\contentsline {section}{\numberline {1.1}The structure of stories}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}The Stakes}{13}
+\contentsline {subsection}{\numberline {1.1.1}Ontologies and tags}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}BuzzFeed plagiarism incident}{13}
+\contentsline {subsection}{\numberline {1.1.2}From tags to links}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}New York Times Innovation Report}{16}
+\contentsline {subsection}{\numberline {1.1.3}The stages of structure}{17}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.3}Project Xanadu and Newslynx}{17}
+\contentsline {section}{\numberline {1.2}Context in context}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.4}Semantic Web}{18}
+\contentsline {subsection}{\numberline {1.2.1}Paywalls}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Outline of chapters and methods}{18}
+\contentsline {subsection}{\numberline {1.2.2}The Scoop Effect}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}The Size and Shape of Archives}{19}
+\contentsline {subsection}{\numberline {1.2.3}Explainers}{26}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Defining the archive}{20}
+\contentsline {subsection}{\numberline {1.2.4}Vox}{29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}``Thing'' words}{21}
+\contentsline {subsection}{\numberline {1.2.5}News Libraries}{30}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Commencement and commandment}{23}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Containment and connection}{26}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}The social life of content}{30}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Stage one: The URL}{30}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Stage two: The link}{33}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Stage three: The feed, the index}{37}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}Stage four: The archive}{41}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}Postscript: Erasure and afterlife}{43}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}An Intertwingled History of Linking}{45}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}The three themes}{45}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Spatialization}{46}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}The dimensions of memory}{46}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}The linked encyclopedia}{49}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Paul Otlet and the Radiated Library}{51}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Intersubjectivity}{53}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}From personal memory to collective history}{53}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Vannevar Bush's Memex}{55}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Encyclopedism}{58}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}The endless archive}{58}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Ted Nelson and Xanadu}{60}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Conclusion}{62}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Networking the News}{65}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Publishers and the archive}{66}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Paywalls}{67}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}The stages of news archives}{69}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Context in context}{73}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}The Scoop Effect}{73}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Explainers}{74}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Vox}{77}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.4}News Libraries}{78}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}The structure of stories}{80}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Ontologies and tags}{82}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Linked tags}{84}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Promising starts}{86}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.4}Next steps}{87}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Linking the News}{89}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.5}From tags to links}{89}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Mapping Links}{90}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Legacy media and links}{90}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Digital media and links}{90}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Honing in a couple topics (``controversies'')}{90}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Automated NER and linked data potential}{90}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Conclusion}{91}
+\contentsline {subsection}{\numberline {1.2.6}Promising starts}{32}

@@ -1,2 +1,19 @@
-[0] 554906f9.pm:318> INFO - This is Biber 1.8
-[0] 554906f9.pm:321> INFO - Logfile is 'thesis.blg'
+[0] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:321> INFO - Logfile is 'thesis.blg'
+[81] biber-darwin:275> INFO - === Mon Mar  9, 2015, 19:01:24
+[81] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[162] Biber.pm:630> INFO - Found 44 citekeys in bib section 0
+[184] Biber.pm:3053> INFO - Processing section 0
+[206] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[336] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
+[514] Utils.pm:169> WARN - I didn't find a database entry for 'europeana' (section 0)
+[514] Utils.pm:169> WARN - I didn't find a database entry for 'trove' (section 0)
+[514] Utils.pm:169> WARN - I didn't find a database entry for 'debrouwere_taxonomies_2011' (section 0)
+[624] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'level = 4' with 'level = 2'
+[624] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[624] Biber.pm:2945> INFO - Sorting 'entry' list 'cms' keys
+[625] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[781] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'ascii'
+[781] bbl.pm:483> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[824] bbl.pm:555> INFO - Output to thesis.bbl
+[824] Biber.pm:105> INFO - WARNINGS: 3
