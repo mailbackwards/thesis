@@ -1,19 +1,34 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [1] Config.pm:321> INFO - Logfile is 'thesis.blg'
-[81] biber-darwin:275> INFO - === Mon Mar  9, 2015, 19:01:24
-[81] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[162] Biber.pm:630> INFO - Found 44 citekeys in bib section 0
-[184] Biber.pm:3053> INFO - Processing section 0
-[206] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[336] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
-[514] Utils.pm:169> WARN - I didn't find a database entry for 'europeana' (section 0)
-[514] Utils.pm:169> WARN - I didn't find a database entry for 'trove' (section 0)
-[514] Utils.pm:169> WARN - I didn't find a database entry for 'debrouwere_taxonomies_2011' (section 0)
-[624] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'level = 4' with 'level = 2'
-[624] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[624] Biber.pm:2945> INFO - Sorting 'entry' list 'cms' keys
-[625] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[781] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'ascii'
-[781] bbl.pm:483> INFO - Converting UTF-8 to TeX macros on output to .bbl
-[824] bbl.pm:555> INFO - Output to thesis.bbl
-[824] Biber.pm:105> INFO - WARNINGS: 3
+[93] biber-darwin:275> INFO - === Wed Mar 11, 2015, 18:15:51
+[94] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[186] Biber.pm:630> INFO - Found 130 citekeys in bib section 0
+[207] Biber.pm:3053> INFO - Processing section 0
+[230] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[359] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
+[555] Utils.pm:169> WARN - Couldn't determine Last Name for name "boyd, danah" - ignoring name
+[590] Utils.pm:169> WARN - I didn't find a database entry for 'find cite for this?' (section 0)
+[591] Utils.pm:169> WARN - I didn't find a database entry for '(find cite for this)' (section 0)
+[591] Utils.pm:169> WARN - I didn't find a database entry for 'find upworthy ref' (section 0)
+[591] Utils.pm:169> WARN - I didn't find a database entry for 'http://www.lanl.gov/discover/news-release-archive/2015/January/01.26-scholarly-articles-affected-by-reference-rot.php' (section 0)
+[591] Utils.pm:169> WARN - I didn't find a database entry for 'NewsDiffs; check this figure' (section 0)
+[591] Utils.pm:169> WARN - I didn't find a database entry for 'https://cyber.law.harvard.edu/node/92313' (section 0)
+[592] Utils.pm:169> WARN - I didn't find a database entry for 'gillespie_algorithms_????' (section 0)
+[592] Utils.pm:169> WARN - I didn't find a database entry for 'http://www.lockss.org/' (section 0)
+[592] Utils.pm:169> WARN - I didn't find a database entry for 'lost this cite' (section 0)
+[592] Utils.pm:169> WARN - I didn't find a database entry for 'who is it? burke?' (section 0)
+[592] Utils.pm:169> WARN - I didn't find a database entry for 'Borges ``The Analytical Language of John Wilkins''' (section 0)
+[593] Utils.pm:169> WARN - I didn't find a database entry for '``Company Overview' (section 0)
+[593] Utils.pm:169> WARN - I didn't find a database entry for ''' Google' (section 0)
+[604] Utils.pm:169> WARN - I didn't find a database entry for 'http://google.com/about/company' (section 0)
+[605] Utils.pm:169> WARN - I didn't find a database entry for 'europeana' (section 0)
+[605] Utils.pm:169> WARN - I didn't find a database entry for 'trove' (section 0)
+[605] Utils.pm:169> WARN - I didn't find a database entry for 'debrouwere_taxonomies_2011' (section 0)
+[856] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'level = 4' with 'level = 2'
+[856] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[856] Biber.pm:2945> INFO - Sorting 'entry' list 'cms' keys
+[857] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1335] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'ascii'
+[1335] bbl.pm:483> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[1469] bbl.pm:555> INFO - Output to thesis.bbl
+[1470] Biber.pm:105> INFO - WARNINGS: 18
