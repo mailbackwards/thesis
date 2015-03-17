@@ -1,72 +1,74 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.1}Preface}{9}
+\contentsline {section}{\numberline {0.1}Preface}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{13}
+\contentsline {chapter}{\numberline {1}Introduction}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}The Stakes}{13}
+\contentsline {section}{\numberline {1.1}The Stakes}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}BuzzFeed plagiarism incident}{13}
+\contentsline {subsection}{\numberline {1.1.1}The summer of archives}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}New York Times Innovation Report}{16}
+\contentsline {subsection}{\numberline {1.1.2}The new face of plagiarism}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.3}Project Xanadu and Newslynx}{17}
+\contentsline {subsection}{\numberline {1.1.3}The right to be forgotten}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.4}Semantic Web}{18}
+\contentsline {section}{\numberline {1.2}Outline of chapters and methods}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Outline of chapters and methods}{18}
+\contentsline {chapter}{\numberline {2}The Size and Shape of Archives}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}The Size and Shape of Archives}{19}
+\contentsline {section}{\numberline {2.1}Defining the archive}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Defining the archive}{19}
+\contentsline {subsection}{\numberline {2.1.1}``Thing'' words}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}``Thing'' words}{20}
+\contentsline {subsection}{\numberline {2.1.2}From archive to database}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}From archive to database}{23}
+\contentsline {section}{\numberline {2.2}The social life of content}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}The social life of content}{27}
+\contentsline {subsection}{\numberline {2.2.1}The URL}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}The URL}{31}
+\contentsline {subsection}{\numberline {2.2.2}The link}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}The link}{35}
+\contentsline {subsection}{\numberline {2.2.3}The feed, the index}{28}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}The feed, the index}{40}
+\contentsline {subsection}{\numberline {2.2.4}The archive}{32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}The archive}{44}
+\contentsline {subsection}{\numberline {2.2.5}Erasure and afterlife}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}Erasure and afterlife}{47}
+\contentsline {chapter}{\numberline {3}An Intertwingled History of Linking}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}An Intertwingled History of Linking}{51}
+\contentsline {section}{\numberline {3.1}Spatialization: The Radiated Library}{40}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Spatialization: The Radiated Library}{52}
+\contentsline {subsection}{\numberline {3.1.1}The linked encyclopedia}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}The linked encyclopedia}{56}
+\contentsline {subsection}{\numberline {3.1.2}Paul Otlet and the dimensions of memory}{46}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Paul Otlet and the dimensions of memory}{59}
+\contentsline {section}{\numberline {3.2}Intersubjectivity: The Memex}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Intersubjectivity: The Memex}{61}
+\contentsline {subsection}{\numberline {3.2.1}Vannevar Bush, individual memory, collective history}{51}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Vannevar Bush, individual memory, collective history}{64}
+\contentsline {section}{\numberline {3.3}Encyclopedism: Project Xanadu}{54}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Encyclopedism: Project Xanadu}{67}
+\contentsline {subsection}{\numberline {3.3.1}Ted Nelson's endless archive}{56}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Ted Nelson's endless archive}{69}
+\contentsline {section}{\numberline {3.4}Conclusion}{59}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Conclusion}{72}
+\contentsline {chapter}{\numberline {4}Networking the News}{61}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Networking the News}{75}
+\contentsline {section}{\numberline {4.1}Context in context}{63}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Context in context}{76}
+\contentsline {subsection}{\numberline {4.1.1}The archive drive}{68}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}The structure of stories}{78}
+\contentsline {subsection}{\numberline {4.1.2}Explaining the news}{74}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Atoms of news}{81}
+\contentsline {section}{\numberline {4.2}The size and shape of stories}{80}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}From tags to links}{85}
+\contentsline {subsection}{\numberline {4.2.1}The hypertext newspaper}{82}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Stages of digital history}{90}
+\contentsline {subsection}{\numberline {4.2.2}Atoms of news}{86}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Context in context}{98}
+\contentsline {subsection}{\numberline {4.2.3}From tags to links}{89}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Conclusion}{96}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Tracing the Links}{99}
 \defcounter {refsection}{0}\relax 
@@ -80,4 +82,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.1}News apps}{101}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}HTML5, multimedia, annotation}{101}
+\contentsline {section}{\numberline {6.2}HTML5, multimedia, annotation}{102}

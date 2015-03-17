@@ -23,25 +23,6 @@
 
 \refsection{0}
   \sortlist{entry}{cms}
-    \entry{_limited_2001}{online}{}
-      \field{sortinit}{A}
-      \field{labeltitle}{A Limited Company of Useful Knowledge : Paul Otlet, the International Institute of Bibliography and the Limits of Documentalism}
-      \field{day}{18}
-      \field{month}{05}
-      \field{title}{A Limited Company of Useful Knowledge : Paul Otlet, the International Institute of Bibliography and the Limits of Documentalism}
-      \field{titleaddon}{everything2}
-      \field{urlday}{23}
-      \field{urlmonth}{09}
-      \field{urlyear}{2014}
-      \field{year}{2001}
-      \verb{file}
-      \verb International Institute of Bibliography - Everything2.com:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/K6HFI5QF/index.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://everything2.com/index.pl?node_id=1053046
-      \endverb
-      \keyw{otlet}
-    \endentry
     \entry{abel_pleasures_2013}{article}{}
       \name{labelname}{1}{}{%
         {{hash=3bd444debc652ea972c4fa9842a52e86}{Abel}{A\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
@@ -77,181 +58,69 @@
       \endverb
       \keyw{digital libraries,{DIGITIZATION} of archival materials,film exhibition in the 1910s,history,Internet database search portals,methodology,{MOTION} picture industry,newspaper pages and columns in the mid-1910s,{ONLINE} databases,{RESEARCH},researcher location,{UNITED} States,{US} digitized newspapers}
     \endentry
-    \entry{abelson_hyper-compensation:_2014}{online}{}
-      \name{labelname}{3}{}{%
-        {{hash=7d48e2cef257953dd8817691753c8c42}{Abelson}{A\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=b0272f96a2e79a502ac1e1fc2688e9fd}{Debrouwere}{D\bibinitperiod}{Stijn}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=0bfb8a06326ad39534f2184b7066fa09}{Keller}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+    \entry{achenbach_journalism_2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=be013527ef5cb3d9c16aafec03141b50}{Achenbach}{A\bibinitperiod}{Joel}{J\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{3}{}{%
-        {{hash=7d48e2cef257953dd8817691753c8c42}{Abelson}{A\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=b0272f96a2e79a502ac1e1fc2688e9fd}{Debrouwere}{D\bibinitperiod}{Stijn}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=0bfb8a06326ad39534f2184b7066fa09}{Keller}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      \name{author}{1}{}{%
+        {{hash=be013527ef5cb3d9c16aafec03141b50}{Achenbach}{A\bibinitperiod}{Joel}{J\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{2a68ba7e55a5cbc8b8d80a066f8dfa07}
-      \strng{fullhash}{2a68ba7e55a5cbc8b8d80a066f8dfa07}
+      \strng{namehash}{be013527ef5cb3d9c16aafec03141b50}
+      \strng{fullhash}{be013527ef5cb3d9c16aafec03141b50}
       \field{sortinit}{A}
-      \field{labeltitle}{Hyper-compensation: Ted Nelson and the impact of journalism}
-      \field{day}{06}
-      \field{month}{08}
-      \field{title}{Hyper-compensation: Ted Nelson and the impact of journalism}
-      \field{titleaddon}{Tow Center for Digital Journalism}
-      \field{urlday}{06}
-      \field{urlmonth}{08}
+      \field{labeltitle}{Journalism is Aggregation}
+      \field{day}{09}
+      \field{journaltitle}{Washington Post}
+      \field{month}{04}
+      \field{title}{Journalism is Aggregation}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
       \field{urlyear}{2014}
       \field{year}{2014}
       \verb{file}
-      \verb Hyper-compensation\: Ted Nelson and the impact of journalism | Tow Center for Digital Journalism:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/635PISXQ/hyper-compensation-ted-nelson-and-the-impact-of-journalism.html:text/html
+      \verb Journalism is aggregation:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Z9QITMG6/journalism-is-aggregation.html:text/html
       \endverb
       \verb{url}
-      \verb http://towcenter.org/blog/hyper-compensation-ted-nelson-and-the-impact-of-journalism/
+      \verb http://www.washingtonpost.com/blogs/achenblog/wp/2014/04/09/journalism-is-aggregation/
       \endverb
-      \keyw{xanadu}
     \endentry
-    \entry{arbesman_half-life_2012}{book}{}
+    \entry{anderson_what_2013}{article}{}
       \name{labelname}{1}{}{%
-        {{hash=7d54bd56c0cdf499b0630ba270539754}{Arbesman}{A\bibinitperiod}{Samuel}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bd29ba22ac2d9b9f2555ec2649e8d0a3}{Anderson}{A\bibinitperiod}{C.\bibnamedelimi W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=7d54bd56c0cdf499b0630ba270539754}{Arbesman}{A\bibinitperiod}{Samuel}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bd29ba22ac2d9b9f2555ec2649e8d0a3}{Anderson}{A\bibinitperiod}{C.\bibnamedelimi W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
       }
-      \list{publisher}{1}{%
-        {Current Hardcover}%
-      }
-      \strng{namehash}{7d54bd56c0cdf499b0630ba270539754}
-      \strng{fullhash}{7d54bd56c0cdf499b0630ba270539754}
+      \strng{namehash}{bd29ba22ac2d9b9f2555ec2649e8d0a3}
+      \strng{fullhash}{bd29ba22ac2d9b9f2555ec2649e8d0a3}
       \field{sortinit}{A}
-      \field{labeltitle}{The Half-life of Facts}
-      \field{abstract}{New insights from the science of science \x{00a0} Facts change all the time. Smoking has gone from doctor recommended to deadly. We used to thin...}
-      \field{day}{27}
-      \field{month}{09}
-      \field{pagetotal}{256}
-      \field{title}{The Half-life of Facts}
-      \field{urlday}{22}
-      \field{urlmonth}{04}
-      \field{urlyear}{2014}
-      \field{year}{2012}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/43HFP455/13588433-the-half-life-of-facts.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.goodreads.com/work/best_book/19175842-the-half-life-of-facts-why-everything-we-know-has-an-expiration-date
-      \endverb
-    \endentry
-    \entry{atwood_xanadu_2009}{online}{}
-      \name{labelname}{1}{}{%
-        {{hash=672cf6561f27247e38f56754f51c7e31}{Atwood}{A\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=672cf6561f27247e38f56754f51c7e31}{Atwood}{A\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{672cf6561f27247e38f56754f51c7e31}
-      \strng{fullhash}{672cf6561f27247e38f56754f51c7e31}
-      \field{sortinit}{A}
-      \field{labeltitle}{The Xanadu Dream}
-      \field{day}{12}
-      \field{month}{10}
-      \field{title}{The Xanadu Dream}
-      \field{titleaddon}{Coding Horror}
-      \field{urlday}{06}
-      \field{urlmonth}{06}
-      \field{urlyear}{2014}
-      \field{year}{2009}
-      \verb{file}
-      \verb The Xanadu Dream:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QGR7GTXC/the-xanadu-dream.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://blog.codinghorror.com/the-xanadu-dream/
-      \endverb
-      \keyw{xanadu}
-    \endentry
-    \entry{barnet_memory_2013}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Anthem Press}%
-      }
-      \strng{namehash}{f4d61a4e643d118a5ba5d135666670a5}
-      \strng{fullhash}{f4d61a4e643d118a5ba5d135666670a5}
-      \field{sortinit}{B}
-      \field{labeltitle}{Memory Machines}
-      \field{day}{15}
-      \field{isbn}{0857280600}
-      \field{month}{07}
-      \field{shorttitle}{Memory Machines}
-      \field{title}{Memory Machines: The Evolution of Hypertext}
+      \field{labeltitle}{What aggregators do}
+      \field{abstract}{This article analyzes expertise in the digital age through an ethnography of an increasingly valorized form of newswork {$\textendash$} {$\textquoteleft$}serious, old fashioned reporting{$\textquoteright$} {$\textendash$} and its purported occupational opposite, news aggregation. The article begins with a content analysis of the 4 March 2010 Federal Communications Commission workshop in which journalists tried to draw a sharp boundary between reporting and aggregation. In the second section the article explores the actual hybridized practices of journalistic aggregation. The empirical investigation serves as a scaffolding on which to build a theory of digital expertise that sees the nature and struggle over that expertise as networked properties. Expertise, according to the argument advanced in the final section, is neither a fixed property that can be {$\textquoteleft$}claimed{$\textquoteright$}, nor is it simply the inevitable outcome of a clear occupational struggle over a particular jurisdiction. Specifically, the networks examined here coalesce around different conceptions of {$\textquoteleft$}what counts{$\textquoteright$} as a valid form of journalistic evidence under conditions of digitization.}
+      \field{day}{01}
+      \field{issn}{1464-8849, 1741-3001}
+      \field{journaltitle}{Journalism}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{8}
+      \field{shortjournal}{Journalism}
+      \field{shorttitle}{What aggregators do}
+      \field{title}{What aggregators do: Towards a networked concept of journalistic expertise in the digital age}
+      \field{urlday}{21}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{14}
       \field{year}{2013}
-      \keyw{memex,otlet,xanadu}
-    \endentry
-    \entry{barnet_pack-rat_2001}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{f4d61a4e643d118a5ba5d135666670a5}
-      \strng{fullhash}{f4d61a4e643d118a5ba5d135666670a5}
-      \field{sortinit}{B}
-      \field{labeltitle}{Pack-rat or Amnesiac?}
-      \field{abstract}{Focuses on the relation between technology, writing and memory. Role of writing as a supplement to the mind; Nature of the psyche as a writing space; Relationship of hypertext to writing; Intelligence amplification and thinking networks.}
-      \field{issn}{10304312}
-      \field{journaltitle}{Continuum: Journal of Media \& Cultural Studies}
-      \field{month}{07}
-      \field{number}{2}
-      \field{shortjournal}{Continuum: Journal of Media \& Cultural Studies}
-      \field{shorttitle}{Pack-rat or Amnesiac?}
-      \field{title}{Pack-rat or Amnesiac? Memory, the archive and the birth of the Internet}
-      \field{urlday}{10}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{15}
-      \field{year}{2001}
-      \field{pages}{217\bibrangedash 231}
+      \field{pages}{1008\bibrangedash 1023}
       \verb{doi}
-      \verb 10.1080/10304310120059164
+      \verb 10.1177/1464884913492460
       \endverb
       \verb{file}
-      \verb Pack-rat or Amnesiac_ Memory, the archive and the birth of the Internet.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/JFPCXSXZ/Pack-rat or Amnesiac_ Memory, the archive and the birth of the Internet.pdf:application/pdf
+      \verb 407757.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/5RIQCH5M/407757.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QD7PJ9VK/1008.html:text/html
       \endverb
       \verb{url}
-      \verb http://search.ebscohost.com/login.aspx?direct=true&db=ufh&AN=4645639&site=ehost-live
+      \verb http://jou.sagepub.com/content/14/8/1008
       \endverb
-      \keyw{archive,memory,{TECHNOLOGY} -- Psychological aspects,{WRITING}}
-    \endentry
-    \entry{barnet_technical_2008}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{f4d61a4e643d118a5ba5d135666670a5}
-      \strng{fullhash}{f4d61a4e643d118a5ba5d135666670a5}
-      \field{sortinit}{B}
-      \field{labeltitle}{The Technical Evolution of Vannevar Bush{$\textquoteright$}s Memex}
-      \field{journaltitle}{Digital Humanities Quarterly}
-      \field{number}{1}
-      \field{title}{The Technical Evolution of Vannevar Bush{$\textquoteright$}s Memex}
-      \field{urlday}{16}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{2}
-      \field{year}{2008}
-      \verb{file}
-      \verb DHQ_ Digital Humanities Quarterly_ The Technical Evolution of Vannevar Bush{$\textquoteright$}s Memex.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NKIP6U3C/DHQ_ Digital Humanities Quarterly_ The Technical Evolution of Vannevar Bush{$\textquoteright$}s Memex.pdf:application/pdf;DHQ Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WK3C33K5/000015.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.digitalhumanities.org/dhq/vol/2/1/000015/000015.html
-      \endverb
-      \keyw{memex}
+      \keyw{actor-network theory,aggregation,expertise,reporting,sociology of news}
     \endentry
     \entry{barthes_rhetoric_1978}{incollection}{}
       \name{labelname}{1}{}{%
@@ -305,151 +174,33 @@
       \verb http://blogs.lse.ac.uk/polis/2010/03/15/editorial-diversity-quality-networked-journalism/
       \endverb
     \endentry
-    \entry{berners-lee_weaving_2000}{book}{}
+    \entry{bennett_lindsay_1969}{article}{}
       \name{labelname}{1}{}{%
-        {{hash=d469e0df304c98f67b55d087ea6187a1}{Berners-Lee}{B\bibinithyphendelim L\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1d241a5180665fb6fc17765f53ef14c9}{Bennett}{B\bibinitperiod}{Charles\bibnamedelima G.}{C\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=d469e0df304c98f67b55d087ea6187a1}{Berners-Lee}{B\bibinithyphendelim L\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1d241a5180665fb6fc17765f53ef14c9}{Bennett}{B\bibinitperiod}{Charles\bibnamedelima G.}{C\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
       }
-      \list{publisher}{1}{%
-        {HarperBusiness}%
-      }
-      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{namehash}{1d241a5180665fb6fc17765f53ef14c9}
+      \strng{fullhash}{1d241a5180665fb6fc17765f53ef14c9}
       \field{sortinit}{B}
-      \field{labeltitle}{Weaving the Web}
-      \field{day}{07}
-      \field{isbn}{006251587X}
-      \field{month}{11}
-      \field{shorttitle}{Weaving the Web}
-      \field{title}{Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web}
-      \field{year}{2000}
-      \keyw{xanadu}
-    \endentry
-    \entry{blair_note_2004}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=9f1687991bc5daa33277f9f64326b015}{Blair}{B\bibinitperiod}{Ann}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9f1687991bc5daa33277f9f64326b015}{Blair}{B\bibinitperiod}{Ann}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9f1687991bc5daa33277f9f64326b015}
-      \strng{fullhash}{9f1687991bc5daa33277f9f64326b015}
-      \field{sortinit}{B}
-      \field{labeltitle}{Note Taking as an Art of Transmission}
-      \field{day}{01}
-      \field{issn}{0093-1896}
-      \field{journaltitle}{Critical Inquiry}
-      \field{month}{09}
-      \field{note}{{ArticleType}: research-article / Full publication date: Autumn 2004 / Copyright {\copyright} 2004 The University of Chicago Press}
-      \field{number}{1}
-      \field{shortjournal}{Critical Inquiry}
-      \field{title}{Note Taking as an Art of Transmission}
-      \field{urlday}{08}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{31}
-      \field{year}{2004}
-      \field{pages}{85\bibrangedash 107}
-      \verb{doi}
-      \verb 10.1086/ci.2004.31.issue-1
-      \endverb
+      \field{labeltitle}{{TimesMachine}}
+      \field{day}{14}
+      \field{journaltitle}{New York Times}
+      \field{month}{03}
+      \field{shorttitle}{{TimesMachine}}
+      \field{title}{Lindsay Warned on School Budget}
+      \field{urlday}{16}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{1969}
+      \field{pages}{1\bibrangessep 27}
       \verb{file}
-      \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SIAXA8FC/Blair - 2004 - Note Taking as an Art of Transmission.pdf:application/pdf
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/8BDM6PW4/90065621.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.jstor.org/stable/10.1086/427303
+      \verb http://timesmachine.nytimes.com/timesmachine/1969/03/14/90065621.html
       \endverb
-      \keyw{card catalogs,note taking,renaissance}
-    \endentry
-    \entry{blair_reading_2003}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=9f1687991bc5daa33277f9f64326b015}{Blair}{B\bibinitperiod}{Ann}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9f1687991bc5daa33277f9f64326b015}{Blair}{B\bibinitperiod}{Ann}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9f1687991bc5daa33277f9f64326b015}
-      \strng{fullhash}{9f1687991bc5daa33277f9f64326b015}
-      \field{sortinit}{B}
-      \field{labeltitle}{Reading Strategies for Coping With Information Overload ca.1550-1700}
-      \field{issn}{1086-3222}
-      \field{journaltitle}{Journal of the History of Ideas}
-      \field{number}{1}
-      \field{title}{Reading Strategies for Coping With Information Overload ca.1550-1700}
-      \field{urlday}{11}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{64}
-      \field{year}{2003}
-      \field{pages}{11\bibrangedash 28}
-      \verb{doi}
-      \verb 10.1353/jhi.2003.0014
-      \endverb
-      \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QM9HVNW8/Reading Strategies for Coping with Informa - Ann Blair.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://muse.jhu.edu/content/crossref/journals/journal_of_the_history_of_ideas/v064/64.1blair.html
-      \endverb
-      \keyw{renaissance}
-    \endentry
-    \entry{blair_too_2010}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=9f1687991bc5daa33277f9f64326b015}{Blair}{B\bibinitperiod}{Ann}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9f1687991bc5daa33277f9f64326b015}{Blair}{B\bibinitperiod}{Ann}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Yale University Press}%
-      }
-      \strng{namehash}{9f1687991bc5daa33277f9f64326b015}
-      \strng{fullhash}{9f1687991bc5daa33277f9f64326b015}
-      \field{sortinit}{B}
-      \field{labeltitle}{Too Much to Know}
-      \field{abstract}{The flood of information brought to us by advancing technology is often accompanied by a distressing sense of "information overload," yet this experience is not unique to modern times. In fact, says Ann M. Blair in this intriguing book, the invention of the printing press and the ensuing abundance of books provoked sixteenth- and seventeenth-century European scholars to register complaints very similar to our own. Blair examines methods of information management in ancient and medieval Europe as well as the Islamic world and China, then focuses particular attention on the organization, composition, and reception of Latin reference books in print in early modern Europe. She explores in detail the sophisticated and sometimes idiosyncratic techniques that scholars and readers developed in an era of new technology and exploding information.}
-      \field{day}{02}
-      \field{isbn}{0300168497}
-      \field{langid}{english}
-      \field{month}{11}
-      \field{pagetotal}{347}
-      \field{shorttitle}{Too Much to Know}
-      \field{title}{Too Much to Know: Managing Scholarly Information before the Modern Age}
-      \field{year}{2010}
-      \verb{file}
-      \verb [Ann_M._Blair]_Too_Much_to_Know_Managing_Scholarl(BookFi.org).epub:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/2NDG7T4Z/[Ann_M._Blair]_Too_Much_to_Know_Managing_Scholarl(BookFi.org).epub:application/epub+zip
-      \endverb
-      \keyw{History / Modern / General,Literary Criticism / Books \& Reading,renaissance}
-    \endentry
-    \entry{borges_collected_1999}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=55c46750cf7ab3664d78a35aff495868}{Borges}{B\bibinitperiod}{Jorge\bibnamedelima Luis}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=55c46750cf7ab3664d78a35aff495868}{Borges}{B\bibinitperiod}{Jorge\bibnamedelima Luis}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{translator}{1}{}{%
-        {{hash=b555839fa2d85c70f5650fe0dd02a6b7}{Hurley}{H\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {New York, N.Y., U.S.A.}%
-      }
-      \list{publisher}{1}{%
-        {Penguin Books}%
-      }
-      \strng{namehash}{55c46750cf7ab3664d78a35aff495868}
-      \strng{fullhash}{55c46750cf7ab3664d78a35aff495868}
-      \field{sortinit}{B}
-      \field{labeltitle}{Collected Fictions}
-      \field{abstract}{The complete fiction of Jorge Luis Borges, whom Nobel Prize winner Mario Vargas Llosa calls {$\textquotedblleft$}the most important Spanish-language writer since Cervantes{$\textquotedblright$}A New York Times Notable {BookThe} International {BestsellerFor} the first time in English, all of the best Latin American writer Jorge Luis Borges{$\textquoteright$}s dazzling fictions are collected in a single volume in brilliant new translations by Andrew Hurley. From his 1935 debut with The Universal History of Iniquity through his immensely influential collections Ficciones and The Aleph, the enigmatic prose poems of The Maker, up to his final work in the 1980s, Shakespeare{$\textquoteright$}s Memory, these enigmatic, elaborate, imaginative inventions display Borges{$\textquoteright$}s talent for turning fiction on its head by playing with form and genre and toying with language.For some fifty years, in intriguing and ingenious fictions that reimagined the very form of the short story, Borges returned again and again to his celebrated themes: dreams, duels, labyrinths, mirrors, infinite libraries, the manipulations of chance, gauchos, knife fighters, tigers, and the elusive nature of identity itself. Playfully experimenting with ostensibly subliterary genres, Borges took the detective story and turned it into metaphysics; he took fantasy writing and made it, with its questioning and reinventing of everyday reality, central to the craft of fiction; he took the literary essay and put it to use reviewing wholly imaginary books.Commemorating the 100th anniversary of his birth, this edition at last brings together all of Borges{$\textquoteright$}s magical short stories. Collected Fictions is the definitive one-volume compendium for all those who have long loved Borges, and a superb introduction to the Argentine master{$\textquoteright$}s work for those who have yet to discover him.}
-      \field{day}{01}
-      \field{isbn}{9780140286809}
-      \field{month}{09}
-      \field{pagetotal}{576}
-      \field{title}{Collected Fictions}
-      \field{year}{1999}
     \endentry
     \entry{bowker_sorting_2000}{book}{}
       \name{labelname}{2}{}{%
@@ -481,185 +232,29 @@
       \endverb
       \keyw{classification,general,history}
     \endentry
-    \entry{brin_anatomy_1998}{inproceedings}{}
-      \name{labelname}{2}{}{%
-        {{hash=ade8269d287e9c1531e4a1cbad0b4b82}{Brin}{B\bibinitperiod}{Sergey}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=5ca20489809aaab392f875d6bc785086}{Page}{P\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=ade8269d287e9c1531e4a1cbad0b4b82}{Brin}{B\bibinitperiod}{Sergey}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=5ca20489809aaab392f875d6bc785086}{Page}{P\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Amsterdam, The Netherlands, The Netherlands}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier Science Publishers B. V.}%
-      }
-      \strng{namehash}{67f006a7ae882b83a187215c4e9bdf2f}
-      \strng{fullhash}{67f006a7ae882b83a187215c4e9bdf2f}
-      \field{sortinit}{B}
-      \field{labeltitle}{The Anatomy of a Large-scale Hypertextual Web Search Engine}
-      \field{booktitle}{Proceedings of the Seventh International Conference on World Wide Web 7}
-      \field{series}{{WWW}7}
-      \field{title}{The Anatomy of a Large-scale Hypertextual Web Search Engine}
-      \field{urlday}{12}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{year}{1998}
-      \field{pages}{107\bibrangedash 117}
-      \verb{file}
-      \verb brin_page.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ZBU7MNKX/brin_page.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://dl.acm.org/citation.cfm?id=297805.297827
-      \endverb
-      \keyw{Google,information retrieval,{PageRank},search engines,World Wide Web}
-    \endentry
-    \entry{brown_social_2002}{book}{}
-      \name{labelname}{2}{}{%
-        {{hash=13d8691a53ac69b193367575d822c51e}{Brown}{B\bibinitperiod}{John\bibnamedelima Seely}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=ead3294692a7a762d746415e23c93e45}{Duguid}{D\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=13d8691a53ac69b193367575d822c51e}{Brown}{B\bibinitperiod}{John\bibnamedelima Seely}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=ead3294692a7a762d746415e23c93e45}{Duguid}{D\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Harvard Business Press}%
-      }
-      \strng{namehash}{6faefac95ea9a68afc1f96f299930fc6}
-      \strng{fullhash}{6faefac95ea9a68afc1f96f299930fc6}
-      \field{sortinit}{B}
-      \field{labeltitle}{The Social Life of Information}
-      \field{abstract}{All New Preface by the Authors "Should be read by anyone interested in understanding the future." -The Times Literary Supplement For years pundits have predicted that information technology will obliterate everything-from supermarkets to business organizations to social life itself. But beaten down by info-glut, exasperated by computer crashes, and daunted by the dot com crash, individual users find it hard to get a fix on the true potential of the digital revolution. John Seely Brown and Paul Duguid argue that the gap between digerati hype and end-user gloom is largely due to the "tunnel vision" that information-driven technologies breed. We've become so focused on where we think weoughtto be-a place where technology empowers individuals and obliterates social organizations-that we often fail to see where we're really going.The Social Life of Informationshows us how to look beyond our obsession with information and individuals to include the critical social networks of which these are always a part. {AUTHORBIO}:John Seely Brownis the Chief Innovation Officer of 12 Entrepreneuring and the Chief Scientist of Xerox. He was the director of the Xerox Palo Alto Research Center ({PARC}) for ten years.Paul Duguidis affiliated with Xerox {PARC} and the University of California, Berkeley.}
-      \field{isbn}{9781578517084}
-      \field{langid}{english}
-      \field{pagetotal}{372}
-      \field{title}{The Social Life of Information}
-      \field{year}{2002}
-      \verb{file}
-      \verb [John_Seely_Brown,_Paul_Duguid]_The_Social_Life_of(BookFi.org).epub:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/77FHRRWH/[John_Seely_Brown,_Paul_Duguid]_The_Social_Life_of(BookFi.org).epub:application/epub+zip
-      \endverb
-      \keyw{Business \& Economics / Information Management}
-    \endentry
-    \entry{burke_social_2000}{book}{}
+    \entry{carr_iama_????}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=235914f0720d264853d32e8e015d1d7b}{Burke}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41de47c646b3d281dba3af4bd1b78f7d}{Carr}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=235914f0720d264853d32e8e015d1d7b}{Burke}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41de47c646b3d281dba3af4bd1b78f7d}{Carr}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
       }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {Polity}%
-      }
-      \strng{namehash}{235914f0720d264853d32e8e015d1d7b}
-      \strng{fullhash}{235914f0720d264853d32e8e015d1d7b}
-      \field{sortinit}{B}
-      \field{labeltitle}{A Social History of Knowledge: From Gutenberg to Diderot}
-      \field{isbn}{978-07-4562-485-3}
-      \field{month}{12}
-      \field{note}{In this book Peter Burke adopts a socio-cultural approach to examine the changes in the organization of knowledge in Europe from the invention of printing to the publication of the French Encyclopedie. The book opens with an assessment of different sociologies of knowledge from Mannheim to Foucault and beyond, and goes on to discuss intellectuals as a social group and the social institutions (especially universities and academies) which encouraged or discouraged intellectual innovation. Then, in a series of separate chapters, Burke explores the geography, anthropology, politics and economics of knowledge, focusing on the role of cities, academies, states and markets in the process of gathering, classifying, spreading and sometimes concealing information. The final chapters deal with knowledge from the point of view of the individual reader, listener, viewer or consumer, including the problem of the reliability of knowledge discussed so vigorously in the seventeenth century. One of the most original features of this book is its discussion of knowledges in the plural. It centres on printed knowledge, especially academic knowledge, but it treats the history of the knowledge 'explosion' which followed the invention of printing and the discovery of the world beyond Europe as a process of exchange or negotiation between different knowledges, such as male and female, theoretical and practical, high-status and low-status, and European and non-European. Although written primarily as a contribution to social or socio-cultural history, this book will also be of interest to historians of science, sociologists, anthropologists, geographers and others in another age of information explosion. \#\#\# Review 'In Peter Burke's scholarly hands the notion of a social history of knowledge sheds its philosophical provocation and becomes judicious, prudent and historically rich. A beautifully written and accessible exercise in historical synthesis.' *Steven Shapin, author of "A Social History of Truth: Civility and Science in Seventeenth-Century England" (1994) and Professor of Sociology, University of California, San Diego* 'Peter Burke is an exceptional historian: a polyglot, at home in a dozen languages; an intellectual, who is well versed in theoretical developments adjacent to history; a superb expositor, with the capacity to distil his findings in unpretentious and limpidly accessible prose; and an author of unflagging vitality, whose prolific studies in the cultural history of early modern Europe and in modern historiography constitute a formidable *oeuvre *... He has succeeded in producing a balanced, judicious and highly stimulating work of synthesis. His book will be an indispensable starting point for years to come.' *Keith Thomas, History Today* 'Burke has made a significant contribution to cultural history ... [He] shows how knowledge was a form of exchange and how it became what we would recognize it as today. Burke's achievement in A Social History of Knowledge is to remind us that people in the past did not view knowledge in the same way as we do today.' *History* \#\#\# From the Back Cover In this book Peter Burke adopts a socio-cultural approach to examine the changes in the organization of knowledge in Europe from the invention of printing to the publication of the French *Encyclop\'{e}die*. The book opens with an assessment of different sociologies of knowledge from Mannheim to Foucault and beyond, and goes on to discuss intellectuals as a social group and the social institutions (especially universities and academies) which encouraged or discouraged intellectual innovation. Then, in a series of separate chapters, Burke explores the geography, anthropology, politics and economics of knowledge, focusing on the role of cities, academies, states and markets in the process of gathering, classifying, spreading and sometimes concealing information. The final chapters deal with knowledge from the point of view of the individual reader, listener, viewer or consumer, including the problem of the reliability of knowledge discussed so vigorously in the seventeenth century. One of the most original features of this book is its discussion of knowledges in the plural. It centres on printed knowledge, especially academic knowledge, but it treats the history of the knowledge 'explosion' which followed the invention of printing and the discovery of the world beyond Europe as a process of exchange or negotiation between different knowledges, such as male and female, theoretical and practical, high-status and low-status, and European and non-European. Although written primarily as a contribution to social or socio-cultural history, this book will also be of interest to historians of science, sociologists, anthropologists, geographers and others in another age of information explosion.}
-      \field{title}{A Social History of Knowledge: From Gutenberg to Diderot}
-      \field{year}{2000}
-      \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/BF4HVHPF/A Social History of Knowledge_ From Gutenb - Peter Burke.pdf:application/pdf
-      \endverb
-      \keyw{archives,info overload,renaissance}
-    \endentry
-    \entry{bush_as_1945}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=b312ced1256a24388308f96ba6268d03}{Bush}{B\bibinitperiod}{Vannevar}{V\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=b312ced1256a24388308f96ba6268d03}{Bush}{B\bibinitperiod}{Vannevar}{V\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{b312ced1256a24388308f96ba6268d03}
-      \strng{fullhash}{b312ced1256a24388308f96ba6268d03}
-      \field{sortinit}{B}
-      \field{labeltitle}{As We May Think}
-      \field{issn}{1072-7825}
-      \field{journaltitle}{The Atlantic}
-      \field{month}{07}
-      \field{title}{As We May Think}
-      \field{urlday}{11}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{year}{1945}
-      \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SZWVJGZG/As We May Think - Vannevar Bush.pdf:application/pdf;The Atlantic Print View:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SZWUZK9B/303881.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
-      \endverb
-      \keyw{memex}
-    \endentry
-    \entry{bush_memex_1991}{incollection}{}
-      \name{labelname}{1}{}{%
-        {{hash=b312ced1256a24388308f96ba6268d03}{Bush}{B\bibinitperiod}{Vannevar}{V\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=b312ced1256a24388308f96ba6268d03}{Bush}{B\bibinitperiod}{Vannevar}{V\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=ce11bf105bb1cbe5d549e9d97121b457}{Nyce}{N\bibinitperiod}{James\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=63d81932e664209db1682d653d659991}{Kahn}{K\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {San Diego, {CA}, {USA}}%
-      }
-      \list{publisher}{1}{%
-        {Academic Press Professional, Inc.}%
-      }
-      \strng{namehash}{b312ced1256a24388308f96ba6268d03}
-      \strng{fullhash}{b312ced1256a24388308f96ba6268d03}
-      \field{sortinit}{B}
-      \field{labeltitle}{Memex Revisited}
-      \field{booktitle}{From Memex to Hypertext: Vannevar Bush and the Mind's Machine}
-      \field{isbn}{0-12-523270-5}
-      \field{title}{Memex Revisited}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{1991}
-      \field{pages}{197\bibrangedash 216}
-      \verb{file}
-      \verb bush_memex_revisited.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SNH4X34W/bush_memex_revisited.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://dl.acm.org/citation.cfm?id=132180.132193
-      \endverb
-    \endentry
-    \entry{carlson_upworthy_2014}{online}{}
-      \name{labelname}{1}{}{%
-        {{hash=f4a693bad9c52aea2265e70b2ed3e0ad}{Carlson}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=f4a693bad9c52aea2265e70b2ed3e0ad}{Carlson}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{f4a693bad9c52aea2265e70b2ed3e0ad}
-      \strng{fullhash}{f4a693bad9c52aea2265e70b2ed3e0ad}
+      \strng{namehash}{41de47c646b3d281dba3af4bd1b78f7d}
+      \strng{fullhash}{41de47c646b3d281dba3af4bd1b78f7d}
       \field{sortinit}{C}
-      \field{labeltitle}{Upworthy Traffic Gets Crushed}
-      \field{abstract}{In November, viral-content-for-a-cause site...}
-      \field{day}{10}
-      \field{month}{02}
-      \field{title}{Upworthy Traffic Gets Crushed}
-      \field{titleaddon}{Business Insider}
-      \field{urlday}{12}
-      \field{urlmonth}{02}
-      \field{urlyear}{2014}
-      \field{year}{2014}
+      \field{labeltitle}{{IAmA} columnist and reporter on media and culture for the New York Times.}
+      \field{abstract}{Gawker and others were all about that, but more and more I see them doing original work, some of which I end up citing. And more and more at our...}
+      \field{title}{{IAmA} columnist and reporter on media and culture for the New York Times.}
+      \field{titleaddon}{reddit}
+      \field{urlday}{15}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
       \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/V4D3P2BJ/facebook-changed-how-the-news-feed-works--and-huge-website-upworthy-suddenly-shrank-in-half-201.html:text/html
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/KTCEHBHJ/c7wt5ko.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.businessinsider.com/facebook-changed-how-the-news-feed-works--and-huge-website-upworthy-suddenly-shrank-in-half-2014-2
+      \verb http://www.reddit.com/r/IAmA/comments/16k598/iama_columnist_and_reporter_on_media_and_culture/c7wt5ko
       \endverb
-      \keyw{Facebook,Nicholas Carlson,Upworthy,{ViralNova}}
     \endentry
     \entry{cattuto_semiotic_2007}{article}{}
       \name{labelname}{3}{}{%
@@ -728,150 +323,69 @@
       \endverb
       \keyw{Computers / Databases / General,Computers / Web / General}
     \endentry
-    \entry{chambers_cyclopaedia_1728}{book}{}
+    \entry{coddington_defending_2014}{article}{}
       \name{labelname}{1}{}{%
-        {{hash=628c86d9c301a69dd69ec5e5c03c8bd9}{Chambers}{C\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=20e4eab4214506f21184ac304afea46f}{Coddington}{C\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=628c86d9c301a69dd69ec5e5c03c8bd9}{Chambers}{C\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=20e4eab4214506f21184ac304afea46f}{Coddington}{C\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{628c86d9c301a69dd69ec5e5c03c8bd9}
-      \strng{fullhash}{628c86d9c301a69dd69ec5e5c03c8bd9}
+      \strng{namehash}{20e4eab4214506f21184ac304afea46f}
+      \strng{fullhash}{20e4eab4214506f21184ac304afea46f}
       \field{sortinit}{C}
-      \field{labeltitle}{Cyclop{\ae}dia, or an Universal Dictionary of Arts and Sciences}
-      \field{title}{Cyclop{\ae}dia, or an Universal Dictionary of Arts and Sciences}
-      \field{urlday}{18}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{1728}
-      \verb{file}
-      \verb histscitech.cyclopaedia01.i0005.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/5ZTQAIGJ/histscitech.cyclopaedia01.i0005.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://uwdc.library.wisc.edu/collections/HistSciTech/Cyclopaedia
-      \endverb
-      \keyw{renaissance}
-    \endentry
-    \entry{chan_planetary:_2013}{online}{}
-      \name{labelname}{1}{}{%
-        {{hash=6a34968c6c6780a05ad7d9c1ce1c3eef}{Chan}{C\bibinitperiod}{Seb}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=6a34968c6c6780a05ad7d9c1ce1c3eef}{Chan}{C\bibinitperiod}{Seb}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{6a34968c6c6780a05ad7d9c1ce1c3eef}
-      \strng{fullhash}{6a34968c6c6780a05ad7d9c1ce1c3eef}
-      \field{sortinit}{C}
-      \field{labeltitle}{Planetary}
-      \field{abstract}{"This is a field in which one does one{$\textquoteright$}s work and it will be obsolete within 10 years." {$\textendash$} Steve Jobs, 1994 Cooper-Hewitt has just acquired its first piece of code. Although the collection has objects that are the end result of algorithmic processes, notably Patrick Jouin's 3D printed chair, Solid C2, this is the first time that code, itself, has been collected. Almost all contemporary design practice involves digital processes{$\textemdash$}from the ubiquitous Adobe design software to {CAD} packages used by product designers and architects, to the simple day-to-day office management and accounting software{$\textemdash$}it would be difficult to find a designer who lives entirely 'off the grid.{$\textquoteright$} Despite this, design museums have been slow to start to add software to their permanent collections. Some of this reticence to collect digital objects stems from deep uncertainties as to how to preserve and present such objects to future visitors and future scholars.}
-      \field{day}{26}
-      \field{month}{08}
-      \field{shorttitle}{Planetary}
-      \field{title}{Planetary: collecting and preserving code as a living object}
-      \field{titleaddon}{Cooper Hewitt Smithsonian Design Museum}
-      \field{urlday}{09}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
-      \field{year}{2013}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/T7WJPQRI/planetary-collecting-and-preserving-code-as-a-living-object.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.cooperhewitt.org/2013/08/26/planetary-collecting-and-preserving-code-as-a-living-object/
-      \endverb
-    \endentry
-    \entry{chung_inferring_2013}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=d31b51140635b76a857e8da05e4d1784}{Chung}{C\bibinitperiod}{Chung\bibnamedelima Joo}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=f86dbd59fe0cf72b7c6421127124d01a}{Barnett}{B\bibinitperiod}{George\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=9f5c63a953d9e8c7c7c81cb1e3cee757}{Park}{P\bibinitperiod}{Han\bibnamedelima Woo}{H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=d31b51140635b76a857e8da05e4d1784}{Chung}{C\bibinitperiod}{Chung\bibnamedelima Joo}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=f86dbd59fe0cf72b7c6421127124d01a}{Barnett}{B\bibinitperiod}{George\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=9f5c63a953d9e8c7c7c81cb1e3cee757}{Park}{P\bibinitperiod}{Han\bibnamedelima Woo}{H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9b8a807d35f34110f5385e5214bca283}
-      \strng{fullhash}{9b8a807d35f34110f5385e5214bca283}
-      \field{sortinit}{C}
-      \field{labeltitle}{Inferring international dotcom Web communities by link and content analysis}
-      \field{abstract}{This study investigates international hyperlink networks and their content in terms of the .com domain, the most ubiquitous generic top-level domain, to examine the kinds of global websites that are linked to .com, what the linked contents are, and who are dealing with the hyperlinks. The results show the hyperlink network of websites with outgoing hyperlinks to .com websites indicates the dominant centrality of the U.S., whereas that of those with incoming hyperlinks from .com websites illustrates a core{$\textendash$}periphery structure centered about the U.S. and other superpowers. The most globalized topics covered by websites linked to .com websites are business, the Internet and computers, recreation and entertainment, and personal interests. Many of the websites with outgoing hyperlinks to .com websites use only one non-English language. The predominant use of English by websites with outgoing hyperlinks to .com websites demonstrates the centrality of countries using English as the mother language in hyperlinked societies on the Web. The implications of these findings and further research are discussed.}
-      \field{day}{03}
-      \field{issn}{0033-5177, 1573-7845}
-      \field{journaltitle}{Quality \& Quantity}
+      \field{labeltitle}{Defending judgment and context in {$\textquoteleft$}original reporting{$\textquoteright$}}
+      \field{abstract}{With professional journalism facing vigorous competition over its jurisdiction in information production from online aggregators and networked forms of journalism, this article examines how journalists publicly construct their own reporting work in opposition to a networked alternative and argue to the public for its value. It does so through a qualitative analysis of discourse from mainstream journalistic sources regarding the document-leaking group {WikiLeaks}, identifying distinctions journalists made to differentiate their work and its professional value from that of {WikiLeaks}. The analysis suggests that journalists assign less importance to the sociocultural conventions and objects of evidence that have traditionally constituted professional newswork {$\textendash$} documents, interviews, and eyewitness observation {$\textendash$} and more significance instead to the less materially bound practices of providing context, judgment, and narrative power. In doing so, journalists cast themselves fundamentally as sense-makers rather than information-gatherers during an era in which information gathering has been widely networked.}
+      \field{day}{01}
+      \field{issn}{1464-8849, 1741-3001}
+      \field{journaltitle}{Journalism}
       \field{langid}{english}
-      \field{month}{04}
-      \field{number}{2}
-      \field{shortjournal}{Qual Quant}
-      \field{title}{Inferring international dotcom Web communities by link and content analysis}
+      \field{month}{08}
+      \field{number}{6}
+      \field{shortjournal}{Journalism}
+      \field{shorttitle}{Defending judgment and context in {$\textquoteleft$}original reporting{$\textquoteright$}}
+      \field{title}{Defending judgment and context in {$\textquoteleft$}original reporting{$\textquoteright$}: Journalists{$\textquoteright$} construction of newswork in a networked age}
       \field{urlday}{20}
       \field{urlmonth}{02}
       \field{urlyear}{2015}
-      \field{volume}{48}
-      \field{year}{2013}
-      \field{pages}{1117\bibrangedash 1133}
-      \verb{doi}
-      \verb 10.1007/s11135-013-9847-z
-      \endverb
-      \verb{file}
-      \verb inferring_communities.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/D3EJIJII/inferring_communities.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ZMUFKZRQ/s11135-013-9847-z.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/article/10.1007/s11135-013-9847-z
-      \endverb
-      \keyw{Cultural convergence theory,Cultural divergence theory,Dotcom domain,International hyperlink,Methodology of the Social Sciences,Social Sciences,general,Telecommunication network,Website content}
-    \endentry
-    \entry{constine_google_2013}{online}{}
-      \name{labelname}{1}{}{%
-        {{hash=fbfb9b6fd65a141a55b0a694fca0106f}{Constine}{C\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=fbfb9b6fd65a141a55b0a694fca0106f}{Constine}{C\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{fbfb9b6fd65a141a55b0a694fca0106f}
-      \strng{fullhash}{fbfb9b6fd65a141a55b0a694fca0106f}
-      \field{sortinit}{C}
-      \field{labeltitle}{Google Destroys Rap Genius' Search Rankings As Punishment for {SEO} Spam, but Resolution in Progress}
-      \field{day}{25}
-      \field{month}{12}
-      \field{title}{Google Destroys Rap Genius' Search Rankings As Punishment for {SEO} Spam, but Resolution in Progress}
-      \field{titleaddon}{{TechCrunch}}
-      \field{year}{2013}
-      \verb{url}
-      \verb http://techcrunch.com/2013/12/25/google-rap-genius/
-      \endverb
-    \endentry
-    \entry{boyd_critical_2012}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=04ddd15bdbd9d7c4572af614218b9b79}{Crawford}{C\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=04ddd15bdbd9d7c4572af614218b9b79}{Crawford}{C\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{04ddd15bdbd9d7c4572af614218b9b79}
-      \strng{fullhash}{04ddd15bdbd9d7c4572af614218b9b79}
-      \field{sortinit}{C}
-      \field{labeltitle}{{CRITICAL} {QUESTIONS} {FOR} {BIG} {DATA}}
-      \field{issn}{1369-118X, 1468-4462}
-      \field{journaltitle}{Information, Communication \& Society}
-      \field{month}{06}
-      \field{number}{5}
-      \field{shorttitle}{{CRITICAL} {QUESTIONS} {FOR} {BIG} {DATA}}
-      \field{title}{Critical Questions for Big Data: Provocations for a cultural, technological, and scholarly phenomenon}
-      \field{urlday}{05}
-      \field{urlmonth}{09}
-      \field{urlyear}{2013}
       \field{volume}{15}
-      \field{year}{2012}
-      \field{pages}{662\bibrangedash 679}
+      \field{year}{2014}
+      \field{pages}{678\bibrangedash 695}
       \verb{doi}
-      \verb 10.1080/1369118X.2012.678878
+      \verb 10.1177/1464884913501244
       \endverb
       \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WCQBNUHR/Critical Questions for Big Data - Danah Boyd.pdf:application/pdf
+      \verb 407603.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/CM8Q84SG/407603.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QDZS9CZG/678.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878
+      \verb http://jou.sagepub.com.libproxy.mit.edu/content/15/6/678
+      \endverb
+      \keyw{Context,narrative,news judgment,newswork,original reporting,{WikiLeaks}}
+    \endentry
+    \entry{coscarelli_ezra_2014}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=059565a887a813289c08d638a6064948}{Coscarelli}{C\bibinitperiod}{Joe}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=059565a887a813289c08d638a6064948}{Coscarelli}{C\bibinitperiod}{Joe}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{059565a887a813289c08d638a6064948}
+      \strng{fullhash}{059565a887a813289c08d638a6064948}
+      \field{sortinit}{C}
+      \field{labeltitle}{Ezra Klein on Vox{$\textquoteright$}s Launch, Media Condescension, and Competing With Wikipedia}
+      \field{abstract}{The wonk king speaks in-depth about his new explanatory journalism site.}
+      \field{day}{11}
+      \field{month}{04}
+      \field{title}{Ezra Klein on Vox{$\textquoteright$}s Launch, Media Condescension, and Competing With Wikipedia}
+      \field{titleaddon}{New York Magazine}
+      \field{urlday}{29}
+      \field{urlmonth}{01}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/FRWRAD3N/ezra-klein-interview-vox-launch.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://nymag.com/daily/intelligencer/2014/04/ezra-klein-interview-vox-launch.html
       \endverb
     \endentry
     \entry{dahlgren_media_1996}{article}{}
@@ -964,109 +478,33 @@
       \verb http://stdout.be/2010/04/07/tags-dont-cut-it/
       \endverb
     \endentry
-    \entry{deleuze_thousand_1987}{book}{}
-      \name{labelname}{2}{}{%
-        {{hash=01e8c4f353d8f2d65f9f05ee78f50c8c}{Deleuze}{D\bibinitperiod}{Gilles}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=09227aa5125b82e2704c6045d0494a01}{Guattari}{G\bibinitperiod}{F\'{e}lix}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=01e8c4f353d8f2d65f9f05ee78f50c8c}{Deleuze}{D\bibinitperiod}{Gilles}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=09227aa5125b82e2704c6045d0494a01}{Guattari}{G\bibinitperiod}{F\'{e}lix}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Minneapolis}%
-      }
-      \list{publisher}{1}{%
-        {University of Minnesota Press}%
-      }
-      \strng{namehash}{b9f3f28d00d4532cd9d12160a6b70b90}
-      \strng{fullhash}{b9f3f28d00d4532cd9d12160a6b70b90}
-      \field{sortinit}{D}
-      \field{labeltitle}{A thousand plateaus}
-      \field{isbn}{0816614016 9780816614011 0816614024 9780816614028 048511335X 9780485113358 0485120585 9780485120585}
-      \field{shorttitle}{A thousand plateaus}
-      \field{title}{A thousand plateaus: capitalism and schizophrenia}
-      \field{year}{1987}
-      \verb{file}
-      \verb A-Thousand-Plateaus.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IFU6B7AK/A-Thousand-Plateaus.pdf:application/pdf
-      \endverb
-    \endentry
-    \entry{derrida_archive_1995}{article}{}
+    \entry{debrouwere_taxonomies_2011}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=242846d1ccb2b57cf3de51fc5c3411d5}{Derrida}{D\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b0272f96a2e79a502ac1e1fc2688e9fd}{Debrouwere}{D\bibinitperiod}{Stijn}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=242846d1ccb2b57cf3de51fc5c3411d5}{Derrida}{D\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b0272f96a2e79a502ac1e1fc2688e9fd}{Debrouwere}{D\bibinitperiod}{Stijn}{S\bibinitperiod}{}{}{}{}}%
       }
-      \name{translator}{1}{}{%
-        {{hash=b0d83826196e115f6010a88989908073}{Prenowitz}{P\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{242846d1ccb2b57cf3de51fc5c3411d5}
-      \strng{fullhash}{242846d1ccb2b57cf3de51fc5c3411d5}
+      \strng{namehash}{b0272f96a2e79a502ac1e1fc2688e9fd}
+      \strng{fullhash}{b0272f96a2e79a502ac1e1fc2688e9fd}
       \field{sortinit}{D}
-      \field{labeltitle}{Archive Fever}
-      \field{day}{01}
-      \field{issn}{0300-7162}
-      \field{journaltitle}{Diacritics}
-      \field{month}{07}
-      \field{note}{{ArticleType}: research-article / Full publication date: Summer, 1995 / Copyright {\copyright} 1995 The Johns Hopkins University Press}
-      \field{number}{2}
-      \field{shortjournal}{Diacritics}
-      \field{shorttitle}{Archive Fever}
-      \field{title}{Archive Fever: A Freudian Impression}
-      \field{urlday}{02}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{25}
-      \field{year}{1995}
-      \field{pages}{9\bibrangedash 63}
-      \verb{doi}
-      \verb 10.2307/465144
-      \endverb
-      \verb{file}
-      \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IS4N68MV/Derrida and Prenowitz - 1995 - Archive Fever A Freudian Impression.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/465144
-      \endverb
-    \endentry
-    \entry{deuze_web_2003}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=842092dc77e7ecf3ac0d5ca4aef38738}{Deuze}{D\bibinitperiod}{{MArk}}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=842092dc77e7ecf3ac0d5ca4aef38738}{Deuze}{D\bibinitperiod}{{MArk}}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{842092dc77e7ecf3ac0d5ca4aef38738}
-      \strng{fullhash}{842092dc77e7ecf3ac0d5ca4aef38738}
-      \field{sortinit}{D}
-      \field{labeltitle}{The Web and its Journalisms}
-      \field{abstract}{The internet - specifically its graphic interface, the world wide web - has had a major impact on all levels of (information) societies throughout the world. Specifically for journalism as it is practiced online, we can now identify the effect that this has had on the profession and its culture(s). This article defines four particular types of online journalism and discusses them in terms of key characteristics of online publishing - hypertextuality, interactivity, multimediality - and considers the current and potential impacts that these online journalisms can have on the ways in which one can define journalism as it functions in elective democracies worldwide. It is argued that the application of particular online characteristics not only has consequences for the type of journalism produced on the web, but that these characteristics and online journalisms indeed connect to broader and more profound changes and redefinitions of professional journalism and its (news) culture as a whole.}
-      \field{day}{01}
-      \field{issn}{1461-4448, 1461-7315}
-      \field{journaltitle}{New Media \& Society}
-      \field{langid}{english}
-      \field{month}{06}
-      \field{number}{2}
-      \field{shortjournal}{New Media Society}
-      \field{shorttitle}{The Web and its Journalisms}
-      \field{title}{The Web and its Journalisms: Considering the Consequences of Different Types of Newsmedia Online}
-      \field{urlday}{08}
-      \field{urlmonth}{02}
+      \field{labeltitle}{Taxonomies don't matter anymore}
+      \field{day}{20}
+      \field{langid}{american}
+      \field{month}{12}
+      \field{title}{Taxonomies don't matter anymore}
+      \field{titleaddon}{stdout.be}
+      \field{type}{text}
+      \field{urlday}{10}
+      \field{urlmonth}{03}
       \field{urlyear}{2015}
-      \field{volume}{5}
-      \field{year}{2003}
-      \field{pages}{203\bibrangedash 230}
-      \verb{doi}
-      \verb 10.1177/1461444803005002004
-      \endverb
+      \field{year}{2011}
       \verb{file}
-      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/F7P3JP7U/Deuze - 2003 - The Web and its Journalisms Considering the Conse.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Q78BRFDG/203.html:text/html
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/EI22KGBE/taxonomies-dont-matter-anymore.html:text/html
       \endverb
       \verb{url}
-      \verb http://nms.sagepub.com.libproxy.mit.edu/content/5/2/203
+      \verb http://stdout.be/2011/12/19/taxonomies-dont-matter-anymore/
       \endverb
-      \keyw{Internet,journalism,multimedia,news,online journalism}
     \endentry
     \entry{franks_discovering_2012}{patent}{}
       \name{holder}{3}{}{%
@@ -1093,193 +531,84 @@
       \verb http://www.google.com/patents/US8108417
       \endverb
     \endentry
-    \entry{drucker_humanities_2011}{article}{}
+    \entry{draper_46_2014}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=1cfaef74f23558d563be1ef6740cc386}{Drucker}{D\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d8d2f07025195f344b53867da31620da}{Draper}{D\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=1cfaef74f23558d563be1ef6740cc386}{Drucker}{D\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d8d2f07025195f344b53867da31620da}{Draper}{D\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{1cfaef74f23558d563be1ef6740cc386}
-      \strng{fullhash}{1cfaef74f23558d563be1ef6740cc386}
+      \strng{namehash}{d8d2f07025195f344b53867da31620da}
+      \strng{fullhash}{d8d2f07025195f344b53867da31620da}
       \field{sortinit}{D}
-      \field{labeltitle}{Humanities Approaches to Graphical Display}
-      \field{journaltitle}{Digital Humanities Quarterly}
-      \field{number}{1}
-      \field{title}{Humanities Approaches to Graphical Display}
-      \field{urlday}{24}
-      \field{urlmonth}{10}
-      \field{urlyear}{2013}
-      \field{volume}{5}
-      \field{year}{2011}
+      \field{labeltitle}{46 Times Vox Totally Fucked Up A Story}
+      \field{abstract}{If you work in the media, you're going to get things wrong. Accuracy and timeliness are in conflict, and when you're dealing with vast amounts of information, accuracy will sometimes suffer. No one is happy about this, but it's how it is, and this is the tradeoff you implicitly accept when reading news. If you are intolerant of error, prepare to wait months for deeply-researched pieces (which of course carry no guarantee of error-free reporting). Deadspin, it should go without saying, is hardly immune from this: here is an apology for a story we completely botched, and here is a post that I personally got 100\% wrong.}
+      \field{day}{30}
+      \field{month}{12}
+      \field{title}{46 Times Vox Totally Fucked Up A Story}
+      \field{titleaddon}{The Concourse}
+      \field{urlday}{15}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{2014}
       \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/33T6W5S9/Humanities Approaches to Graphical Display - Johanna Drucker.pdf:application/pdf
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HJRH2QCH/46-times-vox-totally-fucked-up-a-story-1673835447.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.johannadrucker.com/pdf/hum_app.pdf
+      \verb http://theconcourse.deadspin.com/46-times-vox-totally-fucked-up-a-story-1673835447
       \endverb
     \endentry
-    \entry{foucault_archaeology_1972}{book}{}
+    \entry{gahran_swimming_2008}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=984e5967448051538555a64aac11ed21}{Foucault}{F\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5aa7989c7b876820ebd2470db4dee17c}{Gahran}{G\bibinitperiod}{Amy}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=984e5967448051538555a64aac11ed21}{Foucault}{F\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5aa7989c7b876820ebd2470db4dee17c}{Gahran}{G\bibinitperiod}{Amy}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5aa7989c7b876820ebd2470db4dee17c}
+      \strng{fullhash}{5aa7989c7b876820ebd2470db4dee17c}
+      \field{sortinit}{G}
+      \field{labeltitle}{Swimming Lessons for Journalists}
+      \field{day}{04}
+      \field{month}{07}
+      \field{title}{Swimming Lessons for Journalists}
+      \field{titleaddon}{{PBS} Idea Lab}
+      \field{urlday}{15}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{2008}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/BRABJ4K8/swimming-lessons-for-journalists005.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.pbs.org/idealab/2008/07/swimming-lessons-for-journalists005/
+      \endverb
+    \endentry
+    \entry{gillmor_we_2006}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0dd5244acc2993f0bf887c4f3653927c}{Gillmor}{G\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0dd5244acc2993f0bf887c4f3653927c}{Gillmor}{G\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {London}%
+        {Beijing ; Sebastopol, {CA}}%
       }
       \list{publisher}{1}{%
-        {Tavistock}%
+        {O'Reilly Media}%
       }
-      \strng{namehash}{984e5967448051538555a64aac11ed21}
-      \strng{fullhash}{984e5967448051538555a64aac11ed21}
-      \field{sortinit}{F}
-      \field{labeltitle}{Archaeology of Knowledge}
-      \field{abstract}{In France, a country that awards its intellectuals the status other countries give their rock stars, Michel Foucault was part of a glittering generation of thinkers, one which also included Sartre, de Beauvoir and Deleuze. One of the great intellectual heroes of the twentieth century, Foucault was a man whose passion and reason were at the service of nearly every progressive cause of his time. From law and order, to mental health, to power and knowledge, he spearheaded public awareness of the dynamics that hold us all in thrall to a few powerful ideologies and interests. Arguably his finest work, Archaeology of Knowledge is a challenging but fantastically rewarding introduction to his ideas.}
-      \field{langid}{english}
-      \field{title}{Archaeology of Knowledge}
-      \field{year}{1972}
-      \verb{file}
-      \verb Foucault_Michel_Archaeology_of_Knowledge.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/JPWCJD38/Foucault_Michel_Archaeology_of_Knowledge.pdf:application/pdf
-      \endverb
-      \keyw{Philosophy / History \& Surveys / General}
-    \endentry
-    \entry{fragoso_understanding_2011}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=50bb9c6a7db10f1b58f49d1c5d7df90e}{Fragoso}{F\bibinitperiod}{Suely}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=50bb9c6a7db10f1b58f49d1c5d7df90e}{Fragoso}{F\bibinitperiod}{Suely}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{50bb9c6a7db10f1b58f49d1c5d7df90e}
-      \strng{fullhash}{50bb9c6a7db10f1b58f49d1c5d7df90e}
-      \field{sortinit}{F}
-      \field{labeltitle}{Understanding links}
-      \field{abstract}{Web Science has favoured macroscopic approaches which have revealed much about the Web's structural patterns. We argue that contextualised knowledge about hyperlinks on the Web has not advanced at the same rate and that complementary intermediate and micro-scale investigations are essential for a better understanding of the motivations, functions and meanings of these links. We present an investigation that attempted to overcome the shortcomings of current theoretical frameworks and methodological techniques. The focus of this article lies in the demonstration of the viability of studying the web at different scales of analysis without loss of coherence guided by the assumption of the Web as media. Results of our quali-quantitative, multi-scale and study of the international connectivity of websites registered in Brazil are presented. At the macro-scale, previous indications of high international connectivity are confirmed. Intermediate (meso) and micro-scale analyses focused on the connectivity between Brazilian and German websites and contradicted the conclusions about the meanings and functions of hyperlinks commonly associated with structural analysis. Links between Brazilian and German websites were shown to derive from a large number of formal and generic links, challenging the prevalent association that large quantities of incoming links are an indication of high relevance.}
-      \field{issn}{1361-4568}
-      \field{journaltitle}{New Review of Hypermedia and Multimedia}
-      \field{number}{2}
-      \field{shorttitle}{Understanding links}
-      \field{title}{Understanding links: Web Science and hyperlink studies at macro, meso and micro-levels}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{17}
-      \field{year}{2011}
-      \field{pages}{163\bibrangedash 198}
-      \verb{doi}
-      \verb 10.1080/13614568.2011.587030
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/I2VN9N34/Fragoso - 2011 - Understanding links Web Science and hyperlink stu.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WNW5FFQD/13614568.2011.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.tandfonline.com/doi/abs/10.1080/13614568.2011.587030
-      \endverb
-    \endentry
-    \entry{freedman_responses_2007}{article}{}
-      \name{labelname}{6}{}{%
-        {{hash=815ebc8c58b62152bd73789255855913}{Freedman}{F\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=e6f4a94df2abfd0f2003f7412a903eee}{Hayles}{H\bibinitperiod}{N.\bibnamedelimi Katherine}{N\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-        {{hash=1b165be79a28a41c73323d71d73743d3}{{McGann}}{M\bibinitperiod}{Jerome}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=13a4b03f10d7b2ba4db03552d60f2451}{{McGill}}{M\bibinitperiod}{Meredith\bibnamedelima L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=be8dde3eefca9ef42adbe9b964b85acb}{Stallybrass}{S\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=da2b926620873631ab898bc5c61969d4}{Folsom}{F\bibinitperiod}{Ed}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{6}{}{%
-        {{hash=815ebc8c58b62152bd73789255855913}{Freedman}{F\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=e6f4a94df2abfd0f2003f7412a903eee}{Hayles}{H\bibinitperiod}{N.\bibnamedelimi Katherine}{N\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-        {{hash=1b165be79a28a41c73323d71d73743d3}{{McGann}}{M\bibinitperiod}{Jerome}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=13a4b03f10d7b2ba4db03552d60f2451}{{McGill}}{M\bibinitperiod}{Meredith\bibnamedelima L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=be8dde3eefca9ef42adbe9b964b85acb}{Stallybrass}{S\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=da2b926620873631ab898bc5c61969d4}{Folsom}{F\bibinitperiod}{Ed}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{b6a28958c098752f8520db26fede6ea1}
-      \strng{fullhash}{fce35d66c0817c7697937266344e0d38}
-      \field{sortinit}{F}
-      \field{labeltitle}{Responses to Ed Folsom?}
-      \field{issn}{0030-8129}
-      \field{journaltitle}{{PMLA}}
-      \field{month}{10}
-      \field{number}{5}
-      \field{shorttitle}{Responses to Ed Folsom?}
-      \field{title}{Responses to Ed Folsom's "Database as Genre: The Epic Transformation of Archives"}
-      \field{urlday}{02}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{122}
-      \field{year}{2007}
-      \field{pages}{1580\bibrangedash 1612}
-      \verb{doi}
-      \verb 10.1632/pmla.2007.122.5.1580
-      \endverb
-      \verb{file}
-      \verb folsom_replies.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/2PSU2EWN/folsom_replies.pdf:application/pdf;MLA Journals\: PMLA, Vol. 122, No. 5, October 2007 (pp. 1580-1612):/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/P475NTCD/pmla.2007.122.5.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.mlajournals.org/doi/abs/10.1632/pmla.2007.122.5.1580
-      \endverb
-    \endentry
-    \entry{gillespie_politics_2010}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=ce36d4965a00d6cc54683c17c8f2101e}{Gillespie}{G\bibinitperiod}{Tarleton}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=ce36d4965a00d6cc54683c17c8f2101e}{Gillespie}{G\bibinitperiod}{Tarleton}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{ce36d4965a00d6cc54683c17c8f2101e}
-      \strng{fullhash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{namehash}{0dd5244acc2993f0bf887c4f3653927c}
+      \strng{fullhash}{0dd5244acc2993f0bf887c4f3653927c}
       \field{sortinit}{G}
-      \field{labeltitle}{The Politics of {$\textquoteleft$}Platforms{$\textquoteright$}}
-      \field{abstract}{Online content providers such as {YouTube} are carefully positioning themselves to users, clients, advertisers and policymakers, making strategic claims for what they do and do not do, and how their place in the information landscape should be understood. One term in particular, {$\textquoteleft$}platform{$\textquoteright$}, reveals the contours of this discursive work. The term has been deployed in both their populist appeals and their marketing pitches, sometimes as technical {$\textquoteleft$}platforms{$\textquoteright$}, sometimes as {$\textquoteleft$}platforms{$\textquoteright$} from which to speak, sometimes as {$\textquoteleft$}platforms{$\textquoteright$} of opportunity. Whatever tensions exist in serving all of these constituencies are carefully elided. The term also fits their efforts to shape information policy, where they seek protection for facilitating user expression, yet also seek limited liability for what those users say. As these providers become the curators of public discourse, we must examine the roles they aim to play, and the terms by which they hope to be judged.}
-      \field{day}{01}
-      \field{issn}{1461-4448, 1461-7315}
-      \field{journaltitle}{New Media \& Society}
-      \field{langid}{english}
-      \field{month}{05}
-      \field{number}{3}
-      \field{shortjournal}{New Media Society}
-      \field{title}{The Politics of {$\textquoteleft$}Platforms{$\textquoteright$}}
-      \field{urlday}{22}
-      \field{urlmonth}{04}
-      \field{urlyear}{2014}
-      \field{volume}{12}
-      \field{year}{2010}
-      \field{pages}{347\bibrangedash 364}
-      \verb{doi}
-      \verb 10.1177/1461444809342738
-      \endverb
-      \verb{file}
-      \verb New Media Society-2010-Gillespie-347-64.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/DQ9TKFW7/New Media Society-2010-Gillespie-347-64.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/6C2J64MU/347.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://nms.sagepub.com/content/12/3/347
-      \endverb
-      \keyw{discourse,distribution,Google,platform,policy,video,{YouTube}}
-    \endentry
-    \entry{gitelman_response_2013}{inproceedings}{}
-      \name{labelname}{1}{}{%
-        {{hash=625c39e315d467ce774d452aab8ff87c}{Gitelman}{G\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=625c39e315d467ce774d452aab8ff87c}{Gitelman}{G\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {New York, {NY}}%
-      }
-      \strng{namehash}{625c39e315d467ce774d452aab8ff87c}
-      \strng{fullhash}{625c39e315d467ce774d452aab8ff87c}
-      \field{sortinit}{G}
-      \field{labeltitle}{Response to "Algorithms, Performativity and Governability"}
-      \field{day}{05}
-      \field{eventtitle}{Governing Algorithms}
-      \field{month}{05}
-      \field{title}{Response to "Algorithms, Performativity and Governability"}
-      \field{year}{2013}
-      \verb{file}
-      \verb gitelman-response.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/8G254IIP/gitelman-response.pdf:application/pdf
-      \endverb
+      \field{labeltitle}{We the Media}
+      \field{abstract}{"We the Media, has become something of a bible for those who believe the online medium will change journalism for the better." -Financial Times Big Media has lost its monopoly on the news, thanks to the Internet. Now that it's possible to publish in real time to a worldwide audience, a new breed of grassroots journalists are taking the news into their own hands. Armed with laptops, cell phones, and digital cameras, these readers-turned-reporters are transforming the news from a lecture into a conversation. In We the Media, nationally acclaimed newspaper columnist and blogger Dan Gillmor tells the story of this emerging phenomenon and sheds light on this deep shift in how we make--and consume--the news. Gillmor shows how anyone can produce the news, using personal blogs, Internet chat groups, email, and a host of other tools. He sends a wake-up call tonewsmakers-politicians, business executives, celebrities-and the marketers and {PR} flacks who promote them. He explains how to successfully play by the rules of this new era and shift from "control" to "engagement." And he makes a strong case to his fell journalists that, in the face of a plethora of Internet-fueled news vehicles, they must change or become irrelevant. Journalism in the 21st century will be fundamentally different from the Big Media oligarchy that prevails today. We the Media casts light on the future of journalism, and invites us all to be part of it. Dan Gillmor is founder of Grassroots Media Inc., a project aimed at enabling grassroots journalism and expanding its reach. The company's first launch is Bayosphere.com, a site "of, by, and for the San Francisco Bay Area." Dan Gillmor is the founder of the Center for Citizen Media, a project to enable and expand reach of grassroots media. From 1994-2004, Gillmor was a columnist at the San Jose Mercury News, Silicon Valley's daily newspaper, and wrote a weblog for {SiliconValley}.com. He joined the Mercury News after six years with the Detroit Free Press. Before that, he was with the Kansas City Times and several newspapers in Vermont. He has won or shared in several regional and national journalism awards. Before becoming a journalist he played music professionally for seven years.}
+      \field{day}{31}
+      \field{isbn}{9780596102272}
+      \field{month}{01}
+      \field{pagetotal}{336}
+      \field{shorttitle}{We the Media}
+      \field{title}{We the Media: Grassroots Journalism By the People, For the People}
+      \field{year}{2006}
     \endentry
     \entry{gooding_exploring_2014}{unpublished}{}
       \name{labelname}{1}{}{%
@@ -1307,39 +636,6 @@
       \verb{url}
       \verb http://www.slideshare.net/pmgooding/dh2014-pres
       \endverb
-    \endentry
-    \entry{graells-garrido_data_2013}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=2f528c448e0c43ce79bc30cfc3b6712b}{Graells-Garrido}{G\bibinithyphendelim G\bibinitperiod}{Eduardo}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=0b95e9202a90df308ce5420a514c041c}{Lalmas}{L\bibinitperiod}{Mounia}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=27e76c15e2056efb784afbddc01f48fa}{Quercia}{Q\bibinitperiod}{Daniele}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2f528c448e0c43ce79bc30cfc3b6712b}{Graells-Garrido}{G\bibinithyphendelim G\bibinitperiod}{Eduardo}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=0b95e9202a90df308ce5420a514c041c}{Lalmas}{L\bibinitperiod}{Mounia}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=27e76c15e2056efb784afbddc01f48fa}{Quercia}{Q\bibinitperiod}{Daniele}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{338e9a0d21fd842339e69ec63210fa3e}
-      \strng{fullhash}{338e9a0d21fd842339e69ec63210fa3e}
-      \field{sortinit}{G}
-      \field{labeltitle}{Data Portraits}
-      \field{abstract}{Social networks allow people to connect with each other and have conversations on a wide variety of topics. However, users tend to connect with like-minded people and read agreeable information, a behavior that leads to group polarization. Motivated by this scenario, we study how to take advantage of partial homophily to suggest agreeable content to users authored by people with opposite views on sensitive issues. We introduce a paradigm to present a data portrait of users, in which their characterizing topics are visualized and their corresponding tweets are displayed using an organic design. Among their tweets we inject recommended tweets from other people considering their views on sensitive issues in addition to topical relevance, indirectly motivating connections between dissimilar people. To evaluate our approach, we present a case study on Twitter about a sensitive topic in Chile, where we estimate user stances for regular people and find intermediary topics. We then evaluated our design in a user study. We found that recommending topically relevant content from authors with opposite views in a baseline interface had a negative emotional effect. We saw that our organic visualization design reverts that effect. We also observed significant individual differences linked to evaluation of recommendations. Our results suggest that organic visualization may revert the negative effects of providing potentially sensitive content.}
-      \field{day}{19}
-      \field{journaltitle}{{arXiv}:1311.4658 [cs]}
-      \field{month}{11}
-      \field{shorttitle}{Data Portraits}
-      \field{title}{Data Portraits: Connecting People of Opposing Views}
-      \field{urlday}{03}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{year}{2013}
-      \verb{file}
-      \verb 1311.4658 PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/2CBTIUWE/Graells-Garrido et al. - 2013 - Data Portraits Connecting People of Opposing View.pdf:application/pdf;arXiv.org Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/AM3FWEIN/1311.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/1311.4658
-      \endverb
-      \keyw{Computer Science - Human-Computer Interaction,Computer Science - Social and Information Networks,H.5.2}
     \endentry
     \entry{greenwood_digital_2011}{article}{}
       \name{labelname}{1}{}{%
@@ -1372,67 +668,6 @@
       \endverb
       \keyw{{AUDIOVISUAL} archives,{ELECTRONIC} records,{INFORMATION} resources management,information retrieval,{NEWSPAPER} archives,{NEWSPAPERS} -- Research,{PHOTOGRAPHS} as information resources,{RESEARCH}}
     \endentry
-    \entry{halasz_reflections_1988}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=be74549fa21cc5d302fcbc0976092740}{Halasz}{H\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=be74549fa21cc5d302fcbc0976092740}{Halasz}{H\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{be74549fa21cc5d302fcbc0976092740}
-      \strng{fullhash}{be74549fa21cc5d302fcbc0976092740}
-      \field{sortinit}{H}
-      \field{labeltitle}{Reflections on {NoteCards}}
-      \field{abstract}{{NoteCards}, developed by a team at Xerox {PARC}, was designed to support the task of transforming a chaotic collection of unrelated thoughts into an integrated, orderly interpretation of ideas and their interconnections. This article presents {NoteCards} as a foil against which to explore some of the major limitations of the current generation of hypermedia systems, and characterizes the issues that must be addressed in designing the next generation systems.}
-      \field{issn}{0001-0782}
-      \field{journaltitle}{Commun. {ACM}}
-      \field{month}{07}
-      \field{number}{7}
-      \field{shorttitle}{Reflections on {NoteCards}}
-      \field{title}{Reflections on {NoteCards}: Seven Issues for the Next Generation of Hypermedia Systems}
-      \field{urlday}{08}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{31}
-      \field{year}{1988}
-      \field{pages}{836\bibrangedash 852}
-      \verb{doi}
-      \verb 10.1145/48511.48514
-      \endverb
-      \verb{file}
-      \verb halasz-seven-issues.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/W78M3HV5/halasz-seven-issues.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://doi.acm.org/10.1145/48511.48514
-      \endverb
-      \keyw{xanadu}
-    \endentry
-    \entry{hargittai_role_2008}{incollection}{}
-      \name{labelname}{1}{}{%
-        {{hash=ba89e16c1bfb9a81da5ba2d47b968cb6}{Hargittai}{H\bibinitperiod}{Eszter}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=ba89e16c1bfb9a81da5ba2d47b968cb6}{Hargittai}{H\bibinitperiod}{Eszter}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Ann Arbor, {MI}}%
-      }
-      \list{publisher}{1}{%
-        {University of Michigan Press}%
-      }
-      \strng{namehash}{ba89e16c1bfb9a81da5ba2d47b968cb6}
-      \strng{fullhash}{ba89e16c1bfb9a81da5ba2d47b968cb6}
-      \field{sortinit}{H}
-      \field{labeltitle}{The Hyperlinked Society}
-      \field{booktitle}{The Hyperlinked Society}
-      \field{day}{23}
-      \field{isbn}{04-7207-043-6}
-      \field{month}{05}
-      \field{shorttitle}{The Hyperlinked Society}
-      \field{title}{The Role of Expertise in Navigating Links of Influence}
-      \field{year}{2008}
-      \field{pages}{85\bibrangedash 103}
-    \endentry
     \entry{helmond_exploring_2013}{unpublished}{}
       \name{labelname}{1}{}{%
         {{hash=5e1469e6ffdcf534c3cfaeefdfdbcf45}{Helmond}{H\bibinitperiod}{Anne}{A\bibinitperiod}{}{}{}{}}%
@@ -1460,122 +695,41 @@
       \verb http://www.annehelmond.nl/2013/05/07/mit8-talk-exploring-the-boundaries-of-a-website-using-the-internet-archive-to-study-historical-web-ecologies/
       \endverb
     \endentry
-    \entry{helmond_algorithmization_2013}{article}{}
+    \entry{hermida_twittering_2010}{report}{}
       \name{labelname}{1}{}{%
-        {{hash=5e1469e6ffdcf534c3cfaeefdfdbcf45}{Helmond}{H\bibinitperiod}{Anne}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=db51f51d7de67920c5cb7ea356dda9f9}{Hermida}{H\bibinitperiod}{Alfred}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=5e1469e6ffdcf534c3cfaeefdfdbcf45}{Helmond}{H\bibinitperiod}{Anne}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=db51f51d7de67920c5cb7ea356dda9f9}{Hermida}{H\bibinitperiod}{Alfred}{A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{5e1469e6ffdcf534c3cfaeefdfdbcf45}
-      \strng{fullhash}{5e1469e6ffdcf534c3cfaeefdfdbcf45}
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \list{location}{1}{%
+        {Rochester, {NY}}%
+      }
+      \strng{namehash}{db51f51d7de67920c5cb7ea356dda9f9}
+      \strng{fullhash}{db51f51d7de67920c5cb7ea356dda9f9}
       \field{sortinit}{H}
-      \field{labeltitle}{The Algorithmization of the Hyperlink}
-      \field{abstract}{This study looks at the history of the hyperlink from a medium-specific perspective by analyzing the technical reconfiguration of the hyperlink by engines and platforms over time. Hyperlinks may be seen as having different roles belonging to specific periods, including the role of the hyperlink as a unit of navigation, a relationship marker, a reputation indicator and a currency of the web. The question here is how web devices have contributed to constituting these roles and how social media platforms have advanced the hyperlink from a navigational device into a datarich analytical device. By following how hyperlinks have been handled by search engines and social media platforms, and in their turn have adapted to this treatment, this study traces the emergence of new link types and related linking practices. The focus is on the relations between hyperlinks, users, engines and platforms as mediated through software and in particular the process of the algorithmization of the hyperlink through short {URLs} by social media platforms. The important role these platforms play in the automation of hyperlinks through platform features and in the reconfiguration of the link as database call is illustrated in a case study on link sharing on Twitter.}
-      \field{journaltitle}{Computational Culture}
-      \field{month}{11}
-      \field{title}{The Algorithmization of the Hyperlink}
-      \field{volume}{3}
-      \field{year}{2013}
-      \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QBQ24P35/The Algorithmization of the Hyperlink - Anne Helmond.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://computationalculture.net/article/the-algorithmization-of-the-hyperlink
-      \endverb
-      \keyw{hyperlinks}
-    \endentry
-    \entry{hern_worlds_2014}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=cc72326ba462a1906380e3d3e68bf017}{Hern}{H\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=cc72326ba462a1906380e3d3e68bf017}{Hern}{H\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{cc72326ba462a1906380e3d3e68bf017}
-      \strng{fullhash}{cc72326ba462a1906380e3d3e68bf017}
-      \field{sortinit}{H}
-      \field{labeltitle}{World's most delayed software released after 54 years of development}
-      \field{abstract}{Xanadu, which began development in 1960, now has a working release, {OpenXanadu}}
-      \field{day}{06}
-      \field{issn}{0261-3077}
-      \field{journaltitle}{The Guardian}
-      \field{langid}{british}
-      \field{month}{06}
-      \field{title}{World's most delayed software released after 54 years of development}
-      \field{urlday}{08}
-      \field{urlmonth}{09}
-      \field{urlyear}{2014}
-      \field{year}{2014}
-      \verb{file}
-      \verb Guardian Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/6FNZ7KM4/vapourware-software-54-years-xanadu-ted-nelson-chapman.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.theguardian.com/technology/2014/jun/06/vapourware-software-54-years-xanadu-ted-nelson-chapman
-      \endverb
-      \keyw{Computing,Internet,Software,technology,Tim Berners-Lee,xanadu}
-    \endentry
-    \entry{van_de_heuvel_building_2008}{incollection}{}
-      \name{labelname}{1}{}{%
-        {{hash=15968e5f5f3487bd28a712083458a6c3}{Heuvel}{H\bibinitperiod}{Charles}{C\bibinitperiod}{van\bibnamedelima de}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=15968e5f5f3487bd28a712083458a6c3}{Heuvel}{H\bibinitperiod}{Charles}{C\bibinitperiod}{van\bibnamedelima de}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Ashgate Publishing, Ltd.}%
-      }
-      \strng{namehash}{15968e5f5f3487bd28a712083458a6c3}
-      \strng{fullhash}{15968e5f5f3487bd28a712083458a6c3}
-      \field{sortinit}{H}
-      \field{labeltitle}{Building Society, Constructing Knowledge, Weaving the Web}
-      \field{booktitle}{European Modernism and the Information Society}
-      \field{day}{15}
-      \field{isbn}{978-0754649281}
-      \field{month}{02}
-      \field{shorttitle}{Building Society, Constructing Knowledge, Weaving the Web}
-      \field{title}{Building Society, Constructing Knowledge, Weaving the Web: Otlet{$\textquoteright$}s Visualizations of a Global Information Society and His Concept of a Universal Civilization}
-      \field{year}{2008}
-      \field{pages}{127\bibrangedash 153}
-      \verb{file}
-      \verb building-society-weaving-the-web.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WHGRUB2P/building-society-weaving-the-web.pdf:application/pdf
-      \endverb
-      \keyw{otlet,social construction,xanadu}
-    \endentry
-    \entry{himelboim_international_2010}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=25cab7b977ee157471fa86f2721ce07e}{Himelboim}{H\bibinitperiod}{Itai}{I\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=25cab7b977ee157471fa86f2721ce07e}{Himelboim}{H\bibinitperiod}{Itai}{I\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{25cab7b977ee157471fa86f2721ce07e}
-      \strng{fullhash}{25cab7b977ee157471fa86f2721ce07e}
-      \field{sortinit}{H}
-      \field{labeltitle}{The International Network Structure of News Media}
-      \field{abstract}{This study takes a network approach to examining international communication. Building upon the world system theory and the preferential attachment network theorem, the structure of the international network created by news media is examined. The use of external hyperlinks in 6,298 foreign sries in 20 languages from 223 news Web sites in 73 countries was examined. Findings revealed that information continues to flow from a handful of countries to the rest of the world. News media preferred linking to established information sources, typically in core counties. This study concludes that news media use new technology to replicate old practices.}
-      \field{day}{17}
-      \field{issn}{0883-8151}
-      \field{journaltitle}{Journal of Broadcasting \& Electronic Media}
-      \field{month}{08}
-      \field{number}{3}
-      \field{shorttitle}{The International Network Structure of News Media}
-      \field{title}{The International Network Structure of News Media: An Analysis of Hyperlinks Usage in News Web sites}
-      \field{urlday}{08}
-      \field{urlmonth}{02}
+      \field{labeltitle}{Twittering the News}
+      \field{abstract}{This paper examines new para-journalism forms such as micro-blogging as "awareness systems" that provide journalists with more complex ways of understanding and reporting on the subtleties of public communication. Traditional journalism defines fact as information and quotes from official sources, which have been identified as forming the vast majority of news and information content. This model of news is in flux, however, as new social media technologies such as Twitter facilitate the instant, online dissemination of short fragments of information from a variety of official and unofficial sources. This paper draws from computer science literature to suggest that these broad, asynchronous, lightweight and always-on systems are enabling citizens to maintain a mental model of news and events around them, giving rise to awareness systems that the paper describes as ambient journalism. The emergence of ambient journalism brought about by the use of these new digital delivery systems and evolving communications protocols raises significant research questions for journalism scholars and professionals. This research offers an initial exploration of the impact of awareness systems on journalism norms and practices. It suggests that one of the future directions for journalism may be to develop approaches and systems that help the public negotiate and regulate the flow of awareness information, facilitating the collection and transmission of news.}
+      \field{day}{08}
+      \field{month}{07}
+      \field{number}{{ID} 1732598}
+      \field{shorttitle}{Twittering the News}
+      \field{title}{Twittering the News: The Emergence of Ambient Journalism}
+      \field{type}{{SSRN} Scholarly Paper}
+      \field{urlday}{15}
+      \field{urlmonth}{03}
       \field{urlyear}{2015}
-      \field{volume}{54}
       \field{year}{2010}
-      \field{pages}{373\bibrangedash 390}
-      \verb{doi}
-      \verb 10.1080/08838151.2010.499050
-      \endverb
       \verb{file}
-      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IARTM6XP/Himelboim - 2010 - The International Network Structure of News Media.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/P8AVIZM3/08838151.2010.html:text/html
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/BUPI93M3/papers.html:text/html
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1080/08838151.2010.499050
+      \verb http://papers.ssrn.com/abstract=1732598
       \endverb
+      \keyw{Awareness Systems,Internet,journalism,Micro-Blogging,social media,twitter}
     \endentry
     \entry{holovaty_fundamental_2006}{online}{}
       \name{labelname}{1}{}{%
@@ -1603,30 +757,31 @@
       \verb http://www.holovaty.com/writing/fundamental-change/
       \endverb
     \endentry
-    \entry{holovaty_memory_2008}{online}{}
+    \entry{hu_contextualizing_2010}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=03d81ff11e6142bea4bd60db26b8351a}{Holovaty}{H\bibinitperiod}{Adrian}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=013669666a799008ce9a91d872040709}{Hu}{H\bibinitperiod}{Elise}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=03d81ff11e6142bea4bd60db26b8351a}{Holovaty}{H\bibinitperiod}{Adrian}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=013669666a799008ce9a91d872040709}{Hu}{H\bibinitperiod}{Elise}{E\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{03d81ff11e6142bea4bd60db26b8351a}
-      \strng{fullhash}{03d81ff11e6142bea4bd60db26b8351a}
+      \strng{namehash}{013669666a799008ce9a91d872040709}
+      \strng{fullhash}{013669666a799008ce9a91d872040709}
       \field{sortinit}{H}
-      \field{labeltitle}{In memory of chicagocrime.org}
-      \field{day}{31}
-      \field{month}{01}
-      \field{title}{In memory of chicagocrime.org}
-      \field{titleaddon}{Holovaty.com}
-      \field{urlday}{09}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
-      \field{year}{2008}
+      \field{labeltitle}{Contextualizing Context}
+      \field{abstract}{Some great thinkers in media are leading what I'll call the "context movement", a push toward giving audiences more satisfying, better understanding of the worlds in which they live instead of\x{00a0} simply presenting ephemeral, episodic stories as journalists always have. As the daughter of immigrants, helping provide better entry points for news is near and{$\dots$}}
+      \field{day}{15}
+      \field{month}{03}
+      \field{title}{Contextualizing Context}
+      \field{titleaddon}{Hey Elise}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2014}
+      \field{year}{2010}
       \verb{file}
-      \verb In memory of chicagocrime.org | Holovaty.com:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/KXHSS8UQ/chicagocrime.html:text/html
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/R6F6U9BG/contextualizing-context.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.holovaty.com/writing/chicagocrime.org-tribute/
+      \verb http://www.heyelise.com/2010/03/15/contextualizing-context/
       \endverb
     \endentry
     \entry{_innovation_2014}{report}{}
@@ -1705,6 +860,35 @@
       \verb http://buzzmachine.com/2007/02/22/new-rule-cover-what-you-do-best-link-to-the-rest/
       \endverb
     \endentry
+    \entry{kaufman_vox_2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6e47c3c13af2a085a5187d5f86dff986}{Kaufman}{K\bibinitperiod}{Leslie}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6e47c3c13af2a085a5187d5f86dff986}{Kaufman}{K\bibinitperiod}{Leslie}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6e47c3c13af2a085a5187d5f86dff986}
+      \strng{fullhash}{6e47c3c13af2a085a5187d5f86dff986}
+      \field{sortinit}{K}
+      \field{labeltitle}{Vox Takes Melding of Journalism and Technology to a New Level}
+      \field{abstract}{The new site, led by Ezra Klein, the founder of Wonkblog, features a next-generation content management tool that greatly enhances digital storytelling.}
+      \field{day}{06}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{The New York Times}
+      \field{month}{04}
+      \field{title}{Vox Takes Melding of Journalism and Technology to a New Level}
+      \field{urlday}{29}
+      \field{urlmonth}{01}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{file}
+      \verb New York Times Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/CVCSBDFJ/voxcom-takes-melding-of-journalism-and-technology-to-next-level.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.nytimes.com/2014/04/07/business/media/voxcom-takes-melding-of-journalism-and-technology-to-next-level.html
+      \endverb
+      \keyw{Computers and the Internet,Klein,Ezra,News and News Media,Vox Media Inc}
+    \endentry
     \entry{kelion_millions_2014}{online}{}
       \name{labelname}{1}{}{%
         {{hash=bae8aeb618018dfc75aa251a84c8bdff}{Kelion}{K\bibinitperiod}{Leo}{L\bibinitperiod}{}{}{}{}}%
@@ -1755,79 +939,32 @@
       \verb http://www.theverge.com/2014/1/26/5348212/ezra-klein-vox-is-our-next
       \endverb
     \endentry
-    \entry{appadurai_cultural_1986}{incollection}{}
-      \name{labelname}{1}{}{%
-        {{hash=0406a3761b98dd75b5d44a0e288071f1}{Kopytoff}{K\bibinitperiod}{Igor}{I\bibinitperiod}{}{}{}{}}%
+    \entry{kovach_elements_2001}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=0d656ab2d3fc3bf9a391048392432695}{Kovach}{K\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6a9b74ab19b7ff4f8661606bf7bad36f}{Rosenstiel}{R\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{1}{}{%
-        {{hash=0406a3761b98dd75b5d44a0e288071f1}{Kopytoff}{K\bibinitperiod}{Igor}{I\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=b328d8554e5a35008458daaf398cd841}{Appadurai}{A\bibinitperiod}{Arjun}{A\bibinitperiod}{}{}{}{}}%
+      \name{author}{2}{}{%
+        {{hash=0d656ab2d3fc3bf9a391048392432695}{Kovach}{K\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6a9b74ab19b7ff4f8661606bf7bad36f}{Rosenstiel}{R\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
-        {Cambridge University Press}%
+        {Crown/Archetype}%
       }
-      \strng{namehash}{0406a3761b98dd75b5d44a0e288071f1}
-      \strng{fullhash}{0406a3761b98dd75b5d44a0e288071f1}
+      \strng{namehash}{2a4c6d847776508defa9fc8b023a6baf}
+      \strng{fullhash}{2a4c6d847776508defa9fc8b023a6baf}
       \field{sortinit}{K}
-      \field{labeltitle}{The Cultural Biography of Things: Commoditization as Process}
-      \field{booktitle}{The Social Life of Things: Commodities in Cultural Perspective}
-      \field{isbn}{9780521357265}
+      \field{labeltitle}{The Elements of Journalism}
+      \field{abstract}{In July 1997, twenty-five of America's most influential journalists sat down to try and discover what had happened to their profession in the years between Watergate and Whitewater. What they knew was that the public no longer trusted the press as it once had. They were keenly aware of the pressures that advertisers and new technologies were putting on newsrooms around the country. But, more than anything, they were aware that readers, listeners, and viewers {$\textemdash$} the people who use the news {$\textemdash$} were turning away from it in droves. There were many reasons for the public's growing lack of trust. On television, there were the ads that looked like news shows and programs that presented gossip and press releases as if they were news. There were the "docudramas," television movies that were an uneasy blend of fact and fiction and which purported to show viewers how events had "really" happened. At newspapers and magazines, celebrity was replacing news, newsroom budgets were being slashed, and editors were pushing journalists for more "edge" and "attitude" in place of reporting. And, on the radio, powerful talk personalities led their listeners from sensation to sensation, from fact to fantasy, while deriding traditional journalism. Fact was blending with fiction, news with entertainment, journalism with rumor. Calling themselves the Committee of Concerned Journalists, the twenty-five determined to find how the news had found itself in this state. Drawn from the committee's years of intensive research, dozens of surveys of readers, listeners, viewers, editors, and journalists, and more than one hundred intensive interviews with journalists and editors, The Elements of Journalism is the first book ever to spell out {$\textemdash$} both for those who create and those who consume the news {$\textemdash$} the principles and responsibilities of journalism. Written by Bill Kovach and Tom Rosenstiel, two of the nation's preeminent press critics, this is one of the most provocative books about the role of information in society in more than a generation and one of the most important ever written about news. By offering in turn each of the principles that should govern reporting, Kovach and Rosenstiel show how some of the most common conceptions about the press, such as neutrality, fairness, and balance, are actually modern misconceptions. They also spell out how the news should be gathered, written, and reported even as they demonstrate why the First Amendment is on the brink of becoming a commercial right rather than something any American citizen can enjoy. The Elements of Journalism is already igniting a national dialogue on issues vital to us all. This book will be the starting point for discussions by journalists and members of the public about the nature of journalism and the access that we all enjoy to information for years to come. From the Hardcover edition.}
+      \field{day}{24}
+      \field{isbn}{9780609504314}
       \field{langid}{english}
-      \field{title}{The Cultural Biography of Things: Commoditization as Process}
-      \field{year}{1986}
-      \field{pages}{64\bibrangedash 91}
-      \verb{file}
-      \verb Kopytoff_CulturalBiography.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/VUTPQ7SM/Kopytoff_CulturalBiography.pdf:application/pdf
-      \endverb
-      \keyw{Political Science / Public Policy / Social Services \& Welfare,Social Science / Anthropology / Cultural,Social Science / Anthropology / General}
-    \endentry
-    \entry{krajewski_paper_2011}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=ac038c409a8bc51380175bed50f61d1b}{Krajewski}{K\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=ac038c409a8bc51380175bed50f61d1b}{Krajewski}{K\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {{MIT} Press}%
-      }
-      \strng{namehash}{ac038c409a8bc51380175bed50f61d1b}
-      \strng{fullhash}{ac038c409a8bc51380175bed50f61d1b}
-      \field{sortinit}{K}
-      \field{labeltitle}{Paper Machines: About Cards and Catalogs}
-      \field{title}{Paper Machines: About Cards and Catalogs}
-      \field{year}{2011}
-      \keyw{renaissance}
-    \endentry
-    \entry{lanier_who_2013}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=3bd903a5fb3856bf248ac4da6254be32}{Lanier}{L\bibinitperiod}{Jaron}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=3bd903a5fb3856bf248ac4da6254be32}{Lanier}{L\bibinitperiod}{Jaron}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {New York, {NY}}%
-      }
-      \list{publisher}{1}{%
-        {Simon \& Schuster}%
-      }
-      \strng{namehash}{3bd903a5fb3856bf248ac4da6254be32}
-      \strng{fullhash}{3bd903a5fb3856bf248ac4da6254be32}
-      \field{sortinit}{L}
-      \field{labeltitle}{Who Owns the Future?}
-      \field{day}{07}
-      \field{isbn}{1451654960}
-      \field{month}{05}
-      \field{shorttitle}{Who Owns the Future?}
-      \field{title}{Who Owns the Future?}
-      \field{year}{2013}
-      \keyw{xanadu}
+      \field{month}{07}
+      \field{pagetotal}{264}
+      \field{shorttitle}{The Elements of Journalism}
+      \field{title}{The Elements of Journalism: What Newspeople Should Know and the Public Should Expect}
+      \field{year}{2001}
+      \keyw{Language Arts \& Disciplines / Journalism}
     \endentry
     \entry{levy_time.com_2014}{online}{}
       \name{labelname}{1}{}{%
@@ -1856,38 +993,29 @@
       \verb http://www.capitalnewyork.com/article/media/2014/11/8556503/timecom-opens-its-vault
       \endverb
     \endentry
-    \entry{luzon_scholarly_2009}{article}{}
+    \entry{lopez_everything_????}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=176360b21c1c8c82f6282275d1f078ff}{Luzon}{L\bibinitperiod}{Mj}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb8315dddf0026cda743036613d752df}{Lopez}{L\bibinitperiod}{German}{G\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=176360b21c1c8c82f6282275d1f078ff}{Luzon}{L\bibinitperiod}{Mj}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb8315dddf0026cda743036613d752df}{Lopez}{L\bibinitperiod}{German}{G\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{176360b21c1c8c82f6282275d1f078ff}
-      \strng{fullhash}{176360b21c1c8c82f6282275d1f078ff}
+      \strng{namehash}{eb8315dddf0026cda743036613d752df}
+      \strng{fullhash}{eb8315dddf0026cda743036613d752df}
       \field{sortinit}{L}
-      \field{labeltitle}{Scholarly Hyperwriting}
-      \field{abstract}{Weblogs are gaining momentum as one of most versatile tools for online scholarly communication. Since academic weblogs tend to be used by scholars to position themselves in a disciplinary blogging community, links are essential to their construction. The aim of this article is to analyze the reasons for linking in academic weblogs and to determine how links are used for distribution of information, collaborative construction of knowledge, and construction of the blog's and the blogger's identity. For this purpose I analyzed types of links in 15 academic blogs, considering both sidebar links and in-post links. The results show that links are strategically used by academic bloggers for several purposes, among others to seek their place in a disciplinary community, to engage in hypertext conversations for collaborative construction of knowledge, to organize Information in the blog, to publicize their research, to enhance the blog's visibility, and to optimize blog entries and the blog itself.}
-      \field{issn}{15322882}
-      \field{journaltitle}{Journal of the American Society for Information Science and Technology}
-      \field{month}{01}
-      \field{number}{1}
-      \field{shortjournal}{Journal of the American Society for Information Science and Technology}
-      \field{shorttitle}{Scholarly Hyperwriting}
-      \field{title}{Scholarly Hyperwriting: The Function of Links in Academic Weblogs}
-      \field{urlday}{20}
-      \field{urlmonth}{02}
+      \field{labeltitle}{Everything you need to know about marijuana legalization}
+      \field{abstract}{Marijuana legalization would make it legal to smoke, eat, and otherwise consume marijuana for recreational and medical purposes.}
+      \field{title}{Everything you need to know about marijuana legalization}
+      \field{titleaddon}{Vox}
+      \field{urlday}{15}
+      \field{urlmonth}{03}
       \field{urlyear}{2015}
-      \field{volume}{60}
-      \field{year}{2009}
-      \field{pages}{75\bibrangedash 89}
       \verb{file}
-      \verb hyperwriting.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WH4B2DSS/hyperwriting.pdf:application/pdf
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/G7H5HB7K/how-have-these-cards-changed.html:text/html
       \endverb
       \verb{url}
-      \verb http://libproxy.mit.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edswsc&AN=000262424900009&site=eds-live
+      \verb http://www.vox.com/cards/marijuana-legalization
       \endverb
-      \keyw{{COMPUTER} {SCIENCE},{INFORMATION} {SYSTEMS},{INFORMATION} {SCIENCE} \& {LIBRARY} {SCIENCE}}
     \endentry
     \entry{manoff_archive_2010}{article}{}
       \name{labelname}{1}{}{%
@@ -1919,74 +1047,6 @@
       \endverb
       \verb{url}
       \verb http://muse.jhu.edu.libproxy.mit.edu/login?auth=0&type=summary&url=/journals/portal_libraries_and_the_academy/v010/10.4.manoff.html
-      \endverb
-    \endentry
-    \entry{manovich_database_1999}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=6c331d4d18add8b45bac3f8e619face7}{Manovich}{M\bibinitperiod}{Lev}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=6c331d4d18add8b45bac3f8e619face7}{Manovich}{M\bibinitperiod}{Lev}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{6c331d4d18add8b45bac3f8e619face7}
-      \strng{fullhash}{6c331d4d18add8b45bac3f8e619face7}
-      \field{sortinit}{M}
-      \field{labeltitle}{Database as Symbolic Form}
-      \field{abstract}{After the novel, and subsequently cinema, privileged narrative as the key form of cultural expression of the modern age, the computer age introduces its correlate - database. Many new media objects do not tell stories; they don't have a beginning or end; in fact, they don't have any development, thematically, formally or otherwise which would organise their elements into a sequence. Instead, they are collections of individual items, where every item has the same significance as any other. Why do new media favour database form over others? Can we explain its popularity by analysing the specificity of the digital medium and computer programming? What is the relationship between database and another form, which has traditionally dominated human culture - narrative? In addressing these questions, the article discusses the connection between the computer's ontology - the way the computer's organisation of data represents the world - and the new cultural forms privileged by computer culture such as database. Saussure's notions of the paradigm and the syntagm are used to theorise the relationship between database and narrative. A possible history of a database form in modern media and culture in general is sketched. The last part of the article addreses the tension between database and narrative in the history of cinema. It considers the works of such filmmakers as Peter Greenaway and Dziga Vertov as part of the tradition which can be called 'database cinema'. This cinema tries to merge databases and narrative into a new form, thus anticipating one of the key problems of new media art.}
-      \field{day}{01}
-      \field{issn}{1354-8565, 1748-7382}
-      \field{journaltitle}{Convergence: The International Journal of Research into New Media Technologies}
-      \field{langid}{english}
-      \field{month}{06}
-      \field{number}{2}
-      \field{shortjournal}{Convergence}
-      \field{title}{Database as Symbolic Form}
-      \field{urlday}{02}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{5}
-      \field{year}{1999}
-      \field{pages}{80\bibrangedash 99}
-      \verb{doi}
-      \verb 10.1177/135485659900500206
-      \endverb
-      \verb{file}
-      \verb Convergence-1999-Manovich-80-99.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/DHTXWGDR/Convergence-1999-Manovich-80-99.pdf:application/pdf;Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IN2J3P3W/Manovich - 1999 - Database as Symbolic Form.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/8XAUC9WJ/80.html:text/html;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/J3GUJR9W/80.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://con.sagepub.com/content/5/2/80
-      \endverb
-    \endentry
-    \entry{markham_undermining_2013}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=9cdbd0cb30b58a633d2ab53149487a9b}{Markham}{M\bibinitperiod}{Annette\bibnamedelima N.}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9cdbd0cb30b58a633d2ab53149487a9b}{Markham}{M\bibinitperiod}{Annette\bibnamedelima N.}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9cdbd0cb30b58a633d2ab53149487a9b}
-      \strng{fullhash}{9cdbd0cb30b58a633d2ab53149487a9b}
-      \field{sortinit}{M}
-      \field{labeltitle}{Undermining {$\textquoteleft$}data{$\textquoteright$}}
-      \field{abstract}{The term {$\textquoteleft$}data{$\textquoteright$} functions as a powerful frame for discourse about how knowledge is derived and privileges certain ways of knowing over others. Through its ambiguity, the term can foster a self{$\textendash$}perpetuating sensibility that {$\textquoteleft$}data{$\textquoteright$} is incontrovertible, something to question the meaning or the veracity of, but not the existence of. This article critically examines the concept of {$\textquoteleft$}data{$\textquoteright$} within larger questions of research method and frameworks for scientific inquiry. The current dominance of the term {$\textquoteleft$}data{$\textquoteright$} and {$\textquoteleft$}big data{$\textquoteright$} in discussions of scientific inquiry as well as everyday advertising focuses our attention on only certain aspects of the research process. The author suggests deliberately decentering the term, to explore nuanced frames for describing the materials, processes, and goals of inquiry.}
-      \field{day}{21}
-      \field{issn}{13960466}
-      \field{journaltitle}{First Monday}
-      \field{langid}{english}
-      \field{month}{09}
-      \field{number}{10}
-      \field{shorttitle}{Undermining {$\textquoteleft$}data{$\textquoteright$}}
-      \field{title}{Undermining {$\textquoteleft$}data{$\textquoteright$}: A critical examination of a core term in scientific inquiry}
-      \field{urlday}{01}
-      \field{urlmonth}{05}
-      \field{urlyear}{2014}
-      \field{volume}{18}
-      \field{year}{2013}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/GDAZV7QH/3749.html:text/html;Undermining {$\textquoteleft$}data{$\textquoteright$}_ A critical examination of a core term in scientific inquiry _ Markham _ First Monday.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/KE7DFMBN/Undermining {$\textquoteleft$}data{$\textquoteright$}_ A critical examination of a core term in scientific inquiry _ Markham _ First Monday.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://firstmonday.org/ojs/index.php/fm/article/view/4868
       \endverb
     \endentry
     \entry{maurantonio_archiving_2014}{article}{}
@@ -2043,34 +1103,6 @@
       \verb{url}
       \verb http://www.rjionline.org/blog/saving-news-when-your-server-crashes-you-could-lose-decades-digital-news-content-forever
       \endverb
-    \endentry
-    \entry{barnet_mandelbrot_2013}{inbook}{}
-      \name{labelname}{1}{}{%
-        {{hash=39e926c4ee71101a2a983a7f7dbc35d4}{Moulthrop}{M\bibinitperiod}{Stuart}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=39e926c4ee71101a2a983a7f7dbc35d4}{Moulthrop}{M\bibinitperiod}{Stuart}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \name{bookauthor}{1}{}{%
-        {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Anthem Press}%
-      }
-      \strng{namehash}{39e926c4ee71101a2a983a7f7dbc35d4}
-      \strng{fullhash}{39e926c4ee71101a2a983a7f7dbc35d4}
-      \field{sortinit}{M}
-      \field{labeltitle}{To Mandelbrot in Heaven}
-      \field{booktitle}{Memory Machines: The Evolution of Hypertext}
-      \field{day}{15}
-      \field{isbn}{0857280600}
-      \field{month}{07}
-      \field{title}{To Mandelbrot in Heaven}
-      \field{year}{2013}
-      \keyw{memex,otlet,xanadu}
     \endentry
     \entry{mullin_how_2015}{online}{}
       \name{labelname}{1}{}{%
@@ -2162,122 +1194,33 @@
       \endverb
       \keyw{Archives,{COLLECTIVE} memory,{DIGITALLY} printed materials,ephemera,history,{INDUSTRIALIZATION},{MASS} media,newspapers,{PERIODICALS},print,{PRINT} culture,{PRINTED} ephemera,{SOCIAL} aspects,uncanny,{UNCANNY},The (Psychoanalysis),Victorian}
     \endentry
-    \entry{tsui_hyperlinking_2008}{incollection}{}
+    \entry{myers_liveblogging_2010}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=d7f89122f3b2b59f047f25465eb8acbf}{Napoli}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6684fb39b788b9d9a2cb3407c00869da}{Myers}{M\bibinitperiod}{Steve}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=d7f89122f3b2b59f047f25465eb8acbf}{Napoli}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6684fb39b788b9d9a2cb3407c00869da}{Myers}{M\bibinitperiod}{Steve}{S\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{2}{}{%
-        {{hash=faf8efe8d7ea40f6aef3e7cba97eb78d}{Tsui}{T\bibinitperiod}{Lokman}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=4cb5cf7ca30a088847b89ac647f41b97}{Turow}{T\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Ann Arbor, {MI}}%
-      }
-      \list{publisher}{1}{%
-        {University of Michigan Press}%
-      }
-      \strng{namehash}{d7f89122f3b2b59f047f25465eb8acbf}
-      \strng{fullhash}{d7f89122f3b2b59f047f25465eb8acbf}
-      \field{sortinit}{N}
-      \field{labeltitle}{Hyperlinking and the Forces of "Massification"}
-      \field{booktitle}{The Hyperlinked Society: Questioning Connections in the Digital Age}
-      \field{day}{23}
-      \field{isbn}{04-7207-043-6}
-      \field{month}{05}
-      \field{title}{Hyperlinking and the Forces of "Massification"}
-      \field{year}{2008}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NAWWVPTV/The_Internet_and_the_forces_of_massification.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://hdl.handle.net/2027/spo.5680986.0001.001
-      \endverb
-      \keyw{academia,academics,Biology,Chemistry,Computer Science,Earth Sciences,Economics,English,Geography,history,hyperlinks,Law,Math,Medicine,Philosophy,Physics,Political Science,Psychology,Religion,{RESEARCH},universities}
-    \endentry
-    \entry{nelson_complex_1965}{inproceedings}{}
-      \name{labelname}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {New York, {NY}, {USA}}%
-      }
-      \list{publisher}{1}{%
-        {ACM}%
-      }
-      \strng{namehash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \strng{fullhash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \field{sortinit}{N}
-      \field{labeltitle}{Complex Information Processing}
-      \field{abstract}{{THE} {KINDS} {OF} {FILE} structures required if we are to use the computer for personal files and as an adjunct to creativity are wholly different in character from those customary in business and scientific data processing. They need to provide the capacity for intricate and idiosyncratic arrangements, total modifiability, undecided alternatives, and thorough internal documentation. I want to explain how some ideas developed and what they are. The original problem was to specify a computer system for personal information retrieval and documentation, able to do some rather complicated things in clear and simple ways. In this paper I will explain the original problem. Then I will explain why the problem is not simple, and why the solution (a file structure) must yet be very simple. The file structure suggested here is the Evolutionary List File, to be built of zippered lists. A number of uses will be suggested for such a file, to show the breadth of its potential usefulness. Finally, I want to explain the philosophical implications of this approach for information retrieval and data structure in a changing world.}
-      \field{booktitle}{Proceedings of the 1965 20th National Conference}
-      \field{shorttitle}{Complex Information Processing}
-      \field{title}{Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate}
-      \field{urlday}{15}
+      \strng{namehash}{6684fb39b788b9d9a2cb3407c00869da}
+      \strng{fullhash}{6684fb39b788b9d9a2cb3407c00869da}
+      \field{sortinit}{M}
+      \field{labeltitle}{Liveblogging {SXSW}}
+      \field{abstract}{Create. Inform. Engage. {\textbar} Journalism training, media news \& how to's}
+      \field{day}{15}
+      \field{month}{03}
+      \field{shorttitle}{Liveblogging {SXSW}}
+      \field{title}{Liveblogging {SXSW}: The Future of Context in Journalism}
+      \field{titleaddon}{Poynter}
+      \field{urlday}{23}
       \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{year}{1965}
-      \field{pages}{84\bibrangedash 100}
-      \verb{doi}
-      \verb 10.1145/800197.806036
-      \endverb
+      \field{urlyear}{2014}
+      \field{year}{2010}
       \verb{file}
-      \verb p84-nelson.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NUX6U3TK/p84-nelson.pdf:application/pdf
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ZU9SE9PU/liveblogging-sxsw-the-future-of-context-in-journalism.html:text/html
       \endverb
       \verb{url}
-      \verb http://doi.acm.org/10.1145/800197.806036
+      \verb http://www.poynter.org/news/101399/liveblogging-sxsw-the-future-of-context-in-journalism/
       \endverb
-      \keyw{xanadu}
-    \endentry
-    \entry{nelson_computer_1974}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Self-published}%
-      }
-      \strng{namehash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \strng{fullhash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \field{sortinit}{N}
-      \field{labeltitle}{Computer Lib / Dream Machines}
-      \field{title}{Computer Lib / Dream Machines}
-      \field{year}{1974}
-      \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/95XJCTJ4/Computer Lib _ Dream Machines - Ted Nelson.pdf:application/pdf;[Ted_Nelson]_Computer_Lib_Dream_Machines.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NRKVFZ98/[Ted_Nelson]_Computer_Lib_Dream_Machines.pdf:application/pdf
-      \endverb
-      \keyw{hyperlinks,xanadu}
-    \endentry
-    \entry{nelson_ted_1999}{online}{}
-      \name{labelname}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \strng{fullhash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \field{sortinit}{N}
-      \field{labeltitle}{Ted Nelson's Computer Paradigm, Expressed as One-Liners}
-      \field{title}{Ted Nelson's Computer Paradigm, Expressed as One-Liners}
-      \field{urlday}{15}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{year}{1999}
-      \verb{file}
-      \verb Ted's ComParadigm in OneLiners:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/XSZ3A4PM/tedCompOneLiners.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://xanadu.com.au/ted/TN/WRITINGS/TCOMPARADIGM/tedCompOneLiners.html
-      \endverb
-      \keyw{xanadu}
     \endentry
     \entry{nothman_grounding_2013}{article}{}
       \name{labelname}{1}{}{%
@@ -2305,166 +1248,6 @@
       \verb http://ses.library.usyd.edu.au:80/handle/2123/10609
       \endverb
     \endentry
-    \entry{nyce_innovation_1989}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=ce11bf105bb1cbe5d549e9d97121b457}{Nyce}{N\bibinitperiod}{James\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=d3568e8fe963809aa9388141a6a7e8ee}{Katin}{K\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=ce11bf105bb1cbe5d549e9d97121b457}{Nyce}{N\bibinitperiod}{James\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=d3568e8fe963809aa9388141a6a7e8ee}{Katin}{K\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{19ddf549291a2465c8f70f694ab73982}
-      \strng{fullhash}{19ddf549291a2465c8f70f694ab73982}
-      \field{sortinit}{N}
-      \field{labeltitle}{Innovation, Pragmaticism, and Technological Continuity}
-      \field{abstract}{To better determine why Vannevar Bush created the memex and what he hoped to accomplish with such a machine, some of his published and unpublished writings on memex are discussed here. This material offers new perspective on how and why Bush published his 1945 essay "As We May Think" In the Atlantic Monthly.}
-      \field{issn}{00028231}
-      \field{journaltitle}{Journal of the American Society for Information Science}
-      \field{month}{05}
-      \field{number}{3}
-      \field{shortjournal}{Journal of the American Society for Information Science}
-      \field{shorttitle}{Innovation, Pragmaticism, and Technological Continuity}
-      \field{title}{Innovation, Pragmaticism, and Technological Continuity: Vannevar Bush's Memex}
-      \field{urlday}{16}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{volume}{40}
-      \field{year}{1989}
-      \field{pages}{214\bibrangedash 220}
-      \verb{file}
-      \verb EBSCO Full Text:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/5687N55F/Nyce and Katin - 1989 - Innovation, Pragmaticism, and Technological Contin.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://libproxy.mit.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=16801186&site=eds-live
-      \endverb
-      \keyw{{BUSH},Vannevar,1890-1974,{ESSAYS},{IDEALISM},Information technology,memex,{PRAGMATISM},{TECHNOLOGICAL} innovations}
-    \endentry
-    \entry{_opennews/hackdays/archive_????}{online}{}
-      \field{sortinit}{O}
-      \field{labeltitle}{{OpenNews}/hackdays/archive}
-      \field{title}{{OpenNews}/hackdays/archive}
-      \field{titleaddon}{{MozillaWiki}}
-      \field{urlday}{09}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
-      \verb{file}
-      \verb OpenNews/hackdays/archive - MozillaWiki:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/TI6T2EEZ/archive.html:text/html
-      \endverb
-      \verb{url}
-      \verb https://wiki.mozilla.org/OpenNews/hackdays/archive
-      \endverb
-    \endentry
-    \entry{ernst_archival_2012}{inbook}{}
-      \name{labelname}{1}{}{%
-        {{hash=0e8aad3575c6c2aa48c41c7ccf52fa75}{Parikka}{P\bibinitperiod}{Jussi}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=0e8aad3575c6c2aa48c41c7ccf52fa75}{Parikka}{P\bibinitperiod}{Jussi}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{bookauthor}{1}{}{%
-        {{hash=27c55864417614bc919ac0a2920f5164}{Ernst}{E\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Minneapolis}%
-      }
-      \list{publisher}{1}{%
-        {University of Minnesota Press}%
-      }
-      \strng{namehash}{0e8aad3575c6c2aa48c41c7ccf52fa75}
-      \strng{fullhash}{0e8aad3575c6c2aa48c41c7ccf52fa75}
-      \field{sortinit}{P}
-      \field{labeltitle}{Archival Media Theory: An Introduction to Wolfgang Ernst{$\textquoteright$}s Media Archaeology}
-      \field{abstract}{Explores how media infrastructure, not content, shapes contemporary digital culture}
-      \field{booktitle}{Digital Memory and the Archive}
-      \field{langid}{english}
-      \field{note}{Explores how media infrastructure, not content, shapes contemporary digital culture}
-      \field{title}{Archival Media Theory: An Introduction to Wolfgang Ernst{$\textquoteright$}s Media Archaeology}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{2012}
-      \field{pages}{1\bibrangedash 22}
-      \verb{url}
-      \verb https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
-      \endverb
-    \endentry
-    \entry{pavlik_future_1997}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=ee52aff78d11b3f8e0b4d6bc5ff5e482}{Pavlik}{P\bibinitperiod}{John\bibnamedelima V.}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=ee52aff78d11b3f8e0b4d6bc5ff5e482}{Pavlik}{P\bibinitperiod}{John\bibnamedelima V.}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{ee52aff78d11b3f8e0b4d6bc5ff5e482}
-      \strng{fullhash}{ee52aff78d11b3f8e0b4d6bc5ff5e482}
-      \field{sortinit}{P}
-      \field{labeltitle}{The Future of Online Journalism}
-      \field{abstract}{Analyzes the delivery system of journalism on the Internet. News and information offered by the networked media; Different news media on website; Newspaper sections that can be found on website; Stages of the Internet's news content.}
-      \field{day}{07}
-      \field{issn}{0010194X}
-      \field{journaltitle}{Columbia Journalism Review}
-      \field{month}{08}
-      \field{number}{2}
-      \field{shortjournal}{Columbia Journalism Review}
-      \field{title}{The Future of Online Journalism}
-      \field{urlday}{08}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
-      \field{volume}{36}
-      \field{year}{1997}
-      \field{pages}{30\bibrangedash 36}
-      \verb{file}
-      \verb pavlik_future_of_online_journalism.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/9GK6KGTP/pavlik_future_of_online_journalism.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://libproxy.mit.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=ufh&AN=9709105522&site=eds-live
-      \endverb
-      \keyw{Internet,journalism,{TECHNOLOGICAL} innovations}
-    \endentry
-    \entry{_pioneering_????}{online}{}
-      \field{sortinit}{P}
-      \field{labeltitle}{Pioneering hypertext project Xanadu released after 54 years}
-      \field{abstract}{Ted Nelson coined the term "hypertext" in 1963 to describe a computing interface project he'd been working on called X}
-      \field{title}{Pioneering hypertext project Xanadu released after 54 years}
-      \field{titleaddon}{kottke.org}
-      \field{urlday}{08}
-      \field{urlmonth}{09}
-      \field{urlyear}{2014}
-      \verb{url}
-      \verb http://kottke.org/14/06/pioneering-hypertext-project-xanadu-released-after-54-years
-      \endverb
-      \keyw{xanadu}
-    \endentry
-    \entry{reagle_good_2010}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=c7ac5d8bc3013fff21dd1d4c051b2686}{Reagle}{R\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=c7ac5d8bc3013fff21dd1d4c051b2686}{Reagle}{R\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Cambridge, Mass.}%
-      }
-      \list{publisher}{1}{%
-        {{MIT} Press}%
-      }
-      \strng{namehash}{c7ac5d8bc3013fff21dd1d4c051b2686}
-      \strng{fullhash}{c7ac5d8bc3013fff21dd1d4c051b2686}
-      \field{sortinit}{R}
-      \field{labeltitle}{Good Faith Collaboration: The Culture of Wikipedia}
-      \field{abstract}{Nazis and norms -- The pursuit of the universal encyclopedia -- Good faith collaboration -- The puzzle of openness -- The challenges of consensus -- The benevolent dictator -- Encyclopedic anxiety -- Conclusion : a globe in accord. Wikipedia, the online encyclopedia, is built by a community - a community of Wikipedians who are expected to "assume good faith" when interacting with one another. In Good Faith Collaboration, Joseph Reagle examines this unique collaborative culture. Wikipedia, says Reagle, is not the first effort to create a freely shared, universal encyclopedia; its early twentieth-century ancestors include Paul Otlet{$\textquoteright$}s Universal Repository and H. G. Wells{$\textquoteright$}s proposal for a World Brain. Both these projects, like Wikipedia, were fuelled by new technology-which at the time included index cards and microfilm. What distinguishes Wikipedia from these and other more recent ventures is Wikipedia{$\textquoteright$}s good faith collaborative culture, as seen not only in the writing and editing of articles but also in their discussion pages and edit histories. Keeping an open perspective on both knowledge claims and other contributors, Reagle argues, creates an extraordinary collaborative potential. Wikipedia is famously an encyclopedia "anyone can edit," and Reagle examines Wikipedia{$\textquoteright$}s openness and several challenges to it: technical features that limit vandalism to articles; private actions to mitigate potential legal problems; and Wikipedia{$\textquoteright$}s own internal bureaucratization. He explores Wikipedia{$\textquoteright$}s process of consensus (reviewing a dispute over naming articles on television shows) and examines the way leadership and authority work in an open content community. Wikipedia{$\textquoteright$}s style of collaborative production has been imitated, analyzed, and satirized. Despite the social unease over its implications for individual autonomy, institutional authority, and the character (and quality) of cultural products, Wikipedia{$\textquoteright$}s good faith collaborative culture has brought us closer than ever to a realization of the century-old pursuit of a universal encyclopedia."--{BOOK} {JACKET}.}
-      \field{isbn}{9780262014472}
-      \field{title}{Good Faith Collaboration: The Culture of Wikipedia}
-      \field{year}{2010}
-      \verb{file}
-      \verb Reagle - 2010 - Good faith collaboration the culture of Wikipedi.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/MKT46Q42/Reagle - 2010 - Good faith collaboration the culture of Wikipedi.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://mitpress-ebooks.mit.edu/product/good-faith-collaboration
-      \endverb
-      \keyw{memex,online communities,otlet,xanadu}
-    \endentry
     \entry{romenesko_u.s._2014}{online}{}
       \name{labelname}{1}{}{%
         {{hash=f1593ce65d61ba197ada4c1920161018}{Romenesko}{R\bibinitperiod}{Jim}{J\bibinitperiod}{}{}{}{}}%
@@ -2488,64 +1271,58 @@
       \verb http://jimromenesko.com/2014/02/18/u-s-news-deletes-content-published-before-2007/
       \endverb
     \endentry
-    \entry{rosenberg_data_2013}{incollection}{}
+    \entry{rosen_national_2008}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=4801cf5da1d693b0703082070c18d52f}{Rosenberg}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=55f7ba4a5f3e4ca2ae64c033345b62e4}{Rosen}{R\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=4801cf5da1d693b0703082070c18d52f}{Rosenberg}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=55f7ba4a5f3e4ca2ae64c033345b62e4}{Rosen}{R\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=625c39e315d467ce774d452aab8ff87c}{Gitelman}{G\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Cambridge, {MA}}%
-      }
-      \list{publisher}{1}{%
-        {{MIT} Press}%
-      }
-      \strng{namehash}{4801cf5da1d693b0703082070c18d52f}
-      \strng{fullhash}{4801cf5da1d693b0703082070c18d52f}
+      \strng{namehash}{55f7ba4a5f3e4ca2ae64c033345b62e4}
+      \strng{fullhash}{55f7ba4a5f3e4ca2ae64c033345b62e4}
       \field{sortinit}{R}
-      \field{labeltitle}{Data Before the Fact}
-      \field{booktitle}{"Raw Data" is an Oxymoron}
-      \field{isbn}{978-02-6251-828-4}
-      \field{title}{Data Before the Fact}
-      \field{year}{2013}
-      \field{pages}{15\bibrangedash 40}
-    \endentry
-    \entry{rosenberg_early_2003}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=4801cf5da1d693b0703082070c18d52f}{Rosenberg}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=4801cf5da1d693b0703082070c18d52f}{Rosenberg}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{4801cf5da1d693b0703082070c18d52f}
-      \strng{fullhash}{4801cf5da1d693b0703082070c18d52f}
-      \field{sortinit}{R}
-      \field{labeltitle}{Early Modern Information Overload}
-      \field{day}{01}
-      \field{issn}{0022-5037}
-      \field{journaltitle}{Journal of the History of Ideas}
-      \field{month}{01}
-      \field{note}{{ArticleType}: misc / Full publication date: Jan., 2003 / Copyright {\copyright} 2003 University of Pennsylvania Press}
-      \field{number}{1}
-      \field{shortjournal}{Journal of the History of Ideas}
-      \field{title}{Early Modern Information Overload}
-      \field{urlday}{10}
+      \field{labeltitle}{National Explainer: A Job for Journalists on the Demand Side of News}
+      \field{day}{13}
+      \field{month}{08}
+      \field{title}{National Explainer: A Job for Journalists on the Demand Side of News}
+      \field{titleaddon}{{PressThink}}
+      \field{urlday}{23}
       \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{64}
-      \field{year}{2003}
-      \field{pages}{1\bibrangedash 9}
+      \field{urlyear}{2014}
+      \field{year}{2008}
       \verb{file}
-      \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/U3J8AU47/Rosenberg - 2003 - Introduction.pdf:application/pdf
+      \verb PressThink\: National Explainer\: A Job for Journalists on the Demand Side of News:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/3HET73S3/national_explain.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.jstor.org/stable/3654292
+      \verb http://archive.pressthink.org/2008/08/13/national_explain.html
       \endverb
-      \keyw{info overload,link prehistory,renaissance}
+    \endentry
+    \entry{rosen_news_2010}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=55f7ba4a5f3e4ca2ae64c033345b62e4}{Rosen}{R\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=55f7ba4a5f3e4ca2ae64c033345b62e4}{Rosen}{R\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{55f7ba4a5f3e4ca2ae64c033345b62e4}
+      \strng{fullhash}{55f7ba4a5f3e4ca2ae64c033345b62e4}
+      \field{sortinit}{R}
+      \field{labeltitle}{News Without the Narrative Needed to Make Sense of the News}
+      \field{day}{07}
+      \field{month}{03}
+      \field{shorttitle}{News Without the Narrative Needed to Make Sense of the News}
+      \field{title}{News Without the Narrative Needed to Make Sense of the News: What I Will Say at South by Southwest}
+      \field{titleaddon}{{PressThink}}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2014}
+      \field{year}{2010}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/UGCUKDGX/news-without-the-narrative-needed-to-make-sense-of-the-news-what-i-will-say-at-south-by-southwe.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://pressthink.org/2010/03/news-without-the-narrative-needed-to-make-sense-of-the-news-what-i-will-say-at-south-by-southwest/
+      \endverb
     \endentry
     \entry{salmon_why_2014}{online}{}
       \name{labelname}{1}{}{%
@@ -2574,122 +1351,30 @@
       \verb https://medium.com/@felixsalmon/why-im-joining-fusion-4dbb1d82eb52
       \endverb
     \endentry
-    \entry{sample_google_2015}{online}{}
-      \name{labelname}{3}{}{%
-        {{hash=80cfdf2576d74d6b482275e4c4cbcd74}{Sample}{S\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
-        {{hash=7527e2595af788712cf920366ea2e9b7}{Editor}{E\bibinitperiod}{Science}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=2c32bcee7a1f1a4c104fff4a13ecd4da}{Jose}{J\bibinitperiod}{in\bibnamedelima San}{i\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=80cfdf2576d74d6b482275e4c4cbcd74}{Sample}{S\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
-        {{hash=7527e2595af788712cf920366ea2e9b7}{Editor}{E\bibinitperiod}{Science}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=2c32bcee7a1f1a4c104fff4a13ecd4da}{Jose}{J\bibinitperiod}{in\bibnamedelima San}{i\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9d67f38782e9ca08950a357e9181df4d}
-      \strng{fullhash}{9d67f38782e9ca08950a357e9181df4d}
-      \field{sortinit}{S}
-      \field{labeltitle}{Google boss warns of 'forgotten century' with email and photos at risk}
-      \field{abstract}{Digital material including key historical documents could be lost forever because programs to view them will become defunct, says Vint Cerf}
-      \field{day}{13}
-      \field{month}{02}
-      \field{title}{Google boss warns of 'forgotten century' with email and photos at risk}
-      \field{titleaddon}{the Guardian}
-      \field{urlday}{09}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
-      \field{year}{2015}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QWJ3N9VX/google-boss-warns-forgotten-century-email-photos-vint-cerf.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.theguardian.com/technology/2015/feb/13/google-boss-warns-forgotten-century-email-photos-vint-cerf
-      \endverb
-    \endentry
-    \entry{schoenberger_useful_2007}{report}{}
+    \entry{schudson_discovering_1978}{book}{}
       \name{labelname}{1}{}{%
-        {{hash=a5be4ecea22639dda82669cfe5e3c771}{Schoenberger}{S\bibinitperiod}{Viktor}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=161d56c26b46d73f0f46b97711be9190}{Schudson}{S\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=a5be4ecea22639dda82669cfe5e3c771}{Schoenberger}{S\bibinitperiod}{Viktor}{V\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{1}{%
-        {John F. Kennedy School of Government, Harvard University}%
+        {{hash=161d56c26b46d73f0f46b97711be9190}{Schudson}{S\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {Cambridge, {MA}}%
+        {New York}%
       }
-      \strng{namehash}{a5be4ecea22639dda82669cfe5e3c771}
-      \strng{fullhash}{a5be4ecea22639dda82669cfe5e3c771}
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{161d56c26b46d73f0f46b97711be9190}
+      \strng{fullhash}{161d56c26b46d73f0f46b97711be9190}
       \field{sortinit}{S}
-      \field{labeltitle}{Useful Void}
-      \field{month}{04}
-      \field{number}{Working Paper {RWP}07-022}
-      \field{shorttitle}{Useful Void}
-      \field{title}{Useful Void: The Art of Forgetting in the Age of Ubiquitous Computing}
-      \field{urlday}{08}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{year}{2007}
-      \verb{file}
-      \verb Mayer-Schonberger.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/EREXD5Z9/Mayer-Schonberger.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://ksgnotes1.harvard.edu/Research/wpaper.nsf/rwp/RWP07-022
-      \endverb
-      \keyw{file-import-09-06-11,phd}
-    \endentry
-    \entry{searls_earth_2014}{online}{}
-      \name{labelname}{1}{}{%
-        {{hash=6848d32cb9919b578ad99ece37465bff}{Searls}{S\bibinitperiod}{Doc}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=6848d32cb9919b578ad99ece37465bff}{Searls}{S\bibinitperiod}{Doc}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{6848d32cb9919b578ad99ece37465bff}
-      \strng{fullhash}{6848d32cb9919b578ad99ece37465bff}
-      \field{sortinit}{S}
-      \field{labeltitle}{Earth to Mozilla}
-      \field{day}{12}
-      \field{month}{04}
-      \field{shorttitle}{Earth to Mozilla}
-      \field{title}{Earth to Mozilla: Come Back Home}
-      \field{titleaddon}{Doc Searls Weblog}
-      \field{urlday}{05}
-      \field{urlmonth}{05}
-      \field{urlyear}{2014}
-      \field{year}{2014}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/I8ZB2RVZ/earth-to-mozilla-come-back-to-us.html:text/html
-      \endverb
-      \verb{url}
-      \verb https://blogs.law.harvard.edu/doc/2014/04/12/earth-to-mozilla-come-back-to-us/
-      \endverb
-    \endentry
-    \entry{seaver_algorithmic_2012}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=46369025185b4a5731edff1ea90ba9f8}{Seaver}{S\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=46369025185b4a5731edff1ea90ba9f8}{Seaver}{S\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{46369025185b4a5731edff1ea90ba9f8}
-      \strng{fullhash}{46369025185b4a5731edff1ea90ba9f8}
-      \field{sortinit}{S}
-      \field{labeltitle}{Algorithmic Recommendations and Synaptic Functions}
-      \field{journaltitle}{Limn}
-      \field{number}{2}
-      \field{title}{Algorithmic Recommendations and Synaptic Functions}
-      \field{urlday}{14}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{2012}
-      \field{pages}{44\bibrangedash 47}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/STWWWK4U/algorithmic-recommendations-and-synaptic-functions.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://limn.it/algorithmic-recommendations-and-synaptic-functions/
-      \endverb
+      \field{labeltitle}{Discovering the news}
+      \field{abstract}{This instructive and entertaining social history of American newspapers shows that the very idea of impartial, objective "news" was the social product of the democratization of political, economic, and social life in the nineteenth century. Professor Schudson analyzes the shifts in reportorial style over the years and explains why the belief among journalists and readers alike that newspapers must be objective still lives on.}
+      \field{langid}{english}
+      \field{pagetotal}{248}
+      \field{shorttitle}{Discovering the news}
+      \field{title}{Discovering the news: a social history of American newspapers}
+      \field{year}{1978}
+      \keyw{journalism,Journalism - Objectivity,Journalism - United States - History,Language Arts \& Disciplines / Journalism,Social Science / Popular Culture}
     \endentry
     \entry{shirky_ontology_2005}{online}{}
       \name{labelname}{1}{}{%
@@ -2712,28 +1397,31 @@
       \endverb
       \keyw{archives,hyperlinks,info overload}
     \endentry
-    \entry{sillesen_minus_2014}{online}{}
+    \entry{silverman_why_2014}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=0284b900a9c8a62ccf612070c69d1245}{Sillesen}{S\bibinitperiod}{Lene}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=8ad51d047a7487b19a60148d6a58adaa}{Silverman}{S\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=0284b900a9c8a62ccf612070c69d1245}{Sillesen}{S\bibinitperiod}{Lene}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=8ad51d047a7487b19a60148d6a58adaa}{Silverman}{S\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{0284b900a9c8a62ccf612070c69d1245}
-      \strng{fullhash}{0284b900a9c8a62ccf612070c69d1245}
+      \strng{namehash}{8ad51d047a7487b19a60148d6a58adaa}
+      \strng{fullhash}{8ad51d047a7487b19a60148d6a58adaa}
       \field{sortinit}{S}
-      \field{labeltitle}{Minus proper archives, news outlets risk losing years of backstories forever}
-      \field{abstract}{Print stories can be lost, but digital stories last forever, captured for eternity in some nebulous internet ether or on a hard drive in a desk drawer. At least, that{$\textquoteright$}s the vague theory assumed by many producers and consumers of digital news. Once something is posted or backed up, it never really disappears{$\textemdash$}and if that{$\textquoteright$}s true, archiving digital work seems{$\dots$}}
-      \field{day}{21}
-      \field{month}{07}
-      \field{title}{Minus proper archives, news outlets risk losing years of backstories forever}
-      \field{titleaddon}{Columbia Journalism Review}
-      \field{urlday}{24}
-      \field{urlmonth}{07}
+      \field{labeltitle}{Why Vox (and other news orgs) could use a librarian}
+      \field{abstract}{When you commit to explaining the important issues in the news, you commit to a life of updating. What's the best way to manage a corpus of news knowledge with an uncertain half-life?}
+      \field{day}{22}
+      \field{month}{04}
+      \field{title}{Why Vox (and other news orgs) could use a librarian}
+      \field{titleaddon}{Nieman Journalism Lab}
+      \field{urlday}{22}
+      \field{urlmonth}{04}
       \field{urlyear}{2014}
       \field{year}{2014}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/F9V7V8UZ/why-vox-and-other-news-orgs-could-use-a-librarian.html:text/html
+      \endverb
       \verb{url}
-      \verb http://www.cjr.org/behind_the_news/minus_proper_archives_many_new.php
+      \verb http://www.niemanlab.org/2014/04/why-vox-and-other-news-orgs-could-use-a-librarian/
       \endverb
     \endentry
     \entry{sloan_stock_2010}{online}{}
@@ -2789,83 +1477,6 @@
       \endverb
       \keyw{Photography,Artistic}
     \endentry
-    \entry{sparrow_google_2011}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=37a3eea8d396e2e80216c6c6782faa7f}{Sparrow}{S\bibinitperiod}{Betsy}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=b5543792063b78426cd607839a35ba1f}{Liu}{L\bibinitperiod}{Jenny}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=926e6b118441b4474c27bf2f6c07b0ca}{Wegner}{W\bibinitperiod}{Daniel\bibnamedelima M.}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=37a3eea8d396e2e80216c6c6782faa7f}{Sparrow}{S\bibinitperiod}{Betsy}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=b5543792063b78426cd607839a35ba1f}{Liu}{L\bibinitperiod}{Jenny}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=926e6b118441b4474c27bf2f6c07b0ca}{Wegner}{W\bibinitperiod}{Daniel\bibnamedelima M.}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{2ef31d0e476adcf9a56aa31732de9e00}
-      \strng{fullhash}{2ef31d0e476adcf9a56aa31732de9e00}
-      \field{sortinit}{S}
-      \field{labeltitle}{Google Effects on Memory}
-      \field{abstract}{The advent of the Internet, with sophisticated algorithmic search engines, has made accessing information as easy as lifting a finger. No longer do we have to make costly efforts to find the things we want. We can {$\textquotedblleft$}Google{$\textquotedblright$} the old classmate, find articles online, or look up the actor who was on the tip of our tongue. The results of four studies suggest that when faced with difficult questions, people are primed to think about computers and that when people expect to have future access to information, they have lower rates of recall of the information itself and enhanced recall instead for where to access it. The Internet has become a primary form of external or transactive memory, where information is stored collectively outside ourselves.}
-      \field{day}{05}
-      \field{issn}{0036-8075, 1095-9203}
-      \field{journaltitle}{Science}
-      \field{langid}{english}
-      \field{month}{08}
-      \field{number}{6043}
-      \field{shortjournal}{Science}
-      \field{shorttitle}{Google Effects on Memory}
-      \field{title}{Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{volume}{333}
-      \field{year}{2011}
-      \field{pages}{776\bibrangedash 778}
-      \verb{doi}
-      \verb 10.1126/science.1207745
-      \endverb
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/XZTW3K9N/776.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.sciencemag.org/content/333/6043/776
-      \endverb
-    \endentry
-    \entry{star_ethnography_1999}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=1afb554b186b7b6b58fa85d3d4864909}{Star}{S\bibinitperiod}{Susan\bibnamedelima Leigh}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=1afb554b186b7b6b58fa85d3d4864909}{Star}{S\bibinitperiod}{Susan\bibnamedelima Leigh}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{1afb554b186b7b6b58fa85d3d4864909}
-      \strng{fullhash}{1afb554b186b7b6b58fa85d3d4864909}
-      \field{sortinit}{S}
-      \field{labeltitle}{The Ethnography of Infrastructure}
-      \field{abstract}{This article asks methodological questions about studying infrastructure with some of the tools and perspectives of ethnography. Infrastructure is both relational and ecological{$\textemdash$}it means different things to different groups and it is part of the balance of action, tools, and the built environment, inseparable from them. It also is frequently mundane to the point of boredom, involving things such as plugs, standards, and bureaucratic forms. Some of the difficulties of studying infrastructure are how to scale up from traditional ethnographic sites, how to manage large quantities of data such as those produced by transaction logs, and how to understand the interplay of online and offline behavior. Some of the tricks of the trade involved in meeting these challenges include studying the design of infrastructure, understanding the paradoxes of infrastructure as both transparent and opaque, including invisible work in the ecological analysis, and pinpointing the epistemological status of indictors.}
-      \field{day}{01}
-      \field{issn}{0002-7642, 1552-3381}
-      \field{journaltitle}{American Behavioral Scientist}
-      \field{langid}{english}
-      \field{month}{11}
-      \field{number}{3}
-      \field{shortjournal}{American Behavioral Scientist}
-      \field{title}{The Ethnography of Infrastructure}
-      \field{urlday}{03}
-      \field{urlmonth}{05}
-      \field{urlyear}{2014}
-      \field{volume}{43}
-      \field{year}{1999}
-      \field{pages}{377\bibrangedash 391}
-      \verb{doi}
-      \verb 10.1177/00027649921955326
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/3H8H2G89/Star - 1999 - The Ethnography of Infrastructure.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/X72C96V2/377.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://abs.sagepub.com.libproxy.mit.edu/content/43/3/377
-      \endverb
-    \endentry
     \entry{starr_creation_2004}{book}{}
       \name{labelname}{1}{}{%
         {{hash=01c0dc60bc08ca8d299977de9af67906}{Starr}{S\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
@@ -2889,150 +1500,34 @@
       \field{year}{2004}
       \keyw{Language Arts \& Disciplines / Communication Studies,Political Science / Civics \& Citizenship}
     \endentry
-    \entry{thompson_upworthy:_2013}{article}{}
+    \entry{taylor_new_2014}{article}{}
       \name{labelname}{1}{}{%
-        {{hash=ce6e4860c7f51e01fe5da48c24df108d}{Thompson}{T\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=78fb75aaa5b873c50ee5383d8b9df5ed}{Taylor}{T\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=ce6e4860c7f51e01fe5da48c24df108d}{Thompson}{T\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=78fb75aaa5b873c50ee5383d8b9df5ed}{Taylor}{T\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{ce6e4860c7f51e01fe5da48c24df108d}
-      \strng{fullhash}{ce6e4860c7f51e01fe5da48c24df108d}
+      \strng{namehash}{78fb75aaa5b873c50ee5383d8b9df5ed}
+      \strng{fullhash}{78fb75aaa5b873c50ee5383d8b9df5ed}
       \field{sortinit}{T}
-      \field{labeltitle}{Upworthy: I Thought This Website Was Crazy, but What Happened Next Changed Everything}
-      \field{abstract}{The Internet's latest viral wizard matches smart technology and lily-white earnestness to market "stuff that matters" online, and the Gates Foundation is buying.}
-      \field{day}{14}
-      \field{month}{11}
-      \field{title}{Upworthy: I Thought This Website Was Crazy, but What Happened Next Changed Everything}
-      \field{year}{2013}
-      \verb{url}
-      \verb http://www.theatlantic.com/business/archive/2013/11/upworthy-i-thought-this-website-was-crazy-but-what-happened-next-changed-everything/281472/
-      \endverb
-    \endentry
-    \entry{trevino_which_2014}{report}{}
-      \name{labelname}{2}{}{%
-        {{hash=681511eb12dc43339f219c5a9a4bee79}{Trevino}{T\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=ccc9174727af5d14a5bc934d47b57535}{Doemeland}{D\bibinitperiod}{Doerte}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=681511eb12dc43339f219c5a9a4bee79}{Trevino}{T\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=ccc9174727af5d14a5bc934d47b57535}{Doemeland}{D\bibinitperiod}{Doerte}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{1}{%
-        {The World Bank}%
-      }
-      \strng{namehash}{b8240b627def4b2f2f5cdd152471f0f8}
-      \strng{fullhash}{b8240b627def4b2f2f5cdd152471f0f8}
-      \field{sortinit}{T}
-      \field{labeltitle}{Which World Bank reports are widely read?}
-      \field{abstract}{Knowledge is central to development. The World Bank invests about one-quarter of its budget for country services in knowledge products. Still, there is little research about the demand for these knowledge products and how internal knowledge flows affect their demand. About 49 percent of the World Bank's policy reports, which are published Economic and Sector Work or Technical Assistance reports, have the stated objective of informing the public debate or influencing the development community. This study uses information on downloads and citations to assesses whether policy reports meet this objective. About 13 percent of policy reports were downloaded at least 250 times while more than 31 percent of policy reports are never downloaded. Almost 87 percent of policy reports were never cited. More expensive, complex, multi-sector, core diagnostics reports on middle-income countries with larger populations tend to be downloaded more frequently. Multi-sector reports also tend to be cited more frequently. Internal knowledge sharing matters as cross support provided by the World Bank's Research Department consistently increases downloads and citations.}
-      \field{day}{01}
-      \field{langid}{english}
-      \field{month}{05}
-      \field{number}{{WPS}6851}
-      \field{title}{Which World Bank reports are widely read?}
-      \field{urlday}{10}
-      \field{urlmonth}{05}
-      \field{urlyear}{2014}
+      \field{labeltitle}{New York Schools Chancellor Replaces 8 Superintendents}
+      \field{abstract}{The major personnel reshuffling was the first since Chancellor Carmen Fari\~{n}a took over in January.}
+      \field{day}{21}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{The New York Times}
+      \field{month}{10}
+      \field{title}{New York Schools Chancellor Replaces 8 Superintendents}
+      \field{urlday}{16}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
       \field{year}{2014}
-      \field{pages}{1\bibrangedash 34}
       \verb{file}
-      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HAEMGD9R/Trevino and Doemeland - 2014 - Which World Bank reports are widely read .pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WM9ZPUZP/world-bank-reports-widely-read-world-bank-reports-widely-read.html:text/html
+      \verb New York Times Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/N34GBHHZ/in-shake-up-new-york-schools-chief-changes-8-superintendents.html:text/html
       \endverb
       \verb{url}
-      \verb http://documents.worldbank.org/curated/en/2014/05/19456376/world-bank-reports-widely-read-world-bank-reports-widely-read
+      \verb http://www.nytimes.com/2014/10/22/nyregion/in-shake-up-new-york-schools-chief-changes-8-superintendents.html
       \endverb
-      \keyw{Access to Information,{ACRONYMS},advisory services,article,articles,Book Review}
-    \endentry
-    \entry{van_veelen_alle_1998}{movie}{}
-      \name{labelname}{1}{}{%
-        {{hash=763851822a6cce41674c91fee4a361b6}{Veelen}{V\bibinitperiod}{Ijsbrand}{I\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=763851822a6cce41674c91fee4a361b6}{Veelen}{V\bibinitperiod}{Ijsbrand}{I\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Noorederlicht}%
-      }
-      \strng{namehash}{763851822a6cce41674c91fee4a361b6}
-      \strng{fullhash}{763851822a6cce41674c91fee4a361b6}
-      \field{sortinit}{V}
-      \field{labeltitle}{Alle Kennis van de Wereld (Biography of Paul Otlet)}
-      \field{abstract}{A documentary about Paul Otlet, often considered the father of information management, narrated by W. Boyd Rayward, his biographer. In the late 1800s and early 1900s Otlet pioneered the field of what we today call information science, but what he called documentation. A hundred years before the development of the Internet, Otlet used terms like web of knowledge, link, and knowledge network to describe his vision for a central repository of all human knowledge. In English and French. Produced for Dutch television in 1998.}
-      \field{title}{Alle Kennis van de Wereld (Biography of Paul Otlet)}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{1998}
-      \verb{file}
-      \verb Alle Kennis van de Wereld (Biography of Paul Otlet):/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/H9RQDPV3/Alle Kennis van de Wereld (Biography of Paul Otlet):video/mp4
-      \endverb
-      \verb{url}
-      \verb http://archive.org/details/paulotlet
-      \endverb
-      \keyw{Belgium,Documentation,Internet,Mundaneum,otlet,rayward}
-    \endentry
-    \entry{walker_links_2002}{inproceedings}{}
-      \name{labelname}{1}{}{%
-        {{hash=45b7f9a48d5ef58a20aafd75dba4be61}{Walker}{W\bibinitperiod}{Jill}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=45b7f9a48d5ef58a20aafd75dba4be61}{Walker}{W\bibinitperiod}{Jill}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Baltimore, {MD}}%
-      }
-      \strng{namehash}{45b7f9a48d5ef58a20aafd75dba4be61}
-      \strng{fullhash}{45b7f9a48d5ef58a20aafd75dba4be61}
-      \field{sortinit}{W}
-      \field{labeltitle}{Links and Power}
-      \field{abstract}{Search engines like Google interpret links to a web page as objective, peer-endorsed and machine-readable signs of value. Links have become the currency of the Web. With this economic value they also have power, affecting accessibility and knowledge on the Web.}
-      \field{eventtitle}{{ACM} Hypertext Conference}
-      \field{month}{06}
-      \field{shorttitle}{Links and Power}
-      \field{title}{Links and Power: The Political Economy of Linking on the Web}
-      \field{year}{2002}
-      \verb{file}
-      \verb Citeseer - Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/DZHZFBD5/Walker - 2002 - Links and Power The Political Economy of Linking .pdf:application/pdf;Citeseer - Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/DABVXPNA/summary.html:text/html
-      \endverb
-    \endentry
-    \entry{waterton_experimenting_2010}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=8a9bc47f1ee1aaa031994ca4c4fe60bd}{Waterton}{W\bibinitperiod}{Claire}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=8a9bc47f1ee1aaa031994ca4c4fe60bd}{Waterton}{W\bibinitperiod}{Claire}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{8a9bc47f1ee1aaa031994ca4c4fe60bd}
-      \strng{fullhash}{8a9bc47f1ee1aaa031994ca4c4fe60bd}
-      \field{sortinit}{W}
-      \field{labeltitle}{Experimenting with the Archive}
-      \field{abstract}{This article is about recent attempts by scholars, database practitioners, and curators to experiment in theoretically interesting ways with the conceptual design and the building of databases, archives, and other information systems. This article uses the term {$\textquoteleft$}{$\textquoteleft$}archive{$\textquoteright$}{$\textquoteright$} (following Derrida{$\textquoteright$}s Archive Fever 1998/1995 and Bowker{$\textquoteright$}s Memory Practices in the Sciences 2005) as an overarching category to include a diversity of technologies used to inventory objects and knowledge, to commit them to memory and for future use. The category of {$\textquoteleft$}{$\textquoteleft$}archive{$\textquoteright$}{$\textquoteright$} might include forms as diverse as the simple spreadsheet, the species inventory, the computerized database, and the museum. Using this protean concept, this study suggests that we are currently witnessing a time where close convergences are occurring between social theory and archive construction. It identifies a {$\textquoteleft$}{$\textquoteleft$}move{$\textquoteright$}{$\textquoteright$} toward exposure of the guts of our archives and databases, toward exposing the contingencies, the framing, the reflexivity, and the politics embedded within them. Within this move, the study examines ways in which theories of performance and emergence have begun to influence the way that archives of different kinds are conceived and reflects on the role of Science and Technology Studies ({STS}) scholars in their construction.}
-      \field{day}{01}
-      \field{issn}{0162-2439, 1552-8251}
-      \field{journaltitle}{Science, Technology \& Human Values}
-      \field{langid}{english}
-      \field{month}{09}
-      \field{number}{5}
-      \field{shortjournal}{Science Technology Human Values}
-      \field{shorttitle}{Experimenting with the Archive}
-      \field{title}{Experimenting with the Archive: {STS}-ers As Analysts and Co-constructors of Databases and Other Archival Forms}
-      \field{urlday}{03}
-      \field{urlmonth}{05}
-      \field{urlyear}{2014}
-      \field{volume}{35}
-      \field{year}{2010}
-      \field{pages}{645\bibrangedash 676}
-      \verb{doi}
-      \verb 10.1177/0162243909340265
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WTKQUSIC/Waterton - 2010 - Experimenting with the Archive STS-ers As Analyst.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/UFFP5TVV/645.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://sth.sagepub.com.libproxy.mit.edu/content/35/5/645
-      \endverb
-      \keyw{archive,{DATABASES},emergence,memory,performance}
+      \keyw{Education Department ({NYC}),Education (K-12),Farina,Carmen,New York City,superintendents,Teachers and School Employees}
     \endentry
     \entry{wehrmeyer_news_????}{online}{}
       \name{labelname}{3}{}{%
@@ -3062,269 +1557,79 @@
       \verb https://github.com/okfde/the-news-reads-us
       \endverb
     \endentry
-    \entry{weinberger_everything_2008}{book}{}
+    \entry{yglesias_refreshing_2015}{online}{}
       \name{labelname}{1}{}{%
-        {{hash=5e8fc4656bfe7b869b1609c2ee7d7ae9}{Weinberger}{W\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f9d46ce0fb1c84fa73f879ff43a06a2}{Yglesias}{Y\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=5e8fc4656bfe7b869b1609c2ee7d7ae9}{Weinberger}{W\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f9d46ce0fb1c84fa73f879ff43a06a2}{Yglesias}{Y\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
       }
-      \list{location}{1}{%
-        {New York, {NY}}%
+      \strng{namehash}{0f9d46ce0fb1c84fa73f879ff43a06a2}
+      \strng{fullhash}{0f9d46ce0fb1c84fa73f879ff43a06a2}
+      \field{sortinit}{Y}
+      \field{labeltitle}{Refreshing the evergreen}
+      \field{abstract}{How and why we're trying to find a better way to use our past work.}
+      \field{day}{15}
+      \field{month}{01}
+      \field{title}{Refreshing the evergreen}
+      \field{titleaddon}{Vox}
+      \field{urlday}{04}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/D6TIAD8M/evergreen-experiment.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.vox.com/2015/1/15/7546877/evergreen-experiment
+      \endverb
+    \endentry
+    \entry{zuckerman_international_2010}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=dca8b7a09c49e491b501d8a3e6e1165e}{Zuckerman}{Z\bibinitperiod}{Ethan}{E\bibinitperiod}{}{}{}{}}%
       }
-      \list{publisher}{1}{%
-        {Macmillan}%
+      \name{author}{1}{}{%
+        {{hash=dca8b7a09c49e491b501d8a3e6e1165e}{Zuckerman}{Z\bibinitperiod}{Ethan}{E\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{5e8fc4656bfe7b869b1609c2ee7d7ae9}
-      \strng{fullhash}{5e8fc4656bfe7b869b1609c2ee7d7ae9}
-      \field{sortinit}{W}
-      \field{labeltitle}{Everything Is Miscellaneous: The Power of the New Digital Disorder}
-      \field{isbn}{978-08-0508-811-3}
+      \strng{namehash}{dca8b7a09c49e491b501d8a3e6e1165e}
+      \strng{fullhash}{dca8b7a09c49e491b501d8a3e6e1165e}
+      \field{sortinit}{Z}
+      \field{labeltitle}{International reporting in the age of participatory media}
+      \field{day}{01}
+      \field{issn}{0011-5266}
+      \field{journaltitle}{Daedalus}
       \field{month}{04}
-      \field{note}{{$\textquotedblleft$}Perfectly placed to tell us what{$\textquoteright$}s really new about [the] second-generation Web.{$\textquotedblright$}{$\textemdash$}*Los Angeles Times* Business visionary and bestselling author David Weinberger charts how as business, politics, science, and media move online, the rules of the physical world{$\textemdash$}in which everything has a place{$\textemdash$}are upended. In the digital world, everything has its places, with transformative effects: {$\textbullet$} Information is now a social asset and should be made public, for anyone to link, organize, and make more valuable. {$\textbullet$} There{$\textquoteright$}s no such thing as {$\textquotedblleft$}too much{$\textquotedblright$} information. More information gives people the hooks to find what they need. {$\textbullet$} Messiness is a digital virtue, leading to new ideas, efficiency, and social knowledge. {$\textbullet$} Authorities are less important than buddies. Rather than relying on businesses or reviews for product information, customers trust people like themselves. With the shift to digital music standing as the model for the future in virtually every industry, *Everything Is Miscellaneous* shows how anyone can reap rewards from the rise of digital knowledge. **}
-      \field{title}{Everything Is Miscellaneous: The Power of the New Digital Disorder}
-      \field{year}{2008}
-      \verb{file}
-      \verb [David_Weinberger]_Everything_Is_Miscellaneous.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/MCQUUDCF/[David_Weinberger]_Everything_Is_Miscellaneous.pdf:application/pdf
-      \endverb
-      \keyw{archives,classification,info overload}
-    \endentry
-    \entry{whitacre_henry_????}{audio}{}
-      \name{labelname}{1}{}{%
-        {{hash=25a79c2b4c212e0f2cbb2538e0871672}{Whitacre}{W\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=25a79c2b4c212e0f2cbb2538e0871672}{Whitacre}{W\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{25a79c2b4c212e0f2cbb2538e0871672}
-      \strng{fullhash}{25a79c2b4c212e0f2cbb2538e0871672}
-      \field{sortinit}{W}
-      \field{labeltitle}{Henry Jenkins Returns}
-      \field{abstract}{Legendary former {MIT} professor and housemaster Henry Jenkins, now the Provost{$\textquoteright$}s Professor of Communications, Journalism, Cinematic Arts and Education at the University of Southern California, returns to the Forum for a conversation about his time at the Institute and the founding of {CMS} as well as his path-breaking scholarship on contemporary media. Forum Director David Thorburn, Jenkins{$\textquoteright$} longtime friend and colleague, moderates the discussion.}
-      \field{title}{Henry Jenkins Returns}
-      \field{urlday}{10}
-      \field{urlmonth}{03}
-      \field{urlyear}{2014}
-      \verb{url}
-      \verb http://cmsw.mit.edu/henry-jenkins-returns/
-      \endverb
-    \endentry
-    \entry{willinsky_technologies_1999}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=8c9e26d6c2e5ae09da2ea68596ce8c53}{Willinsky}{W\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=8c9e26d6c2e5ae09da2ea68596ce8c53}{Willinsky}{W\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Boston}%
-      }
-      \list{publisher}{1}{%
-        {Beacon Press}%
-      }
-      \strng{namehash}{8c9e26d6c2e5ae09da2ea68596ce8c53}
-      \strng{fullhash}{8c9e26d6c2e5ae09da2ea68596ce8c53}
-      \field{sortinit}{W}
-      \field{labeltitle}{Technologies of Knowing}
-      \field{abstract}{In this age of ever more powerful computers, our ability to collect and spread knowledge is growing at an exponential rate. Far from liberating humanity, our "information exasperation, " as John Willinsky describes it in this pathbreaking book, has made our ability to reach conclusions about the world around us all the more difficult. While some critics have condemned computers and the Internet for putting us in this age of overflow, and still others have praised them for their own sake, Willinsky takes a middle ground. Using the fictitious Automata Data Corporation as the vehicle for an ingenious thought experiment, he plays out what would happen if all information collected from social science research were centralized, catalogued, and processed by one company serving the public interest. Willinsky describes in great detail how such an entity could work to fulfill the promises of the human sciences and technology.}
-      \field{day}{01}
-      \field{isbn}{9780807061060}
-      \field{langid}{english}
-      \field{month}{01}
-      \field{pagetotal}{228}
-      \field{shorttitle}{Technologies of Knowing}
-      \field{title}{Technologies of Knowing: A Proposal for the Human Sciences}
-      \field{year}{1999}
-      \keyw{Language Arts \& Disciplines / Communication Studies,Social Science / General}
-    \endentry
-    \entry{wolf_curse_1995}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=0d07605e93c7cc857396ea8e92efd881}{Wolf}{W\bibinitperiod}{Gary}{G\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=0d07605e93c7cc857396ea8e92efd881}{Wolf}{W\bibinitperiod}{Gary}{G\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{0d07605e93c7cc857396ea8e92efd881}
-      \strng{fullhash}{0d07605e93c7cc857396ea8e92efd881}
-      \field{sortinit}{W}
-      \field{labeltitle}{The Curse of Xanadu}
-      \field{abstract}{It was the most radical computer dream of the hacker era. Ted Nelson's Xanadu project was supposed to be the universal, democratic hypertext library that would help human life evolve into an entirely new form. Instead, it sucked Nelson and his intrepid band of true believers into what became the longest-running vaporware project in the history of computing - a 30-year saga of rabid prototyping and heart-slashing despair. The amazing epic tragedy.}
-      \field{journaltitle}{Wired}
-      \field{month}{06}
-      \field{number}{6}
-      \field{title}{The Curse of Xanadu}
+      \field{number}{2}
+      \field{shortjournal}{Daedalus}
+      \field{title}{International reporting in the age of participatory media}
       \field{urlday}{15}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{3}
-      \field{year}{1995}
-      \verb{file}
-      \verb 3.06\: features:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/PTAJXX8T/xanadu_pr.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.wired.com/wired/archive/3.06/xanadu_pr.html
-      \endverb
-      \keyw{xanadu}
-    \endentry
-    \entry{yates_art_1966}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=af1c0b0fdbad78c43f0118dc0fcabba2}{Yates}{Y\bibinitperiod}{Frances\bibnamedelima Amelia}{F\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=af1c0b0fdbad78c43f0118dc0fcabba2}{Yates}{Y\bibinitperiod}{Frances\bibnamedelima Amelia}{F\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{af1c0b0fdbad78c43f0118dc0fcabba2}
-      \strng{fullhash}{af1c0b0fdbad78c43f0118dc0fcabba2}
-      \field{sortinit}{Y}
-      \field{labeltitle}{The Art of Memory}
-      \field{abstract}{This unique and brilliant book is a history of human knowledge. Before the invention of printing, a trained memory was of vital importance. Based on a technique of impressing 'places' and 'images' on the mind, the ancient Greeks created an elaborate memory system which in turn was inherited by the Romans and passed into the European tradition, to be revived, in occult form, during the Renaissance. Frances Yates sheds light on Dante's Divine Comedy, the form of the Shakespearian theatre and the history of ancient architecture; The Art of Memory is an invaluable contribution to aesthetics and psychology, and to the history of philosophy, of science and of literature.}
-      \field{langid}{english}
-      \field{title}{The Art of Memory}
-      \field{year}{1966}
-      \verb{file}
-      \verb [Frances_A._Yates]_Selected_Works,_Volume_3_The_A(BookFi.org).pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/X8JAQ2SW/[Frances_A._Yates]_Selected_Works,_Volume_3_The_A(BookFi.org).pdf:application/pdf;Yates_-_The_Art_of_Memory.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/R483DEZZ/Yates_-_The_Art_of_Memory.pdf:application/pdf
-      \endverb
-      \keyw{Psychology / Cognitive Psychology,Psychology / History,renaissance}
-    \endentry
-    \entry{yeo_solution_2003}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=12e5dd55cdd3b1d35b7110a5a9bc712a}{Yeo}{Y\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=12e5dd55cdd3b1d35b7110a5a9bc712a}{Yeo}{Y\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{12e5dd55cdd3b1d35b7110a5a9bc712a}
-      \strng{fullhash}{12e5dd55cdd3b1d35b7110a5a9bc712a}
-      \field{sortinit}{Y}
-      \field{labeltitle}{A Solution to the Multitude of Books}
-      \field{day}{01}
-      \field{issn}{0022-5037}
-      \field{journaltitle}{Journal of the History of Ideas}
-      \field{month}{01}
-      \field{note}{{ArticleType}: research-article / Full publication date: Jan., 2003 / Copyright {\copyright} 2003 University of Pennsylvania Press}
-      \field{number}{1}
-      \field{shortjournal}{Journal of the History of Ideas}
-      \field{shorttitle}{A Solution to the Multitude of Books}
-      \field{title}{A Solution to the Multitude of Books: Ephraim Chambers's "Cyclopaedia" (1728) as "The Best Book in the Universe"}
-      \field{urlday}{10}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{64}
-      \field{year}{2003}
-      \field{pages}{61\bibrangedash 72}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{volume}{139}
+      \field{year}{2010}
+      \field{pages}{66\bibrangedash 75}
       \verb{doi}
-      \verb 10.2307/3654296
+      \verb 10.1162/daed.2010.139.2.66
       \endverb
       \verb{file}
-      \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HTHPF55W/Yeo - 2003 - A Solution to the Multitude of Books Ephraim Cham.pdf:application/pdf
+      \verb Daedalus Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/888BV4ZI/daed.2010.139.2.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.jstor.org/stable/3654296
+      \verb http://dx.doi.org/10.1162/daed.2010.139.2.66
       \endverb
-      \keyw{encyclopedia,link prehistory,renaissance}
-    \endentry
-    \entry{zimmer_renvois_2009}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=20a126ff3e5c19f3b74e71862a25655e}{Zimmer}{Z\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=20a126ff3e5c19f3b74e71862a25655e}{Zimmer}{Z\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{20a126ff3e5c19f3b74e71862a25655e}
-      \strng{fullhash}{20a126ff3e5c19f3b74e71862a25655e}
-      \field{sortinit}{Z}
-      \field{labeltitle}{Renvois of the past, present and future}
-      \field{abstract}{This article provides a 'long history' of the renvois, an 18th century antecedent of hyperlinked text featured prominently in Denis Diderot's Encyclop\'{e}die (1791). It describes the emergence of renvois in the encyclopedias of early modern Europe, traces its expansion over the course of the 20th century through the work of such pioneers as Vannevar Bush, Ted Nelson and Tim Berners-Lee, and looks forward to the potential of renvois as a key component of the semantic web and the growing use of folksonomies online. The article reveals how the use of renvois {$\textemdash$} both in the 18th century and today {$\textemdash$} leads to unsettling juxtapositions, contradictions and unexpected meanings, allowing readers to relinquish their position as passive receivers of pre-organized information, to subvert traditional knowledge structures and hierarchies, and to become active and integral participants in the production of knowledge.}
-      \field{day}{01}
-      \field{issn}{1461-4448, 1461-7315}
-      \field{journaltitle}{New Media \& Society}
-      \field{langid}{english}
-      \field{month}{02}
-      \field{number}{1}
-      \field{shortjournal}{New Media Society}
-      \field{shorttitle}{Renvois of the past, present and future}
-      \field{title}{Renvois of the Past, Present and Future: Hyperlinks and the Structuring of Knowledge from the Encyclop\'{e}die to Web 2.0}
-      \field{urlday}{12}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{volume}{11}
-      \field{year}{2009}
-      \field{pages}{95\bibrangedash 113}
-      \verb{doi}
-      \verb 10.1177/1461444808099573
-      \endverb
-      \verb{file}
-      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/FSMEB6BE/Renvois of the Past, Present and Future_ H - Michael Zimmer.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Z4G2RJ79/95.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://nms.sagepub.com/content/11/1-2/95
-      \endverb
-      \keyw{Diderot,encyclopedia,folksonomy,Hyperlink,Hypertext,memex,renaissance,renvois,semantic web,World Wide Web}
-    \endentry
-    \entry{zittrain_perma:_2013}{report}{}
-      \name{labelname}{3}{}{%
-        {{hash=21dba5314fb3ae06c72638763fe78082}{Zittrain}{Z\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=e43a3f0e6f3d59a733fc2340d30420ef}{Albert}{A\bibinitperiod}{Kendra}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=b927f6177442a683e2822507be56dbd8}{Lessig}{L\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=21dba5314fb3ae06c72638763fe78082}{Zittrain}{Z\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=e43a3f0e6f3d59a733fc2340d30420ef}{Albert}{A\bibinitperiod}{Kendra}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=b927f6177442a683e2822507be56dbd8}{Lessig}{L\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{1}{%
-        {Social Science Research Network}%
-      }
-      \list{location}{1}{%
-        {Rochester, {NY}}%
-      }
-      \strng{namehash}{af7c39228fa082b5f9415a61d25b021b}
-      \strng{fullhash}{af7c39228fa082b5f9415a61d25b021b}
-      \field{sortinit}{Z}
-      \field{labeltitle}{Perma}
-      \field{abstract}{We document a serious problem of reference rot: more than 70\% of the {URLs} within the Harvard Law Review and other journals, and 50\% of the {URLs} found within United States Supreme Court opinions, do not link to the originally cited information.Given that, we propose a solution for authors and editors of new scholarship that involves libraries undertaking the distributed, long-term preservation of link contents.}
-      \field{day}{01}
-      \field{month}{10}
-      \field{number}{{ID} 2329161}
-      \field{shorttitle}{Perma}
-      \field{title}{Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations}
-      \field{type}{{SSRN} Scholarly Paper}
-      \field{urlday}{08}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
-      \field{year}{2013}
-      \verb{file}
-      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/8Z7VGUXI/papers.html:text/html;SSRN-id2329161.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/A7NVGMC8/SSRN-id2329161.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://papers.ssrn.com/abstract=2329161
-      \endverb
-      \keyw{Archiving Preservation,Internet,Link Rot,link rot,Reference Rot,reference rot,{URLs}}
     \endentry
   \endsortlist
-  \missing{trove}
-  \missing{(find cite for this)}
-  \missing{``Company Overview}
-  \missing{europeana}
-  \missing{http://www.lockss.org/}
-  \missing{lost this cite}
-  \missing{debrouwere_taxonomies_2011}
-  \missing{find cite for this?}
-  \missing{https://cyber.law.harvard.edu/node/92313}
-  \missing{http://google.com/about/company}
-  \missing{NewsDiffs; check this figure}
-  \missing{gillespie_algorithms_????}
-  \missing{'' Google}
-  \missing{who is it? burke?}
-  \missing{find upworthy ref}
-  \missing{http://www.lanl.gov/discover/news-release-archive/2015/January/01.26-scholarly-articles-affected-by-reference-rot.php}
-  \missing{Borges ``The Analytical Language of John Wilkins''}
+  \missing{????_explainthis.org_2010}
+  \missing{staying in going out}
+  \missing{interview with lily rothman}
+  \missing{_madison_????}
+  \missing{????_journalism_2001}
+  \missing{interview with josh rothman}
+  \missing{silverman_endangered_2010}
+  \missing{ellis_after_2015}
+  \missing{coddington}
+  \missing{homes_how_2015}
+  \missing{etc.}
 \endrefsection
 \endinput
 
