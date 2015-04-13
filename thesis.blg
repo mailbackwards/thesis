@@ -1,27 +1,2 @@
-[0] Config.pm:318> INFO - This is Biber 1.8
-[1] Config.pm:321> INFO - Logfile is 'thesis.blg'
-[260] biber-darwin:275> INFO - === Tue Mar 17, 2015, 13:18:03
-[260] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[372] Biber.pm:630> INFO - Found 68 citekeys in bib section 0
-[487] Biber.pm:3053> INFO - Processing section 0
-[637] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[791] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
-[1142] Utils.pm:169> WARN - I didn't find a database entry for 'ellis_after_2015' (section 0)
-[1142] Utils.pm:169> WARN - I didn't find a database entry for 'interview with josh rothman' (section 0)
-[1142] Utils.pm:169> WARN - I didn't find a database entry for 'interview with lily rothman' (section 0)
-[1142] Utils.pm:169> WARN - I didn't find a database entry for 'silverman_endangered_2010' (section 0)
-[1143] Utils.pm:169> WARN - I didn't find a database entry for 'homes_how_2015' (section 0)
-[1143] Utils.pm:169> WARN - I didn't find a database entry for '????_journalism_2001' (section 0)
-[1143] Utils.pm:169> WARN - I didn't find a database entry for '????_explainthis.org_2010' (section 0)
-[1143] Utils.pm:169> WARN - I didn't find a database entry for 'coddington' (section 0)
-[1143] Utils.pm:169> WARN - I didn't find a database entry for 'staying in going out' (section 0)
-[1144] Utils.pm:169> WARN - I didn't find a database entry for 'etc.' (section 0)
-[1144] Utils.pm:169> WARN - I didn't find a database entry for '_madison_????' (section 0)
-[1351] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'level = 4' with 'level = 2'
-[1352] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1352] Biber.pm:2945> INFO - Sorting 'entry' list 'cms' keys
-[1352] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1569] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'ascii'
-[1569] bbl.pm:483> INFO - Converting UTF-8 to TeX macros on output to .bbl
-[1632] bbl.pm:555> INFO - Output to thesis.bbl
-[1632] Biber.pm:105> INFO - WARNINGS: 11
+[0] 554906f9.pm:318> INFO - This is Biber 1.8
+[0] 554906f9.pm:321> INFO - Logfile is 'thesis.blg'

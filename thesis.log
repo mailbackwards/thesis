@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 MAR 2015 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 APR 2015 18:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -315,8 +315,8 @@ Package csquotes Info: Enabling multilingual quotes.
 )
 Enter file names to process, (chap1,chap2 ...), or `all' to process all files:
 
-\files=chaps/chap3
-Including only chaps/chap3.
+\files=all
+Including all files.
 Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
 Package biblatex Info: ... file 'cms-american.lbx' found.
 
@@ -392,6 +392,13 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                (find cite for this)
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                _madison_????
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -399,7 +406,14 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                ????_journalism_2001
+(biblatex)                ``Company Overview
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                http://www.lockss.org/
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -413,7 +427,21 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                lost this cite
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                silverman_endangered_2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                find cite for this?
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -427,7 +455,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                coddington
+(biblatex)                https://cyber.law.harvard.edu/node/92313
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -445,15 +473,76 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                http://google.com/about/company
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                NewsDiffs; check this figure
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ????_journalism_2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                '' Google
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                who is it? burke?
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                coddington
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                find upworthy ref
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                http://www.lanl.gov/discover/news-release-archive/201
+5/January/01.26-scholarly-articles-affected-by-reference-rot.php
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Borges ``The Analytical Language of John Wilkins''
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
 )
 Package biblatex Info: Reference section=0 on input line 48.
 Package biblatex Info: Reference segment=0 on input line 48.
-\openout2 = `chaps/chap3.aux'.
+\openout2 = `front/toc.aux'.
 
- (./chaps/chap3.tex
-Chapter 4.
-Package biblatex Info: Resetting trackers on input line 1.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
+ (./front/toc.tex (./thesis.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 <<omx.cmap>>
@@ -461,43 +550,214 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 5.
+ [1
 
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+
+[2])
+\openout2 = `chaps/preface.aux'.
+
+ (./chaps/preface.tex) [3
+
+
+]
+\openout2 = `chaps/intro.aux'.
+
+ (./chaps/intro.tex [4
+
+
+
+]
+Chapter 1.
+Package biblatex Info: Resetting trackers on input line 1.
+) [5]
+\openout2 = `chaps/chap1.aux'.
+
+ (./chaps/chap1.tex [6
+
+
+
+]
+Chapter 2.
+Package biblatex Info: Resetting trackers on input line 1.
+[7] [8]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 24.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 24.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 24.
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 24.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [9]
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 26.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 26.
+
+[10]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
- [61
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+ [11]
+[12] [13]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 50.
+
+[14] [15] [16]
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 1810) has occurred while \output is active []
+
+ [18]
+[19]
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+ [20]
+[21]
+Overfull \hbox (74.60283pt too wide) in paragraph at lines 88--89
+\T1/cmr/m/n/12 (think ``google.com'') or its most spe-cific (like ``pbs.twimg.c
+om/media/Bm6QZAGCQAADEOk.png'').
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Overfull \hbox (0.52765pt too wide) in paragraph at lines 102--103
+[]\T1/cmr/m/n/12 The link is for-ever as-so-ci-ated with (and per-haps plagued 
+by) the foot-note. Theodor
+ []
+
+[23] [24]
+
+LaTeX Warning: Citation 'coddington_building_2012' on page 25 undefined on inpu
+t line 112.
+
+[25]
+Underfull \vbox (badness 3907) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 4072) has occurred while \output is active []
+
+ [27]
+[28]
+Underfull \vbox (badness 1596) has occurred while \output is active []
+
+ [29]
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+[32] [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Overfull \hbox (192.73401pt too wide) in paragraph at lines 169--169
+[][][]\T1/cmr/m/n/10 .| 
+ []
+
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36])
+[37]
+\openout2 = `chaps/chap2.aux'.
+
+ (./chaps/chap2.tex [38
 
 
 
+]
+Chapter 3.
+Package biblatex Info: Resetting trackers on input line 1.
+[39] [40]
+Underfull \vbox (badness 2564) has occurred while \output is active []
+
+ [41]
+[42] [43] [44]
+Underfull \vbox (badness 5548) has occurred while \output is active []
+
+ [45]
+
+! Package biblatex Error: No driver found.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...ew book.''\autocite{van_veelen_alle_1998} 
+                                                  Otlet's ``radiated library...
+
+? 
+[46]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 47.
+
+
+Underfull \vbox (badness 1033) has occurred while \output is active []
+
+ [47]
+[48] [49]
+Underfull \vbox (badness 2318) has occurred while \output is active []
+
+ [50]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 75.
+
+[51]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 79.
+
+[52] [53]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 89.
+
+[54] [55] [56] [57] [58] [59]) [60]
+\openout2 = `chaps/chap3.aux'.
+
+ (./chaps/chap3.tex
+Chapter 4.
+Package biblatex Info: Resetting trackers on input line 1.
+[61
 
 
 
-
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+]
 Underfull \vbox (badness 1062) has occurred while \output is active []
 
  [62]
 [63] [64]
 
-LaTeX Warning: Command \textquoteleft invalid in math mode on input line 23.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 23.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 23.
-
-
 LaTeX Warning: Command \textquoteleft invalid in math mode on input line 25.
 
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 27.
 
 [65]
 Underfull \vbox (badness 1810) has occurred while \output is active []
@@ -505,31 +765,31 @@ Underfull \vbox (badness 1810) has occurred while \output is active []
  [66]
 [67] [68]
 
-LaTeX Warning: Command \textemdash invalid in math mode on input line 39.
+LaTeX Warning: Command \textemdash invalid in math mode on input line 41.
 
 
-LaTeX Warning: Command \textemdash invalid in math mode on input line 46.
+LaTeX Warning: Command \textemdash invalid in math mode on input line 48.
 
 
 Underfull \vbox (badness 4072) has occurred while \output is active []
 
  [69]
 [70]
-Overfull \hbox (8.66339pt too wide) in paragraph at lines 52--53
+Overfull \hbox (8.66339pt too wide) in paragraph at lines 54--55
 []\T1/cmr/m/n/12 Still, archives don't di-rectly drive clicks, and legacy pub-l
 ish-ers have well-documented
  []
 
 [71]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 54.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 59.
 
 [72] [73] [74]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 73.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 78.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 75.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 80.
 
 [75]
 Underfull \vbox (badness 1033) has occurred while \output is active []
@@ -547,14 +807,8 @@ Underfull \vbox (badness 1688) has occurred while \output is active []
 
  [83]
 [84] [85] [86] [87]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 142.
-
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 142.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
  [88] [89]
 Underfull \vbox (badness 1688) has occurred while \output is active []
 
@@ -567,45 +821,358 @@ Underfull \vbox (badness 1048) has occurred while \output is active []
 
  [93]
 [94]
-Overfull \hbox (0.63637pt too wide) in paragraph at lines 180--181
+Overfull \hbox (0.63637pt too wide) in paragraph at lines 188--189
 []\T1/cmr/m/n/12 These web-native and poly-hier-ar-chi-cal ap-proaches to clas-
 si-fi-ca-tion re-flect the grow-
  []
 
-[95] [96]) [97] (./thesis.aux (./front/toc.aux) (./chaps/preface.aux)
+[95] [96]) [97]
+\openout2 = `chaps/chap4.aux'.
+
+ (./chaps/chap4.tex [98
+
+
+
+]
+Chapter 5.
+Package biblatex Info: Resetting trackers on input line 1.
+
+LaTeX Warning: Citation 'deuze etc.' on page 99 undefined on input line 9.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+
+LaTeX Warning: Citation 'de_maeyer_' on page 100 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'paul_1995' on page 100 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'coddington_normalizing_2013' on page 100 undefined on 
+input line 15.
+
+
+LaTeX Warning: Citation 'coddington_building_2012' on page 100 undefined on inp
+ut line 15.
+
+[100]
+
+LaTeX Warning: Citation 'coddington_building_2012' on page 101 undefined on inp
+ut line 17.
+
+
+LaTeX Warning: Citation 'coddington_normalizing_2013' on page 101 undefined on 
+input line 19.
+
+
+LaTeX Warning: Citation 'bbc_putting_2010' on page 101 undefined on input line 
+19.
+
+[101]
+
+LaTeX Warning: Citation 'karlsson_hyperlinking_2014' on page 102 undefined on i
+nput line 21.
+
+
+LaTeX Warning: Citation 'fragoso_understanding' on page 102 undefined on input 
+line 27.
+
+
+LaTeX Warning: Citation 'fragoso_understanding' on page 102 undefined on input 
+line 27.
+
+[102]
+
+LaTeX Warning: Citation 'de_maeyer_towards_2013' on page 103 undefined on input
+ line 33.
+
+
+Underfull \vbox (badness 1048) has occurred while \output is active []
+
+ [103]
+
+LaTeX Warning: Citation 'find the ACTUAL number for this' on page 104 undefined
+ on input line 35.
+
+
+LaTeX Warning: Citation 'park_sociology_????' on page 104 undefined on input li
+ne 37.
+
+
+LaTeX Warning: Citation 'weber_flow_2011' on page 104 undefined on input line 3
+9.
+
+
+Underfull \vbox (badness 1424) has occurred while \output is active []
+
+ [104]
+
+LaTeX Warning: Citation 'dean_finding_1999' on page 105 undefined on input line
+ 41.
+
+
+LaTeX Warning: Citation 'automatically_embedding_newsworthy' on page 105 undefi
+ned on input line 43.
+
+
+LaTeX Warning: Citation 'coddington_building_2012' on page 105 undefined on inp
+ut line 43.
+
+
+LaTeX Warning: Citation 'link apprentice' on page 105 undefined on input line 4
+3.
+
+
+Underfull \vbox (badness 2538) has occurred while \output is active []
+
+ [105]
+
+LaTeX Warning: Citation 'tremayne_applying_network_theory' on page 106 undefine
+d on input line 51.
+
+
+LaTeX Warning: Citation 'tremayne_web_of_context' on page 106 undefined on inpu
+t line 51.
+
+[106]
+
+LaTeX Warning: Citation 'larsson_staying_2013' on page 107 undefined on input l
+ine 57.
+
+[107]) [108]
+\openout2 = `chaps/conc.aux'.
+
+ (./chaps/conc.tex
+Chapter 6.
+Package biblatex Info: Resetting trackers on input line 1.
+[109
+
+
+
+]) [110]
+\openout2 = `biblio/biblio.aux'.
+
+ (./biblio/biblio.tex [111
+
+
+
+]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+
+Overfull \hbox (4.98703pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Beckett, Char-lie. ^^P  Ed-i-to-rial Di-ver-sity: Qual-ity N
+et-worked Jour-nal-ism.^^Q Po-lis. March 15,
+ []
+
+
+Overfull \hbox (0.44905pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Bennett, Charles G. ^^P  Lind-say Warned on School Bud-get.^
+^Q \T1/cmr/m/it/12 New York Times \T1/cmr/m/n/12 (March 14,
+ []
+
+[112]
+Overfull \hbox (10.23845pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 2014. Ac-cessed Febru-ary 12, 2014. $\T1/cmtt/m/n/12 http : / / 
+www . businessinsider . com / facebook -[]
+ []
+
+
+Overfull \hbox (20.4803pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 1728. Ac-cessed De-cem-ber 18, 2014. $\T1/cmtt/m/n/12 http : / /
+ uwdc . library . wisc . edu / collections /
+ []
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+
+Overfull \hbox (9.38654pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Coddington, Mark. ^^P  De-fend-ing judg-ment and con-text in
+ $\OT1/cmr/m/n/12 `$\T1/cmr/m/n/12 original reporting$[]$: Journalists$[]$
+ []
+
+[113]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+
+Overfull \hbox (12.77217pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Dahlgren, Pe-ter. ^^P  Me-dia Logic in Cy-berspace: Repo-si-
+tion-ing Jour-nal-ism and its Publics.^^Q
+ []
+
+
+Overfull \hbox (12.70662pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Derrida, Jacques. ^^P  Archive Fever: A Freudian Im-pres-sio
+n.^^Q Trans-lated by Eric Prenowitz.
+ []
+
+
+Overfull \hbox (48.46828pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 Co-op-er-a-tive Clas-si-fi-ca-tion G06F17/30053, G06F17/30657, G
+06F17/30867, G06F17/30663;
+ []
+
+[114]
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+[115]
+Overfull \hbox (20.65352pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 ber 2013). $\T1/cmtt/m/n/12 http : / / computationalculture . ne
+t / article / the -[] algorithmization -[]
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+[116]
+Overfull \hbox (1.2224pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Holovaty, Adrian. ^^P  A fun-da-men-tal way news-pa-per site
+s need to change.^^Q Holo-vaty.com.
+ []
+
+[117]
+Overfull \hbox (0.47937pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 Novem-ber 12, 2014. Ac-cessed Novem-ber 12, 2014. $\T1/cmtt/m/n/
+12 http : / / www . capitalnewyork .
+ []
+
+
+Overfull \hbox (13.79643pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 Ac-cessed March 15, 2015. $\T1/cmtt/m/n/12 http : / / www . vox 
+. com / cards / marijuana -[] legalization$\T1/cmr/m/n/12 . 
+ []
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 6.
+
+[118]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+[119]
+Overfull \hbox (0.16914pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 PRESS-THINK. Au-gust 13, 2008. Ac-cessed De-cem-ber 23, 2014. $\
+T1/cmtt/m/n/12 http : / / archive .
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+
+Overfull \hbox (4.1796pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/it/12 Com-put-ing \T1/cmr/m/n/12 Work-ing Pa-per RWP07-022. Cam-bridg
+e, MA: John F. Kennedy School
+ []
+
+[120]
+Overfull \hbox (14.28658pt too wide) in paragraph at lines 7--7
+\T1/cmr/m/n/12 pened Next Changed Ev-ery-thing^^Q (Novem-ber 14, 2013). $\T1/cm
+tt/m/n/12 http : / / www . theatlantic .
+ []
+
+
+Overfull \hbox (45.56534pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Trevino, James, and Do-erte Doeme-land. \T1/cmr/m/it/12 Whic
+h World Bank re-ports are widely read? \T1/cmr/m/n/12 WPS6851.
+ []
+
+[121]
+
+! Package biblatex Error: No driver found.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \end
+        {singlespace}
+? 
+
+Overfull \hbox (3.6985pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Willinsky, John. \T1/cmr/m/it/12 Tech-nolo-gies of Know-ing:
+ A Pro-posal for the Hu-man Sci-ences\T1/cmr/m/n/12 . Boston:
+ []
+
+
+Overfull \hbox (1.85574pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Yglesias, Matthew. ^^P  Re-fresh-ing the ev-er-green.^^Q Vox
+. Jan-uary 15, 2015. Ac-cessed Febru-
+ []
+
+[122]
+Overfull \hbox (9.75095pt too wide) in paragraph at lines 7--7
+[][]\T1/cmr/m/n/12 Zuckerman, Ethan. ^^P  In-ter-na-tional re-port-ing in the a
+ge of par-tic-i-pa-tory me-dia.^^Q \T1/cmr/m/it/12 Daedalus
+ []
+
+) [123] (./thesis.aux (./front/toc.aux) (./chaps/preface.aux)
 (./chaps/intro.aux) (./chaps/chap1.aux) (./chaps/chap2.aux) (./chaps/chap3.aux)
 (./chaps/chap4.aux) (./chaps/conc.aux) (./biblio/biblio.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8367 strings out of 493117
- 148827 string characters out of 6135433
- 644204 words of memory out of 5000000
- 11675 multiletter control sequences out of 15000+600000
- 15760 words of font info for 36 fonts, out of 8000000 for 9000
+ 8934 strings out of 493117
+ 160917 string characters out of 6135433
+ 650299 words of memory out of 5000000
+ 12218 multiletter control sequences out of 15000+600000
+ 16849 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,5n,74p,3009b,1576s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,7n,80p,3009b,1606s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loca
-l/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on thesis.pdf (37 pages, 358755 bytes).
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on thesis.pdf (123 pages, 686027 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 484 PDF objects out of 1000 (max. 8388607)
+ 331 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

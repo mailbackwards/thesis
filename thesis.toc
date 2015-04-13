@@ -72,14 +72,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Tracing the Links}{99}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}History/theory of link analysis}{99}
+\contentsline {section}{\numberline {5.1}Links and journalism}{100}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Link breakdown by category}{99}
+\contentsline {subsection}{\numberline {5.1.1}Qualitative or quantitative?}{102}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Link breakdown by graph/network}{99}
+\contentsline {subsection}{\numberline {5.1.2}Staying in or going out?}{106}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Conclusion}{101}
+\contentsline {section}{\numberline {5.2}Link analysis}{108}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}News apps}{101}
+\contentsline {subsection}{\numberline {5.2.1}Methodology}{108}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}HTML5, multimedia, annotation}{102}
+\contentsline {subsection}{\numberline {5.2.2}Link breakdown by category}{108}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Link breakdown by graph/network}{108}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Conclusion}{109}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}News apps}{109}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}HTML5, multimedia, annotation}{110}
