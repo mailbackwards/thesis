@@ -1,8 +1,8 @@
 \chapter{Tracing the Links}
 
-In the previous chapters I have increasingly honed in on the publishing archive and the conceptions of journalists and newsmakers of the archival value of their work. Here I will shift more from prescriptive to descriptive, tracing the links themselves and determine what publishers are \emph{actually doing} with their archives already. I will do this by tracing the inlinking that journalists already do within their publications' stories. Hyperlinks are curated windows into archival material, and a possible sign of publishers' historical research and institutional memory at work. By determine which articles journalists are pointing to, we can start to understand how stories become canonized within a media institution, as well as how the links themselves can begin to form new categories of their own.
+In the previous chapters I have increasingly honed in on the publishing archive and the conceptions of journalists and newsmakers of the archival value of their work. Here I will shift more from prescriptive to descriptive, tracing the links themselves and determine what publishers are \emph{actually doing} with their archives already. I will do this first by examining existing qualitative and quantitative research around the conception and use of hyperlinks by journalists and news outlets, then by closely examining the ``inlinking'' that journalists already do within their publications' stories. Hyperlinks are curated windows into archival material, and a possible sign of publishers' historical research and institutional memory at work. By determine which articles journalists are pointing to, we can start to understand how stories become canonized within a media institution, as well as how the links themselves can begin to form new categories of their own.
 
-After a review of journalists' current views of the role of hyperlinking in their practice---as conducted through both qualitative interviews and quantitative link analysis---I will conduct a hyperlink analysis of nine publications via two paradigms. The first is to infer how the institution categorizes its content through the publication's URL structure, and to see if hyperlinking practices differ across categories as well as publications. The second question is to determine whether the hyperlinks that journalists create can begin to form a new paradigm of categorization on its own; are journalists linking across traditional desks and categories, or are their hyperlinks reinforcing existing institutional structures?
+In the first section, I will review journalists' current considerations of the role of hyperlinking in their practice, which will lead to a review of existing qualitative interviews and quantitative link analysis. The second section examines the hyperlinking practices of a variety of publications with the aid of a custom open-source software tool. The tool aids in the exploration and examination of hyperlinks within news stories via two possible paradigms; by broader category or newsroom desk on the one hand, or by crawling the inlinks to form a graph on the other. The first question is to infer how the institution categorizes its content through the publication's URL structure, and to see if hyperlinking practices differ across categories as well as publications. The second question is to determine whether the hyperlinks that journalists create can begin to form a new paradigm of categorization on its own; are journalists linking across traditional desks and categories, or are their hyperlinks reinforcing existing institutional structures?
 
 \section{Links and journalism}
 
@@ -83,13 +83,17 @@ I aimed to gather three data sets, which traversed from larger to smaller data a
 - A comprehensive sample of certain publishers, for specific comparative analyses of those publishers' linking practices.
 - A few specific, crawler-generated networks of links surrounding a particular article, topic, or event.
 
-To obtain the comprehensive data sets, I used Media Cloud, a project jointly run by Harvard's Berkman Center for Internet \& Society and MIT's Center for Civic Media.\footnote{See mediacloud.org} Media Cloud offers a near-comprehensive repository of news articles from recent years, which can be downloaded and processed programmatically for research use; it also contains a series of ``media sets,'' which broadly define and classify types of media.
+I obtained the first two data sets through Media Cloud, a project jointly run by Harvard's Berkman Center for Internet \& Society and MIT's Center for Civic Media.\footnote{See mediacloud.org. Explain Media Cloud; give examples like Trayvon Martin} Media Cloud offers a nearly-comprehensive and well-indexed repository of news articles from recent years, which can be downloaded and processed programmatically for research use; it also contains a series of tags and ``media sets,'' which broadly define and classify different types of media.
 
-For the first set, large sample set, I honed in on two of Media Cloud's media sets: publishers in the Top 25 Mainstream Media, and publishers in the Top 1000 Popular Blogs. Comparing these two sets would allow an understanding of the quantitative differences in linking practices between major publishers on the one hand, and smaller blogs and aggregators on the other (although there is some overlap; Top 25 Mainstream Media includes some digital aggregators, such as the Huffington Post).
+Before downloading the data sets from Media Cloud, I considered the software architecture of the tool. Building on Civic Media's Python API Client, I added a ``link extractor,'' which indexes details about each inline link in each story across the collections.\footnote{Link to c4fcm + my own?} The link extractor stores the target URL, the anchor text, the paragraph number, and whether or not it is an inlink (if the source and target URL are the same domain, it is considered an inlink). In case a researcher is looking for custom, publisher-specific link metadata, it also stores all of the attributes of the link's HTML element. Lastly, the extractor indexes story-wide metadata, such as word and paragraph counts. This enables a variety of research questions based on the text, placement, target, and markup of the inline hyperlinks in a story. In this case I aim for the inlinks within a publisher's archive, but one could readily track and analyze links between websites as well.
 
-For the second set,
+The first, large sample set honed in on two of Media Cloud's media sets: publishers in the Top 25 Mainstream Media, and publishers in the Top 1000 Popular Blogs.\footnote{See appendix for details on Media Cloud's media sets.} Comparing these two sets allows an understanding of the quantitative differences in linking practices between major publishers on the one hand, and smaller blogs and aggregators on the other (although there is some overlap; Top 25 Mainstream Media includes some digital aggregators, such as the Huffington Post). For each set, I selected a week's worth of stories from February 2015, and a single day of stories from March 2013.\footnote{See appendix for details on the data sets.} This gave me a total of nearly 42000 mass media stories, and 23000 stories from blog.
 
-For the crawler,
+For the second set, I decided on all articles published by the New York Times and the Guardian for a single month in 2013, 2014, and 2015 each; for the purposes of comparison to a digital aggregator, I also collected stories from the Huffington Post for a single month in 2014 and 2015. This resulted in approximately 76000 stories. I was also particularly interested in the linking practices of Vox (for background, see section 3.1.2). As such, I collected all of the stories by Vox on Media Cloud, which was a total of about 3700 stories.
+
+The crawler networks, on the other hand, do not require Media Cloud. Here I used a more directed approach and selected sample stories to start the crawl; using this link extraction software, the crawler follows each inlink in a given article, in order of distance from the source, and extracts those inlinks' inlinks in turn, until it has no more inlinks to crawl. This results in an incomplete set, but one that is able to traverse across the time-bound Media Cloud link network.
+
+The link extractor and crawler will be available as open source tools, along with integration with the MongoDB database.
 
 % # April 2012
 % # March 2013
@@ -118,10 +122,9 @@ For the crawler,
 
 % Do stories with more links tend to be shorter? e.g. blogs?
 
+\subsection{Results by category}
 
-\subsection{Link breakdown by category}
-
-\subsection{Link breakdown by graph/network}
+\subsection{Results by graph/network}
 
 % The last chapter dealt with how publishers think about their archives. This section focuses instead on how they're \emph{linking}, through research and quantitative link analysis. It will combine historic news network analyses and a study that I performed with the help of Media Cloud.
 

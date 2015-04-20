@@ -1,2 +1,36 @@
-[0] 554906f9.pm:318> INFO - This is Biber 1.8
-[0] 554906f9.pm:321> INFO - Logfile is 'thesis.blg'
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'thesis.blg'
+[89] biber-darwin:275> INFO - === Mon Apr 20, 2015, 17:32:03
+[89] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[190] Biber.pm:630> INFO - Found 200 citekeys in bib section 0
+[211] Biber.pm:3053> INFO - Processing section 0
+[231] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[367] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
+[619] Utils.pm:169> WARN - Couldn't determine Last Name for name "boyd, danah" - ignoring name
+[686] Utils.pm:169> WARN - I didn't find a database entry for 'deuze etc.' (section 0)
+[686] Utils.pm:169> WARN - I didn't find a database entry for 'de_maeyer_' (section 0)
+[686] Utils.pm:169> WARN - I didn't find a database entry for 'paul_1995' (section 0)
+[686] Utils.pm:169> WARN - I didn't find a database entry for 'coddington_normalizing_2013' (section 0)
+[687] Utils.pm:169> WARN - I didn't find a database entry for 'fragoso_understanding' (section 0)
+[687] Utils.pm:169> WARN - I didn't find a database entry for 'find the ACTUAL number for this' (section 0)
+[687] Utils.pm:169> WARN - I didn't find a database entry for 'park_sociology_????' (section 0)
+[688] Utils.pm:169> WARN - I didn't find a database entry for 'automatically_embedding_newsworthy' (section 0)
+[688] Utils.pm:169> WARN - I didn't find a database entry for 'link apprentice' (section 0)
+[688] Utils.pm:169> WARN - I didn't find a database entry for 'tremayne_applying_network_theory' (section 0)
+[688] Utils.pm:169> WARN - I didn't find a database entry for 'tremayne_web_of_context' (section 0)
+[689] Utils.pm:169> WARN - I didn't find a database entry for 'o'donovan_buzzfeed_2014' (section 0)
+[689] Utils.pm:169> WARN - I didn't find a database entry for 'helmond_examining_2013' (section 0)
+[689] Utils.pm:169> WARN - I didn't find a database entry for '????_news_2014' (section 0)
+[689] Utils.pm:169> WARN - I didn't find a database entry for 'landow' (section 0)
+[690] Utils.pm:169> WARN - I didn't find a database entry for 'bolter' (section 0)
+[690] Utils.pm:169> WARN - I didn't find a database entry for 'manovich' (section 0)
+[690] Utils.pm:169> WARN - I didn't find a database entry for 'gillmor_we_2003?' (section 0)
+[690] Utils.pm:169> WARN - I didn't find a database entry for 'ureta_2011' (section 0)
+[1094] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'level = 4' with 'level = 2'
+[1095] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[1095] Biber.pm:2945> INFO - Sorting 'entry' list 'cms' keys
+[1095] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1953] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'ascii'
+[1953] bbl.pm:483> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[2148] bbl.pm:555> INFO - Output to thesis.bbl
+[2148] Biber.pm:105> INFO - WARNINGS: 20
