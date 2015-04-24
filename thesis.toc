@@ -10,7 +10,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1.2}The summer of archives}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Outline of chapters and methods}{20}
+\contentsline {section}{\numberline {1.2}Outline of chapters and methods}{21}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}The Size and Shape of Archives}{23}
 \defcounter {refsection}{0}\relax 
@@ -24,72 +24,70 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}The URL}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}The link}{39}
+\contentsline {subsection}{\numberline {2.2.2}The link}{38}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}The feed, the index}{44}
+\contentsline {subsection}{\numberline {2.2.3}The feed, the index}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}The archive}{48}
+\contentsline {subsection}{\numberline {2.2.4}The archive}{46}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}Erasure and afterlife}{51}
+\contentsline {subsection}{\numberline {2.2.5}Erasure and afterlife}{49}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}An Intertwingled History of Linking}{55}
+\contentsline {chapter}{\numberline {3}An Intertwingled History of Linking}{53}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Spatialization: The Radiated Library}{56}
+\contentsline {section}{\numberline {3.1}Spatialization: The Radiated Library}{54}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}The linked encyclopedia}{59}
+\contentsline {subsection}{\numberline {3.1.1}The linked encyclopedia}{57}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Paul Otlet and the dimensions of memory}{62}
+\contentsline {subsection}{\numberline {3.1.2}Paul Otlet and the dimensions of memory}{60}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Intersubjectivity: The Memex}{64}
+\contentsline {section}{\numberline {3.2}Intersubjectivity: The Memex}{62}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Vannevar Bush, individual memory, collective history}{67}
+\contentsline {subsection}{\numberline {3.2.1}Vannevar Bush's memory machine}{65}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Encyclopedism: Project Xanadu}{70}
+\contentsline {section}{\numberline {3.3}Encyclopedism: Project Xanadu}{68}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Ted Nelson's endless archive}{72}
+\contentsline {subsection}{\numberline {3.3.1}Ted Nelson's endless archive}{70}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Conclusion}{75}
+\contentsline {section}{\numberline {3.4}Conclusion}{72}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Networking the News}{77}
+\contentsline {chapter}{\numberline {4}Networking the News}{75}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Context in context}{79}
+\contentsline {section}{\numberline {4.1}Context in context}{77}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}The archive drive}{84}
+\contentsline {subsection}{\numberline {4.1.1}The archive drive}{82}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Explaining the news}{90}
+\contentsline {subsection}{\numberline {4.1.2}Explaining the news}{88}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}The size and shape of stories}{96}
+\contentsline {section}{\numberline {4.2}The size and shape of stories}{94}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}The hypertext newspaper}{99}
+\contentsline {subsection}{\numberline {4.2.1}The hypertext newspaper}{96}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Atoms of news}{102}
+\contentsline {subsection}{\numberline {4.2.2}Atoms of news}{100}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}From tags to links}{105}
+\contentsline {subsection}{\numberline {4.2.3}From tags to links}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Conclusion}{112}
+\contentsline {section}{\numberline {4.3}Conclusion}{110}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Tracing the Links}{115}
+\contentsline {chapter}{\numberline {5}Tracing the Links}{113}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Links and journalism}{116}
+\contentsline {section}{\numberline {5.1}Links and journalism}{114}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}Qualitative or quantitative?}{118}
+\contentsline {subsection}{\numberline {5.1.1}Qualitative or quantitative?}{117}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}Staying in or going out?}{123}
+\contentsline {subsection}{\numberline {5.1.2}Staying in or going out?}{122}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}Link analysis}{124}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2.1}Methodology}{126}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Results by category}{127}
+\contentsline {subsection}{\numberline {5.2.2}Results}{128}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.3}Results by graph/network}{127}
+\contentsline {chapter}{\numberline {6}Conclusion}{133}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Conclusion}{129}
+\contentsline {section}{\numberline {6.1}From links to apps}{135}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}From links to apps}{131}
+\contentsline {section}{\numberline {6.2}Standardizing stories}{140}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Standardizing stories}{135}
+\contentsline {subsection}{\numberline {6.2.1}Future design}{141}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Future design}{137}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.2}Art of the archive}{140}
+\contentsline {subsection}{\numberline {6.2.2}Art of the archive}{144}

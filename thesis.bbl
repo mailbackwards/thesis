@@ -16,10 +16,6 @@
   {}
 \endgroup
 
-\preamble{%
-\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1} \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}%
-}
-
 
 \refsection{0}
   \sortlist{entry}{cms}
@@ -177,9 +173,6 @@
       \field{shortjournal}{Journalism}
       \field{shorttitle}{What aggregators do}
       \field{title}{What aggregators do: Towards a networked concept of journalistic expertise in the digital age}
-      \field{urlday}{21}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
       \field{volume}{14}
       \field{year}{2013}
       \field{pages}{1008\bibrangedash 1023}
@@ -188,9 +181,6 @@
       \endverb
       \verb{file}
       \verb 407757.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/5RIQCH5M/407757.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QD7PJ9VK/1008.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://jou.sagepub.com/content/14/8/1008
       \endverb
       \keyw{actor-network theory,aggregation,expertise,reporting,sociology of news}
     \endentry
@@ -233,6 +223,42 @@
       \field{month}{01}
       \field{title}{Interview}
       \field{year}{2015}
+    \endentry
+    \entry{arapakis_automatically_2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=c5395c670c76b4f99dfc9f614c045fec}{Arapakis}{A\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=0b95e9202a90df308ce5420a514c041c}{Lalmas}{L\bibinitperiod}{Mounia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d9aa3f0743ea6fd9ee8cd831f01405d6}{Ceylan}{C\bibinitperiod}{Hakan}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=78636598d2ffe053f8da919f19c7cdd0}{Donmez}{D\bibinitperiod}{Pinar}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=c5395c670c76b4f99dfc9f614c045fec}{Arapakis}{A\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=0b95e9202a90df308ce5420a514c041c}{Lalmas}{L\bibinitperiod}{Mounia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d9aa3f0743ea6fd9ee8cd831f01405d6}{Ceylan}{C\bibinitperiod}{Hakan}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=78636598d2ffe053f8da919f19c7cdd0}{Donmez}{D\bibinitperiod}{Pinar}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6888c05205a9302ca19d1809d22f0a17}
+      \strng{fullhash}{42a41e2eb2f0ffae6a5efbbfa7503998}
+      \field{sortinit}{A}
+      \field{labeltitle}{Automatically embedding newsworthy links to articles}
+      \field{abstract}{News portals are a popular destination for web users. News providers are therefore interested in attaining higher visitor rates and promoting greater engagement with their content. One aspect of engagement deals with keeping users on site longer by allowing them to have enhanced click-through experiences. News portals have invested in ways to embed links within news stories but so far these links have been curated by news editors. Given the manual effort involved, the use of such links is limited to a small scale. In this article, we evaluate a system-based approach that detects newsworthy events in a news article and locates other articles related to these events. Our system does not rely on resources like Wikipedia to identify events, and it was designed to be domain independent. A rigorous evaluation, using Amazon's Mechanical Turk, was performed to assess the system-embedded links against the manually-curated ones. Our findings reveal that our system's performance is comparable with that of professional editors, and that users find the automatically generated highlights interesting and the associated articles worthy of reading. Our evaluation also provides quantitative and qualitative insights into the curation of links, from the perspective of users and professional editors.}
+      \field{issn}{23301635}
+      \field{journaltitle}{Journal of the Association for Information Science \& Technology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{shortjournal}{Journal of the Association for Information Science \& Technology}
+      \field{shorttitle}{Automatically embedding newsworthy links to articles}
+      \field{title}{Automatically embedding newsworthy links to articles: From implementation to evaluation}
+      \field{volume}{65}
+      \field{year}{2014}
+      \field{pages}{129\bibrangedash 145}
+      \verb{doi}
+      \verb 10.1002/asi.22959
+      \endverb
+      \verb{file}
+      \verb newsworthy_links.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/BR44IA6I/newsworthy_links.pdf:application/pdf
+      \endverb
+      \keyw{Access to Information,{CHI}-squared test,{COMPARATIVE} grammar,{CROWDSOURCING},{DATA} analysis,{INFORMATION} resources,{MEDICAL} coding,{PRESS},qualitative research,{SCALE} analysis (Psychology),{STATISTICS},text mining,user studies,U-statistics,{WEB} development}
     \endentry
     \entry{arbesman_half-life_2013}{book}{}
       \name{labelname}{1}{}{%
@@ -314,6 +340,30 @@
       \endverb
       \keyw{xanadu}
     \endentry
+    \entry{barabasi_linked:_2003}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=b2d66ab85a6a23f6f1d4fd558eb1fd06}{Barabasi}{B\bibinitperiod}{Albert-Laszlo}{A\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b2d66ab85a6a23f6f1d4fd558eb1fd06}{Barabasi}{B\bibinitperiod}{Albert-Laszlo}{A\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Plume}%
+      }
+      \strng{namehash}{b2d66ab85a6a23f6f1d4fd558eb1fd06}
+      \strng{fullhash}{b2d66ab85a6a23f6f1d4fd558eb1fd06}
+      \field{sortinit}{B}
+      \field{labeltitle}{Linked}
+      \field{day}{29}
+      \field{isbn}{0452284392}
+      \field{month}{04}
+      \field{shorttitle}{Linked}
+      \field{title}{Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life}
+      \field{year}{2003}
+      \verb{file}
+      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Q7K4HWN7/Linked_ How Everything is Connected to Eve - Albert-Laszlo Barabasi.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{barnet_memory_2013}{book}{}
       \name{labelname}{1}{}{%
         {{hash=f4d61a4e643d118a5ba5d135666670a5}{Barnet}{B\bibinitperiod}{Belinda}{B\bibinitperiod}{}{}{}{}}%
@@ -358,9 +408,6 @@
       \field{shortjournal}{Continuum: Journal of Media \& Cultural Studies}
       \field{shorttitle}{Pack-rat or Amnesiac?}
       \field{title}{Pack-rat or Amnesiac? Memory, the archive and the birth of the Internet}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{15}
       \field{year}{2001}
       \field{pages}{217\bibrangedash 231}
@@ -369,9 +416,6 @@
       \endverb
       \verb{file}
       \verb Pack-rat or Amnesiac_ Memory, the archive and the birth of the Internet.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/JFPCXSXZ/Pack-rat or Amnesiac_ Memory, the archive and the birth of the Internet.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://www.tandfonline.com/doi/abs/10.1080/713657802
       \endverb
       \keyw{archive,memory,{TECHNOLOGY} -- Psychological aspects,{WRITING}}
     \endentry
@@ -389,16 +433,10 @@
       \field{journaltitle}{Digital Humanities Quarterly}
       \field{number}{1}
       \field{title}{The Technical Evolution of Vannevar Bush{$\textquoteright$}s Memex}
-      \field{urlday}{16}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
       \field{volume}{2}
       \field{year}{2008}
       \verb{file}
       \verb DHQ_ Digital Humanities Quarterly_ The Technical Evolution of Vannevar Bush{$\textquoteright$}s Memex.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NKIP6U3C/DHQ_ Digital Humanities Quarterly_ The Technical Evolution of Vannevar Bush{$\textquoteright$}s Memex.pdf:application/pdf;DHQ Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WK3C33K5/000015.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.digitalhumanities.org/dhq/vol/2/1/000015/000015.html
       \endverb
       \keyw{memex}
     \endentry
@@ -453,6 +491,44 @@
       \verb http://blogs.lse.ac.uk/polis/2010/03/15/editorial-diversity-quality-networked-journalism/
       \endverb
     \endentry
+    \entry{benkler_social_2013}{report}{}
+      \name{labelname}{5}{}{%
+        {{hash=4ccd91bfaf6de87d2510a58724009b53}{Benkler}{B\bibinitperiod}{Yochai}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=74ef8f5eeb8a4e25d5383eb2b7d29f41}{Roberts}{R\bibinitperiod}{Hal}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=4509bf395a610e57f7b656ef533f1c5e}{Faris}{F\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=4b868ea011b1c3bdfd87067dfc8e63ae}{Solow-Niederman}{S\bibinithyphendelim N\bibinitperiod}{Alicia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=fbd04499701e1a65955edbd141765c1f}{Etling}{E\bibinitperiod}{Bruce}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=4ccd91bfaf6de87d2510a58724009b53}{Benkler}{B\bibinitperiod}{Yochai}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=74ef8f5eeb8a4e25d5383eb2b7d29f41}{Roberts}{R\bibinitperiod}{Hal}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=4509bf395a610e57f7b656ef533f1c5e}{Faris}{F\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=4b868ea011b1c3bdfd87067dfc8e63ae}{Solow-Niederman}{S\bibinithyphendelim N\bibinitperiod}{Alicia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=fbd04499701e1a65955edbd141765c1f}{Etling}{E\bibinitperiod}{Bruce}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \list{location}{1}{%
+        {Rochester, {NY}}%
+      }
+      \strng{namehash}{fa4bbc93d5f2c05be0560399c3078fa3}
+      \strng{fullhash}{a45f93d38e9a6f37a40a558cc416010c}
+      \field{sortinit}{B}
+      \field{labeltitle}{Social Mobilization and the Networked Public Sphere}
+      \field{abstract}{This paper uses a new set of online research tools to develop a detailed study of the public debate over proposed legislation in the United States designed to give prosecutors and copyright holders new tools to pursue suspected online copyright violations. For this study, we compiled, mapped, and analyzed a set of 9,757 stories relevant to the {COICA}-{SOPA}-{PIPA} debate from September 2010 through the end of January 2012 using Media Cloud, an open source tool created at the Berkman Center to allow quantitative analysis of a large number of online media sources. This study applies a mixed-methods approach by combining text and link analysis with human coding and informal interviews to map the evolution of the controversy over time and to analyze the mobilization, roles, and interactions of various actors.This novel, data-driven perspective on the dynamics of the networked public sphere supports an optimistic view of the potential for networked democratic participation, and offers a view of a vibrant, diverse, and decentralized networked public sphere that exhibited broad participation, leveraged topical expertise, and focused public sentiment to shape national public policy. We find that the fourth estate function was fulfilled by a network of small-scale commercial tech media, standing non-media {NGOs}, and individuals, whose work was then amplified by traditional media. Mobilization was effective, and involved substantial experimentation and rapid development. We observe the rise to public awareness of an agenda originating in the networked public sphere and its framing in the teeth of substantial sums of money spent to shape the mass media narrative in favor of the legislation. Moreover, we witness what we call an attention backbone, in which more trafficked sites amplify less-visible individual voices on specific subjects. Some aspects of the events suggest that they may be particularly susceptible to these kinds of democratic features, and may not be generalizable. Nonetheless, the data suggest that, at least in this case, the networked public sphere enabled a dynamic public discourse that involved both individual and organizational participants and offered substantive discussion of complex issues contributing to affirmative political action.Find more information about the paper, including raw data available for download and an interactive visualization of the maps included in this paper, on the Berkman Center website.}
+      \field{day}{19}
+      \field{month}{07}
+      \field{number}{{ID} 2295953}
+      \field{shorttitle}{Social Mobilization and the Networked Public Sphere}
+      \field{title}{Social Mobilization and the Networked Public Sphere: Mapping the {SOPA}-{PIPA} Debate}
+      \field{type}{{SSRN} Scholarly Paper}
+      \field{year}{2013}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/2KDNXB9N/papers.html:text/html
+      \endverb
+      \keyw{Alicia Solow-Niederman,Bruce Etling,Hal Roberts,Robert Faris,Social Mobilization and the Networked Public Sphere: Mapping the {SOPA}-{PIPA} Debate,{SSRN},Yochai Benkler}
+    \endentry
     \entry{bennett_lindsay_1969}{article}{}
       \name{labelname}{1}{}{%
         {{hash=1d241a5180665fb6fc17765f53ef14c9}{Bennett}{B\bibinitperiod}{Charles\bibnamedelima G.}{C\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -497,7 +573,7 @@
       \field{month}{03}
       \field{shorttitle}{That was quick}
       \field{title}{That was quick: Four lines of code is all it takes for The New York Times{$\textquoteright$} paywall to come tumbling down}
-      \field{titleaddon}{Nieman Lab}
+      \field{titleaddon}{Nieman Journalism Lab}
       \field{urlday}{20}
       \field{urlmonth}{04}
       \field{urlyear}{2015}
@@ -528,6 +604,39 @@
       \field{title}{Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web}
       \field{year}{2000}
       \keyw{xanadu}
+    \endentry
+    \entry{bernstein_apprentice_1990}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ed674b4a07189b87d715593ccaf5cff2}{Bernstein}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=47bdf4cb3d07c31feb2d2450e078fd91}{Streitz}{S\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cf11451a9792fecc4e36d50bd5c16c13}{Rizk}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e93e132b63ac7f53ba6976471beb9a7e}{Andre}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ed674b4a07189b87d715593ccaf5cff2}{Bernstein}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=47bdf4cb3d07c31feb2d2450e078fd91}{Streitz}{S\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cf11451a9792fecc4e36d50bd5c16c13}{Rizk}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e93e132b63ac7f53ba6976471beb9a7e}{Andre}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=47bdf4cb3d07c31feb2d2450e078fd91}{Streitz}{S\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cf11451a9792fecc4e36d50bd5c16c13}{Rizk}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e93e132b63ac7f53ba6976471beb9a7e}{Andre}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e049a52742f1f856172a68bdb0091da7}
+      \strng{fullhash}{019316cbb6f7e8266f6591c55d6241bc}
+      \field{sortinit}{B}
+      \field{labeltitle}{An apprentice that discovers hypertext links}
+      \field{abstract}{A simple apprentice that proposes new content links in hypertexts has been added to the Hypergate hypertext environment, and its behavior and performance are evaluated under realistic conditions. Despite a fundamentally lexical approach, the link apprentice finds a significant number of intriguing and meaningful links very quickly and without substantial overhead.}
+      \field{booktitle}{Hypertext: Concepts, Systems and Applications}
+      \field{eventtitle}{First European Conference on Hypertext}
+      \field{isbn}{0521405173}
+      \field{title}{An apprentice that discovers hypertext links}
+      \field{year}{1990}
+      \keyw{data structures,Hypermedia,information retrieval,microcomputer applications,software packages}
     \endentry
     \entry{bialik_samslusher_2015}{online}{}
       \name{labelname}{1}{}{%
@@ -574,9 +683,6 @@
       \field{number}{1}
       \field{shortjournal}{Critical Inquiry}
       \field{title}{Note Taking as an Art of Transmission}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{31}
       \field{year}{2004}
       \field{pages}{85\bibrangedash 107}
@@ -585,9 +691,6 @@
       \endverb
       \verb{file}
       \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SIAXA8FC/Blair - 2004 - Note Taking as an Art of Transmission.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/10.1086/427303
       \endverb
       \keyw{card catalogs,note taking,renaissance}
     \endentry
@@ -606,9 +709,6 @@
       \field{journaltitle}{Journal of the History of Ideas}
       \field{number}{1}
       \field{title}{Reading Strategies for Coping With Information Overload ca.1550-1700}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{64}
       \field{year}{2003}
       \field{pages}{11\bibrangedash 28}
@@ -617,9 +717,6 @@
       \endverb
       \verb{file}
       \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QM9HVNW8/Reading Strategies for Coping with Informa - Ann Blair.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://muse.jhu.edu/content/crossref/journals/journal_of_the_history_of_ideas/v064/64.1blair.html
       \endverb
       \keyw{renaissance}
     \endentry
@@ -790,6 +887,32 @@
       \endverb
       \keyw{classification,general,history}
     \endentry
+    \entry{branch_snow_2012}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=dcf5f85014ebe01bd5f78ecb7e11fc49}{Branch}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=dcf5f85014ebe01bd5f78ecb7e11fc49}{Branch}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dcf5f85014ebe01bd5f78ecb7e11fc49}
+      \strng{fullhash}{dcf5f85014ebe01bd5f78ecb7e11fc49}
+      \field{sortinit}{B}
+      \field{labeltitle}{Snow Fall: The Avalanche at Tunnel Creek}
+      \field{day}{20}
+      \field{journaltitle}{The New York Times}
+      \field{month}{12}
+      \field{title}{Snow Fall: The Avalanche at Tunnel Creek}
+      \field{urlday}{22}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{file}
+      \verb Snow Fall\: The Avalanche at Tunnel Creek - Multimedia Feature - NYTimes.com:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/F3NWT632/snow-fall.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.nytimes.com/projects/2012/snow-fall/
+      \endverb
+    \endentry
     \entry{brin_anatomy_1998}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=ade8269d287e9c1531e4a1cbad0b4b82}{Brin}{B\bibinitperiod}{Sergey}{S\bibinitperiod}{}{}{}{}}%
@@ -800,7 +923,7 @@
         {{hash=5ca20489809aaab392f875d6bc785086}{Page}{P\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {Amsterdam, The Netherlands, The Netherlands}%
+        {Amsterdam}%
       }
       \list{publisher}{1}{%
         {Elsevier Science Publishers B. V.}%
@@ -812,16 +935,10 @@
       \field{booktitle}{Proceedings of the Seventh International Conference on World Wide Web 7}
       \field{series}{{WWW}7}
       \field{title}{The Anatomy of a Large-scale Hypertextual Web Search Engine}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{year}{1998}
       \field{pages}{107\bibrangedash 117}
       \verb{file}
       \verb brin_page.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ZBU7MNKX/brin_page.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://dl.acm.org/citation.cfm?id=297805.297827
       \endverb
       \keyw{Google,information retrieval,{PageRank},search engines,World Wide Web}
     \endentry
@@ -894,9 +1011,6 @@
       \field{journaltitle}{The Atlantic}
       \field{month}{07}
       \field{title}{As We May Think}
-      \field{urlday}{11}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
       \field{year}{1945}
       \verb{file}
       \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SZWVJGZG/As We May Think - Vannevar Bush.pdf:application/pdf;The Atlantic Print View:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SZWUZK9B/303881.html:text/html
@@ -930,16 +1044,10 @@
       \field{booktitle}{From Memex to Hypertext: Vannevar Bush and the Mind's Machine}
       \field{isbn}{0-12-523270-5}
       \field{title}{Memex Revisited}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
       \field{year}{1991}
       \field{pages}{197\bibrangedash 216}
       \verb{file}
       \verb bush_memex_revisited.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/SNH4X34W/bush_memex_revisited.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://dl.acm.org/citation.cfm?id=132180.132193
       \endverb
     \endentry
     \entry{carlson_upworthy_2014}{online}{}
@@ -1043,9 +1151,6 @@
       \field{number}{5}
       \field{shortjournal}{{PNAS}}
       \field{title}{Semiotic dynamics and collaborative tagging}
-      \field{urlday}{08}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
       \field{volume}{104}
       \field{year}{2007}
       \field{pages}{1461\bibrangedash 1464}
@@ -1054,9 +1159,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/4MXAB8XN/Cattuto et al. - 2007 - Semiotic dynamics and collaborative tagging.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/UK3KVIKZ/1461.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.pnas.org/content/104/5/1461
       \endverb
       \keyw{information dynamics,online social communities,social bookmarking,statistical physics}
     \endentry
@@ -1085,6 +1187,32 @@
       \endverb
       \verb{url}
       \verb http://www.salon.com/2000/07/24/dot_tv/
+      \endverb
+    \endentry
+    \entry{pew_research_center_journalism_2001}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=5b62691d3b5b5e8e250324439d8fb11c}{Center}{C\bibinitperiod}{Pew\bibnamedelima Research}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5b62691d3b5b5e8e250324439d8fb11c}{Center}{C\bibinitperiod}{Pew\bibnamedelima Research}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5b62691d3b5b5e8e250324439d8fb11c}
+      \strng{fullhash}{5b62691d3b5b5e8e250324439d8fb11c}
+      \field{sortinit}{C}
+      \field{labeltitle}{Journalism Interactive}
+      \field{day}{26}
+      \field{month}{07}
+      \field{shorttitle}{Journalism Interactive}
+      \field{title}{Journalism Interactive: Survey Pinpoints a Sea Change in Attitudes and Practices; Engagement Defines New Era of Journalism}
+      \field{urlday}{16}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{2001}
+      \verb{file}
+      \verb Selected Press Releases:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Z4CCBJ52/pr_interact.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://civicjournalism.org/about/pr_interact.html
       \endverb
     \endentry
     \entry{chakrabarti_mining_2003}{book}{}
@@ -1125,9 +1253,6 @@
       \field{sortinit}{C}
       \field{labeltitle}{Cyclop{\ae}dia, or an Universal Dictionary of Arts and Sciences}
       \field{title}{Cyclop{\ae}dia, or an Universal Dictionary of Arts and Sciences}
-      \field{urlday}{18}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
       \field{year}{1728}
       \verb{file}
       \verb histscitech.cyclopaedia01.i0005.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/5ZTQAIGJ/histscitech.cyclopaedia01.i0005.pdf:application/pdf
@@ -1217,9 +1342,6 @@
       \field{number}{2}
       \field{shortjournal}{Qual Quant}
       \field{title}{Inferring international dotcom Web communities by link and content analysis}
-      \field{urlday}{20}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
       \field{volume}{48}
       \field{year}{2013}
       \field{pages}{1117\bibrangedash 1133}
@@ -1228,9 +1350,6 @@
       \endverb
       \verb{file}
       \verb inferring_communities.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/D3EJIJII/inferring_communities.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ZMUFKZRQ/s11135-013-9847-z.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/article/10.1007/s11135-013-9847-z
       \endverb
       \keyw{Cultural convergence theory,Cultural divergence theory,Dotcom domain,International hyperlink,Methodology of the Social Sciences,Social Sciences,general,Telecommunication network,Website content}
     \endentry
@@ -1253,17 +1372,11 @@
       \field{month}{07}
       \field{shorttitle}{Building Frames Link by Link}
       \field{title}{Building Frames Link by Link: The Linking Practices of Blogs and News Sites}
-      \field{urlday}{17}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
       \field{volume}{6}
       \field{year}{2012}
       \field{pages}{20}
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/I7KMI6S6/Coddington - 2012 - Building Frames Link by Link The Linking Practice.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/M89NFWP9/1476.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://ijoc.org/index.php/ijoc/article/view/1476
       \endverb
     \endentry
     \entry{coddington_defending_2014}{article}{}
@@ -1287,9 +1400,6 @@
       \field{shortjournal}{Journalism}
       \field{shorttitle}{Defending judgment and context in 'original reporting'}
       \field{title}{Defending judgment and context in 'original reporting': Journalists' construction of newswork in a networked age}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{15}
       \field{year}{2014}
       \field{pages}{678\bibrangedash 695}
@@ -1298,9 +1408,6 @@
       \endverb
       \verb{file}
       \verb 407603.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/CM8Q84SG/407603.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QDZS9CZG/678.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://jou.sagepub.com.libproxy.mit.edu/content/15/6/678
       \endverb
       \keyw{Context,narrative,news judgment,newswork,original reporting,{WikiLeaks}}
     \endentry
@@ -1322,9 +1429,6 @@
       \field{month}{04}
       \field{number}{2}
       \field{title}{Normalizing the Hyperlink}
-      \field{urlday}{08}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
       \field{volume}{2}
       \field{year}{2014}
       \field{pages}{140\bibrangedash 155}
@@ -1333,9 +1437,6 @@
       \endverb
       \verb{file}
       \verb 405869.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/8VVWU44X/405869.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HBUKK3I4/21670811.2013.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1080/21670811.2013.785813
       \endverb
     \endentry
     \entry{_company_????}{online}{}
@@ -1413,16 +1514,13 @@
       \strng{namehash}{04ddd15bdbd9d7c4572af614218b9b79}
       \strng{fullhash}{04ddd15bdbd9d7c4572af614218b9b79}
       \field{sortinit}{C}
-      \field{labeltitle}{{CRITICAL} {QUESTIONS} {FOR} {BIG} {DATA}}
+      \field{labeltitle}{Critical Question for Big Data}
       \field{issn}{1369-118X, 1468-4462}
       \field{journaltitle}{Information, Communication \& Society}
       \field{month}{06}
       \field{number}{5}
-      \field{shorttitle}{{CRITICAL} {QUESTIONS} {FOR} {BIG} {DATA}}
+      \field{shorttitle}{Critical Question for Big Data}
       \field{title}{Critical Questions for Big Data: Provocations for a cultural, technological, and scholarly phenomenon}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{15}
       \field{year}{2012}
       \field{pages}{662\bibrangedash 679}
@@ -1431,9 +1529,6 @@
       \endverb
       \verb{file}
       \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WCQBNUHR/Critical Questions for Big Data - Danah Boyd.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878
       \endverb
     \endentry
     \entry{dahlgren_media_1996}{article}{}
@@ -1454,9 +1549,6 @@
       \field{number}{3}
       \field{shorttitle}{Media Logic in Cyberspace}
       \field{title}{Media Logic in Cyberspace: Repositioning Journalism and its Publics}
-      \field{urlday}{09}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
       \field{volume}{3}
       \field{year}{1996}
       \field{pages}{59\bibrangedash 72}
@@ -1466,9 +1558,28 @@
       \verb{file}
       \verb Dahlgren_3-1996.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/CKHJI59P/Dahlgren_3-1996.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/VDCHMRHB/13183222.1996.html:text/html
       \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1080/13183222.1996.11008632
+    \endentry
+    \entry{de_maeyer_methods_2010}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=fdc73c79de2423b10e544bc25a16a1f1}{De\bibnamedelima Maeyer}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{Juliette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=fdc73c79de2423b10e544bc25a16a1f1}{De\bibnamedelima Maeyer}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{Juliette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Austin, {TX}}%
+      }
+      \strng{namehash}{fdc73c79de2423b10e544bc25a16a1f1}
+      \strng{fullhash}{fdc73c79de2423b10e544bc25a16a1f1}
+      \field{sortinit}{D}
+      \field{labeltitle}{Methods for mapping hyperlink networks: Examining the environment of Belgian news websites}
+      \field{eventtitle}{International Symposium on Online Journalism}
+      \field{title}{Methods for mapping hyperlink networks: Examining the environment of Belgian news websites}
+      \field{year}{2010}
+      \verb{file}
+      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/TI42AZJR/Methods for mapping hyperlink networks_ Ex - Juliette De Maeyer.pdf:application/pdf
       \endverb
+      \keyw{hyperlinks,visualization}
     \endentry
     \entry{de_maeyer_towards_2013}{article}{}
       \name{labelname}{1}{}{%
@@ -1624,9 +1735,6 @@
       \field{shortjournal}{Diacritics}
       \field{shorttitle}{Archive Fever}
       \field{title}{Archive Fever: A Freudian Impression}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{25}
       \field{year}{1995}
       \field{pages}{9\bibrangedash 63}
@@ -1636,8 +1744,109 @@
       \verb{file}
       \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IS4N68MV/Derrida and Prenowitz - 1995 - Archive Fever A Freudian Impression.pdf:application/pdf
       \endverb
+    \endentry
+    \entry{deuze_online_2001}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e633c2353017be4e22b70e2be186e69b}{Deuze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e633c2353017be4e22b70e2be186e69b}{Deuze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e633c2353017be4e22b70e2be186e69b}
+      \strng{fullhash}{e633c2353017be4e22b70e2be186e69b}
+      \field{sortinit}{D}
+      \field{labeltitle}{Online journalism}
+      \field{abstract}{The Internet and specifically its graphic interface the World Wide Web is reaching a level of saturation and widespread adoption throughout the world. Specifically for journalism practiced online - in the discipline of computer-assisted reporting ({CAR}) and a specific kind of journalism: online journalism - we can now identify and theorize about the impacts the global system of networked computers has had on journalism. This paper signals four particular journalisms online as these have emerged in the 'first generation' of newsmedia on the World Wide Web (1993-2001), discusses the key characteristics - cf. hypertextuality, interactivity, multimediality - which determine the 'added value' of these journalisms, and provides three specific strategies journalists may use to further enhance the potential of journalism online: annotative reporting, open source journalism and hyperadaptive news sites.}
+      \field{day}{01}
+      \field{issn}{13960466}
+      \field{journaltitle}{First Monday}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shorttitle}{Online journalism}
+      \field{title}{Online journalism: Modelling the first generation of news media on the World Wide Web}
+      \field{urlday}{20}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{6}
+      \field{year}{2001}
+      \verb{file}
+      \verb Online journalism_ Modelling the first generation of news media on the World Wide Web _ Deuze _ First Monday.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/9BMDQF8P/Online journalism_ Modelling the first generation of news media on the World Wide Web _ Deuze _ First Monday.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HPMIEHDK/802.html:text/html
+      \endverb
       \verb{url}
-      \verb http://www.jstor.org/stable/465144
+      \verb http://ojphi.org/ojs/index.php/fm/article/view/893
+      \endverb
+    \endentry
+    \entry{deuze_web_2003}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e633c2353017be4e22b70e2be186e69b}{Deuze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e633c2353017be4e22b70e2be186e69b}{Deuze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e633c2353017be4e22b70e2be186e69b}
+      \strng{fullhash}{e633c2353017be4e22b70e2be186e69b}
+      \field{sortinit}{D}
+      \field{labeltitle}{The Web and its Journalisms}
+      \field{abstract}{The internet - specifically its graphic interface, the world wide web - has had a major impact on all levels of (information) societies throughout the world. Specifically for journalism as it is practiced online, we can now identify the effect that this has had on the profession and its culture(s). This article defines four particular types of online journalism and discusses them in terms of key characteristics of online publishing - hypertextuality, interactivity, multimediality - and considers the current and potential impacts that these online journalisms can have on the ways in which one can define journalism as it functions in elective democracies worldwide. It is argued that the application of particular online characteristics not only has consequences for the type of journalism produced on the web, but that these characteristics and online journalisms indeed connect to broader and more profound changes and redefinitions of professional journalism and its (news) culture as a whole.}
+      \field{day}{01}
+      \field{issn}{1461-4448, 1461-7315}
+      \field{journaltitle}{New Media \& Society}
+      \field{langid}{english}
+      \field{month}{06}
+      \field{number}{2}
+      \field{shortjournal}{New Media Society}
+      \field{shorttitle}{The Web and its Journalisms}
+      \field{title}{The Web and its Journalisms: Considering the Consequences of Different Types of Newsmedia Online}
+      \field{urlday}{08}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{5}
+      \field{year}{2003}
+      \field{pages}{203\bibrangedash 230}
+      \verb{doi}
+      \verb 10.1177/1461444803005002004
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/F7P3JP7U/Deuze - 2003 - The Web and its Journalisms Considering the Conse.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Q78BRFDG/203.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://nms.sagepub.com.libproxy.mit.edu/content/5/2/203
+      \endverb
+      \keyw{Internet,journalism,multimedia,news,online journalism}
+    \endentry
+    \entry{dimitrova_hyperlinking_2003}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=e69f664cb1826e11ab3f34329e64fddb}{Dimitrova}{D\bibinitperiod}{Daniela\bibnamedelima V.}{D\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=18e2a4b50d15ee47c6e3ccc50027c1fb}{Connolly-Ahern}{C\bibinithyphendelim A\bibinitperiod}{Colleen}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=549c0039e3a9f4a91966873a6dffcb5b}{Williams}{W\bibinitperiod}{Andrew\bibnamedelima Paul}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c7dd414f99f87a3e2cca6793bcb869ca}{Kaid}{K\bibinitperiod}{Lynda\bibnamedelima Lee}{L\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=3bed3e03553461d391fa17c8e0850960}{Reid}{R\bibinitperiod}{Amanda}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=e69f664cb1826e11ab3f34329e64fddb}{Dimitrova}{D\bibinitperiod}{Daniela\bibnamedelima V.}{D\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=18e2a4b50d15ee47c6e3ccc50027c1fb}{Connolly-Ahern}{C\bibinithyphendelim A\bibinitperiod}{Colleen}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=549c0039e3a9f4a91966873a6dffcb5b}{Williams}{W\bibinitperiod}{Andrew\bibnamedelima Paul}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c7dd414f99f87a3e2cca6793bcb869ca}{Kaid}{K\bibinitperiod}{Lynda\bibnamedelima Lee}{L\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=3bed3e03553461d391fa17c8e0850960}{Reid}{R\bibinitperiod}{Amanda}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{76ea9db086015cfd0a7c1439e69e8467}
+      \strng{fullhash}{5c5100e993eed72a6a68047a3c494444}
+      \field{sortinit}{D}
+      \field{labeltitle}{Hyperlinking as Gatekeeping}
+      \field{abstract}{This study focuses on the online coverage of American terrorist Timothy {McVeigh}'s execution on the websites of the top 15 print newspapers cited by Columbia Journalism Review as the "Best American Newspapers." Using content analysis, the study compares the 15 newspapers' websites by measuring the number, destination, and characteristics of hyperlinks that accompany these stories. The results suggest that online newspapers use hyperlinks as a gatekeeping device because they are unlikely to offer external hyperlinks. The study also shows that online newspapers are not taking advantage of multimedia and interactivity on the Web.}
+      \field{issn}{1461-670X}
+      \field{journaltitle}{Journalism Studies}
+      \field{number}{3}
+      \field{shorttitle}{Hyperlinking as Gatekeeping}
+      \field{title}{Hyperlinking as Gatekeeping: online newspaper coverage of the execution of an American terrorist}
+      \field{volume}{4}
+      \field{year}{2003}
+      \field{pages}{401\bibrangedash 414}
+      \verb{doi}
+      \verb 10.1080/14616700306488
+      \endverb
+      \verb{file}
+      \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IZIH6DPH/Hyperlinking as Gatekeeping_ online newspa - Daniela V. Dimitrova et al_.pdf:application/pdf;hyperlinking_as_gatekeeping.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/E85E462R/hyperlinking_as_gatekeeping.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/75FHEESZ/14616700306488.html:text/html
       \endverb
     \endentry
     \entry{franks_discovering_2012}{patent}{}
@@ -1765,16 +1974,13 @@
       \field{journaltitle}{Digital Humanities Quarterly}
       \field{number}{1}
       \field{title}{Humanities Approaches to Graphical Display}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{5}
       \field{year}{2011}
       \verb{file}
       \verb DHQ Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/88PW3DAK/000091.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+      \verb http://www.digitalhumanities.org/dhq/vol/5/%201/000091/000091.html
       \endverb
     \endentry
     \entry{ellis_after_2015}{online}{}
@@ -1793,7 +1999,7 @@
       \field{month}{03}
       \field{shorttitle}{After the archive came down}
       \field{title}{After the archive came down: The New Yorker{$\textquoteright$}s revamped paywall is driving new readers and subscribers}
-      \field{titleaddon}{Nieman Lab}
+      \field{titleaddon}{Nieman Journalism Lab}
       \field{urlday}{20}
       \field{urlmonth}{04}
       \field{urlyear}{2015}
@@ -1803,6 +2009,39 @@
       \endverb
       \verb{url}
       \verb http://www.niemanlab.org/2015/03/after-the-archive-came-down-the-new-yorkers-revamped-paywall-is-driving-new-readers-and-subscribers/
+      \endverb
+    \endentry
+    \entry{eveland_user_2001}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=963bc5defa99569c4e690530860882db}{Eveland}{E\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ae941d349186a3937eeabfbacacbcae7}{Dunwoody}{D\bibinitperiod}{Sharon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=963bc5defa99569c4e690530860882db}{Eveland}{E\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ae941d349186a3937eeabfbacacbcae7}{Dunwoody}{D\bibinitperiod}{Sharon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{146186c18165f4e7eaf73a7781d4e6f4}
+      \strng{fullhash}{146186c18165f4e7eaf73a7781d4e6f4}
+      \field{sortinit}{E}
+      \field{labeltitle}{User Control and Structural Isomorphism or Disorientation and Cognitive Load?}
+      \field{abstract}{User control theory predicts that providing freedom in learning increases learning compared to traditional instruction, implying that the Web is more effective for learning than print. Theorists have also argued that navigation through Web sites mimics the associative nature of human memory and information processing{$\textemdash$}structural isomorphism{$\textemdash$}suggesting Web superiority. However, studies indicate that hypermedia increases cognitive load and produces disorientation, implying that hypermedia increases cognitive load and produces disorientation, implying that the Web would be less effective for learning than would print. An experiment comparing learning in print versus several Web site designs demonstrated that learning from print as measured by recognition is better than learning from linear and nonlinear Web designs but no different from a design including advisement. No significant differences across media conditions were found using cued recall as the measure of learning. Additional findings suggest that cognitive load inhibits learning, whereas Web expertise facilitates it. Curiously, a learning motivation tended to reduce learning.}
+      \field{day}{01}
+      \field{issn}{0093-6502, 1552-3810}
+      \field{journaltitle}{Communication Research}
+      \field{langid}{english}
+      \field{month}{02}
+      \field{number}{1}
+      \field{shortjournal}{Communication Research}
+      \field{shorttitle}{User Control and Structural Isomorphism or Disorientation and Cognitive Load?}
+      \field{title}{User Control and Structural Isomorphism or Disorientation and Cognitive Load? Learning From the Web Versus Print}
+      \field{volume}{28}
+      \field{year}{2001}
+      \field{pages}{48\bibrangedash 78}
+      \verb{doi}
+      \verb 10.1177/009365001028001002
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/TIB7AQX3/Eveland and Dunwoody - 2001 - User Control and Structural Isomorphism or Disorie.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/N5SU237E/48.html:text/html
       \endverb
     \endentry
     \entry{_explainthis.org_2010}{online}{}
@@ -1849,6 +2088,31 @@
       \endverb
       \keyw{Philosophy / History \& Surveys / General}
     \endentry
+    \entry{foust_online_2009}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=8bbc82add000651781cf51bf523b5499}{Foust}{F\bibinitperiod}{James\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8bbc82add000651781cf51bf523b5499}{Foust}{F\bibinitperiod}{James\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Scottsdale, Ariz}%
+      }
+      \list{publisher}{1}{%
+        {Holcomb Hathaway}%
+      }
+      \strng{namehash}{8bbc82add000651781cf51bf523b5499}
+      \strng{fullhash}{8bbc82add000651781cf51bf523b5499}
+      \field{sortinit}{F}
+      \field{labeltitle}{Online journalism}
+      \field{edition}{2nd ed}
+      \field{isbn}{9781890871888 1890871885}
+      \field{pagetotal}{272}
+      \field{shorttitle}{Online journalism}
+      \field{title}{Online journalism: principles and practices of news for the Web}
+      \field{year}{2009}
+      \keyw{Design,journalism,online journalism,{TECHNOLOGICAL} innovations,Web sites}
+    \endentry
     \entry{fragoso_understanding_2011}{article}{}
       \name{labelname}{1}{}{%
         {{hash=50bb9c6a7db10f1b58f49d1c5d7df90e}{Fragoso}{F\bibinitperiod}{Suely}{S\bibinitperiod}{}{}{}{}}%
@@ -1866,9 +2130,6 @@
       \field{number}{2}
       \field{shorttitle}{Understanding links}
       \field{title}{Understanding links: Web Science and hyperlink studies at macro, meso and micro-levels}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
       \field{volume}{17}
       \field{year}{2011}
       \field{pages}{163\bibrangedash 198}
@@ -1877,9 +2138,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/I2VN9N34/Fragoso - 2011 - Understanding links Web Science and hyperlink stu.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WNW5FFQD/13614568.2011.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.tandfonline.com/doi/abs/10.1080/13614568.2011.587030
       \endverb
     \endentry
     \entry{freedman_responses_2007}{article}{}
@@ -1909,9 +2167,6 @@
       \field{number}{5}
       \field{shorttitle}{Responses to Ed Folsom's "Database as Genre"}
       \field{title}{Responses to Ed Folsom's "Database as Genre: The Epic Transformation of Archives"}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{122}
       \field{year}{2007}
       \field{pages}{1580\bibrangedash 1612}
@@ -1920,9 +2175,6 @@
       \endverb
       \verb{file}
       \verb folsom_replies.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/2PSU2EWN/folsom_replies.pdf:application/pdf;MLA Journals\: PMLA, Vol. 122, No. 5, October 2007 (pp. 1580-1612):/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/P475NTCD/pmla.2007.122.5.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.mlajournals.org/doi/abs/10.1632/pmla.2007.122.5.1580
       \endverb
     \endentry
     \entry{gahran_swimming_2008}{online}{}
@@ -1971,9 +2223,6 @@
       \field{number}{3}
       \field{shortjournal}{New Media Society}
       \field{title}{The Politics of 'Platforms'}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{12}
       \field{year}{2010}
       \field{pages}{347\bibrangedash 364}
@@ -1982,9 +2231,6 @@
       \endverb
       \verb{file}
       \verb New Media Society-2010-Gillespie-347-64.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/DQ9TKFW7/New Media Society-2010-Gillespie-347-64.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/6C2J64MU/347.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://nms.sagepub.com/content/12/3/347
       \endverb
       \keyw{discourse,distribution,Google,platform,policy,video,{YouTube}}
     \endentry
@@ -2061,6 +2307,36 @@
       \verb http://www.slideshare.net/pmgooding/dh2014-pres
       \endverb
     \endentry
+    \entry{graeff_battle_2014}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=281970ac94f95f4349c2e9e2aefcd4ae}{Graeff}{G\bibinitperiod}{Erhardt}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a3329b406b1b711de4264ee65bc6259e}{Stempeck}{S\bibinitperiod}{Matt}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=dca8b7a09c49e491b501d8a3e6e1165e}{Zuckerman}{Z\bibinitperiod}{Ethan}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=281970ac94f95f4349c2e9e2aefcd4ae}{Graeff}{G\bibinitperiod}{Erhardt}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a3329b406b1b711de4264ee65bc6259e}{Stempeck}{S\bibinitperiod}{Matt}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=dca8b7a09c49e491b501d8a3e6e1165e}{Zuckerman}{Z\bibinitperiod}{Ethan}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0bcdb238d857c97cd7768dd62c4b654b}
+      \strng{fullhash}{0bcdb238d857c97cd7768dd62c4b654b}
+      \field{sortinit}{G}
+      \field{labeltitle}{The battle for 'Trayvon Martin'}
+      \field{day}{28}
+      \field{issn}{13960466}
+      \field{journaltitle}{First Monday}
+      \field{langid}{english}
+      \field{month}{01}
+      \field{number}{2}
+      \field{shorttitle}{The battle for 'Trayvon Martin'}
+      \field{title}{The Battle for 'Trayvon Martin': Mapping a media controversy online and off-line}
+      \field{volume}{19}
+      \field{year}{2014}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/3XM4MCRX/3821.html:text/html
+      \endverb
+      \keyw{controversy mapping,media cloud,networked framing,networked gatekeeping,political networks,quantitative media analysis,trayvon martin}
+    \endentry
     \entry{graells-garrido_data_2013}{article}{}
       \name{labelname}{3}{}{%
         {{hash=2f528c448e0c43ce79bc30cfc3b6712b}{Graells-Garrido}{G\bibinithyphendelim G\bibinitperiod}{Eduardo}{E\bibinitperiod}{}{}{}{}}%
@@ -2082,15 +2358,9 @@
       \field{month}{11}
       \field{shorttitle}{Data Portraits}
       \field{title}{Data Portraits: Connecting People of Opposing Views}
-      \field{urlday}{03}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
       \field{year}{2013}
       \verb{file}
       \verb 1311.4658 PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/2CBTIUWE/Graells-Garrido et al. - 2013 - Data Portraits Connecting People of Opposing View.pdf:application/pdf;arXiv.org Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/AM3FWEIN/1311.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/1311.4658
       \endverb
       \keyw{Computer Science - Human-Computer Interaction,Computer Science - Social and Information Networks,H.5.2}
     \endentry
@@ -2139,17 +2409,11 @@
       \field{number}{3}
       \field{shortjournal}{Newspaper Research Journal}
       \field{title}{Digital Photo Archives Lose Value As Record of Community History}
-      \field{urlday}{09}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
       \field{volume}{32}
       \field{year}{2011}
       \field{pages}{82\bibrangedash 96}
       \verb{file}
       \verb EBSCO Full Text:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Z7DEHIXN/Greenwood - 2011 - Digital Photo Archives Lose Value As Record of Com.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://libproxy.mit.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cms&AN=65540347&site=ehost-live
       \endverb
       \keyw{{AUDIOVISUAL} archives,{ELECTRONIC} records,{INFORMATION} resources management,information retrieval,{NEWSPAPER} archives,{NEWSPAPERS} -- Research,{PHOTOGRAPHS} as information resources,{RESEARCH}}
     \endentry
@@ -2201,9 +2465,6 @@
       \field{number}{7}
       \field{shorttitle}{Reflections on {NoteCards}}
       \field{title}{Reflections on {NoteCards}: Seven Issues for the Next Generation of Hypermedia Systems}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{31}
       \field{year}{1988}
       \field{pages}{836\bibrangedash 852}
@@ -2212,9 +2473,6 @@
       \endverb
       \verb{file}
       \verb halasz-seven-issues.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/W78M3HV5/halasz-seven-issues.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://doi.acm.org/10.1145/48511.48514
       \endverb
       \keyw{xanadu}
     \endentry
@@ -2292,9 +2550,6 @@
       \verb{file}
       \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QBQ24P35/The Algorithmization of the Hyperlink - Anne Helmond.pdf:application/pdf
       \endverb
-      \verb{url}
-      \verb http://computationalculture.net/article/the-algorithmization-of-the-hyperlink
-      \endverb
       \keyw{hyperlinks}
     \endentry
     \entry{hermida_twittering_2010}{report}{}
@@ -2321,15 +2576,9 @@
       \field{shorttitle}{Twittering the News}
       \field{title}{Twittering the News: The Emergence of Ambient Journalism}
       \field{type}{{SSRN} Scholarly Paper}
-      \field{urlday}{15}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
       \field{year}{2010}
       \verb{file}
       \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/BUPI93M3/papers.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://papers.ssrn.com/abstract=1732598
       \endverb
       \keyw{Awareness Systems,Internet,journalism,Micro-Blogging,social media,twitter}
     \endentry
@@ -2407,9 +2656,6 @@
       \field{number}{3}
       \field{shorttitle}{The International Network Structure of News Media}
       \field{title}{The International Network Structure of News Media: An Analysis of Hyperlinks Usage in News Web sites}
-      \field{urlday}{08}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
       \field{volume}{54}
       \field{year}{2010}
       \field{pages}{373\bibrangedash 390}
@@ -2418,9 +2664,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IARTM6XP/Himelboim - 2010 - The International Network Structure of News Media.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/P8AVIZM3/08838151.2010.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1080/08838151.2010.499050
       \endverb
     \endentry
     \entry{holmes_how_2015}{online}{}
@@ -2502,6 +2745,36 @@
       \verb http://www.holovaty.com/writing/chicagocrime.org-tribute/
       \endverb
     \endentry
+    \entry{hsu_sociology_2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=89e867b984710e51208dbf4ba5e63915}{Hsu}{H\bibinitperiod}{Chien-leng}{C\bibinithyphendelim l\bibinitperiod}{}{}{}{}}%
+        {{hash=9f5c63a953d9e8c7c7c81cb1e3cee757}{Park}{P\bibinitperiod}{Han\bibnamedelima Woo}{H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=89e867b984710e51208dbf4ba5e63915}{Hsu}{H\bibinitperiod}{Chien-leng}{C\bibinithyphendelim l\bibinitperiod}{}{}{}{}}%
+        {{hash=9f5c63a953d9e8c7c7c81cb1e3cee757}{Park}{P\bibinitperiod}{Han\bibnamedelima Woo}{H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0eac6e10d229e5e07e2c5a09fb30e0c6}
+      \strng{fullhash}{0eac6e10d229e5e07e2c5a09fb30e0c6}
+      \field{sortinit}{H}
+      \field{labeltitle}{Sociology of Hyperlink Networks of Web 1.0, Web 2.0, and Twitter}
+      \field{day}{21}
+      \field{issn}{0894-4393, 1552-8286}
+      \field{journaltitle}{Social Science Computer Review}
+      \field{month}{09}
+      \field{number}{3}
+      \field{shorttitle}{Sociology of Hyperlink Networks of Web 1.0, Web 2.0, and Twitter}
+      \field{title}{Sociology of Hyperlink Networks of Web 1.0, Web 2.0, and Twitter: A Case Study of South Korea}
+      \field{volume}{29}
+      \field{year}{2010}
+      \field{pages}{354\bibrangedash 368}
+      \verb{doi}
+      \verb 10.1177/0894439310382517
+      \endverb
+      \verb{file}
+      \verb 405850.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/GFCIR96B/405850.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{hu_contextualizing_2010}{online}{}
       \name{labelname}{1}{}{%
         {{hash=013669666a799008ce9a91d872040709}{Hu}{H\bibinitperiod}{Elise}{E\bibinitperiod}{}{}{}{}}%
@@ -2549,6 +2822,37 @@
       \verb{url}
       \verb https://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014
       \endverb
+    \endentry
+    \entry{isaac_facebook_2015}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=3a95a9ca67f459c09e6caae7661e6f1e}{Isaac}{I\bibinitperiod}{Ravi\bibnamedelima Somaiya}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{Mike}{M\bibinitperiod}}%
+        {{hash=ceb1897249a55c0a81c10dbd2b3aad16}{Goel}{G\bibinitperiod}{Vindu}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3a95a9ca67f459c09e6caae7661e6f1e}{Isaac}{I\bibinitperiod}{Ravi\bibnamedelima Somaiya}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{Mike}{M\bibinitperiod}}%
+        {{hash=ceb1897249a55c0a81c10dbd2b3aad16}{Goel}{G\bibinitperiod}{Vindu}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{21bfa3b81cc9de4d33124363c6990957}
+      \strng{fullhash}{21bfa3b81cc9de4d33124363c6990957}
+      \field{sortinit}{I}
+      \field{labeltitle}{Facebook May Host News Sites{$\textquoteright$} Content}
+      \field{abstract}{The social media giant is said to be in talks with several news publishers, offering to deliver their content quickly, in exchange for a certain loss of control over their readership.}
+      \field{day}{23}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{The New York Times}
+      \field{month}{03}
+      \field{title}{Facebook May Host News Sites{$\textquoteright$} Content}
+      \field{urlday}{22}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{file}
+      \verb New York Times Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/BMQ8MBQB/facebook-may-host-news-sites-content.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.nytimes.com/2015/03/24/business/media/facebook-may-host-news-sites-content.html
+      \endverb
+      \keyw{{BuzzFeed} Inc,Cox,Chris (1982- ),Facebook Inc,National Geographic,News and News Media,New York Times,Online Advertising,social media}
     \endentry
     \entry{jarvis_networked_2006}{online}{}
       \name{labelname}{1}{}{%
@@ -2633,27 +2937,6 @@
       \verb https://twitter.com/bennyjohnson/status/491953975785426944
       \endverb
     \endentry
-    \entry{_journalism_2001}{misc}{}
-      \list{publisher}{1}{%
-        {Pew Research Center}%
-      }
-      \field{sortinit}{J}
-      \field{labeltitle}{Journalism Interactive}
-      \field{day}{26}
-      \field{month}{07}
-      \field{shorttitle}{Journalism Interactive}
-      \field{title}{Journalism Interactive: Survey Pinpoints a Sea Change in Attitudes and Practices; Engagement Defines New Era of Journalism}
-      \field{urlday}{16}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
-      \field{year}{2001}
-      \verb{file}
-      \verb Selected Press Releases:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Z4CCBJ52/pr_interact.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://civicjournalism.org/about/pr_interact.html
-      \endverb
-    \endentry
     \entry{karlsson_hyperlinking_2014}{article}{}
       \name{labelname}{3}{}{%
         {{hash=c2eb1f7b619ba34316f05bd08031a2c5}{Karlsson}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
@@ -2673,7 +2956,7 @@
       \field{issn}{1369-118X}
       \field{journaltitle}{Information, Communication \& Society}
       \field{shorttitle}{Hyperlinking practices in Swedish online news 2007{$\textendash$}2013}
-      \field{title}{Hyperlinking practices in Swedish online news 2007{$\textendash$}2013: the rise, fall, and stagnation of hyperlinking as a journalistic tool}
+      \field{title}{Hyperlinking practices in Swedish online news 2007-2013: The rise, fall, and stagnation of hyperlinking as a journalistic tool}
       \field{urlday}{08}
       \field{urlmonth}{02}
       \field{urlyear}{2015}
@@ -2822,6 +3105,40 @@
       \verb http://www.theverge.com/2014/1/26/5348212/ezra-klein-vox-is-our-next
       \endverb
     \endentry
+    \entry{kleinberg_authoritative_1999}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0a3d8f90ac4cbdfcc948a6cd82810681}{Kleinberg}{K\bibinitperiod}{Jon\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0a3d8f90ac4cbdfcc948a6cd82810681}{Kleinberg}{K\bibinitperiod}{Jon\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0a3d8f90ac4cbdfcc948a6cd82810681}
+      \strng{fullhash}{0a3d8f90ac4cbdfcc948a6cd82810681}
+      \field{sortinit}{K}
+      \field{labeltitle}{Authoritative Sources in a Hyperlinked Environment}
+      \field{abstract}{The network structure of a hyperlinked environment can be a rich source of information about the content of the environment, provided we have effective means for understanding it. We develop a set of algorithmic tools for extracting information from the link structures of such environments, and report on experiments that demonstrate their effectiveness in a variety of context on the World Wide Web. The central issue we address within our framework is the distillation of broad search topics, through the discovery of {$\textquotedblleft$}authorative{$\textquotedblright$} information sources on such topics. We propose and test an algorithmic formulation of the notion of authority, based on the relationship between a set of relevant authoritative pages and the set of {$\textquotedblleft$}hub pages{$\textquotedblright$} that join them together in the link structure. Our formulation has connections to the eigenvectors of certain matrices associated with the link graph; these connections in turn motivate additional heuristrics for link-based analysis.}
+      \field{issn}{0004-5411}
+      \field{journaltitle}{J. {ACM}}
+      \field{month}{09}
+      \field{number}{5}
+      \field{title}{Authoritative Sources in a Hyperlinked Environment}
+      \field{urlday}{07}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{46}
+      \field{year}{1999}
+      \field{pages}{604\bibrangedash 632}
+      \verb{doi}
+      \verb 10.1145/324133.324140
+      \endverb
+      \verb{file}
+      \verb p604-kleinberg.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NDR95PR3/p604-kleinberg.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/324133.324140
+      \endverb
+      \keyw{graph algorithms,hypertext structure,link analysis,World Wide Web}
+    \endentry
     \entry{appadurai_cultural_1986}{incollection}{}
       \name{labelname}{1}{}{%
         {{hash=0406a3761b98dd75b5d44a0e288071f1}{Kopytoff}{K\bibinitperiod}{Igor}{I\bibinitperiod}{}{}{}{}}%
@@ -2932,15 +3249,11 @@
       \field{sortinit}{L}
       \field{labeltitle}{Staying In or Going Out?}
       \field{abstract}{As journalism has moved from offline to online, a multitude of studies have gauged how media practitioners have employed the features made available by the internet. One such area of study has been the uses of hyperlinks. This study attempts to move beyond the technological or descriptive accounts often found when dealing with how journalists use links, by presenting an analysis of what aspects pertaining to newspaper website operation appear to have influence over journalistic use of different types of hyperlinks. The focus is placed on Sweden, a country which could be seen as a {$\textquotedblleft$}hotbed{$\textquotedblright$} for innovative practices, given its consistently high scores for newspaper readership and internet use. Specifically, statistical analyses are employed on 3869 links gathered from Swedish online newspapers across a six-month period. Results indicate that while few external links are used, reaching outside the online realm of the specific newspaper, these particular links are almost exclusively found embedded in the journalistic text. Links leading to internal sources are more abundant, especially in the automatically generated thematically based sidebars often found in conjunction with online news items. Results also indicate slight differences regarding linking practices between tabloids and broadsheets, and between news of different origin. In closing, the paper suggests that while linking practices have certainly evolved during the short history of online journalism, we are mostly seeing what could be labeled an automated approach to employing hyperlinks.}
-      \field{day}{01}
       \field{issn}{1751-2786}
       \field{journaltitle}{Journalism Practice}
       \field{month}{12}
       \field{number}{6}
       \field{title}{Staying In or Going Out?}
-      \field{urlday}{19}
-      \field{urlmonth}{02}
-      \field{urlyear}{2015}
       \field{volume}{7}
       \field{year}{2013}
       \field{pages}{738\bibrangedash 754}
@@ -2949,9 +3262,6 @@
       \endverb
       \verb{file}
       \verb 407434.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/MXPPT2NK/407434.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ZWXV24JP/17512786.2012.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1080/17512786.2012.748514
       \endverb
     \endentry
     \entry{lee_version_2013}{unpublished}{}
@@ -3132,9 +3442,6 @@
       \field{number}{4}
       \field{shorttitle}{Archive and Database as Metaphor}
       \field{title}{Archive and Database as Metaphor: Theorizing the Historical Record}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{10}
       \field{year}{2010}
       \field{pages}{385\bibrangedash 398}
@@ -3143,9 +3450,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/MVAVGPA9/Manoff - 2012 - Archive and database as metaphor Theorizing the H.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v010/10.4.manoff.html
       \endverb
     \endentry
     \entry{manovich_database_1999}{article}{}
@@ -3168,9 +3472,6 @@
       \field{number}{2}
       \field{shortjournal}{Convergence}
       \field{title}{Database as Symbolic Form}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{5}
       \field{year}{1999}
       \field{pages}{80\bibrangedash 99}
@@ -3179,9 +3480,6 @@
       \endverb
       \verb{file}
       \verb Convergence-1999-Manovich-80-99.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/DHTXWGDR/Convergence-1999-Manovich-80-99.pdf:application/pdf;Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/IN2J3P3W/Manovich - 1999 - Database as Symbolic Form.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/8XAUC9WJ/80.html:text/html;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/J3GUJR9W/80.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://con.sagepub.com/content/5/2/80
       \endverb
     \endentry
     \entry{markham_undermining_2013}{article}{}
@@ -3204,9 +3502,6 @@
       \field{number}{10}
       \field{shorttitle}{Undermining {$\textquoteleft$}data{$\textquoteright$}}
       \field{title}{Undermining 'data': A critical examination of a core term in scientific inquiry}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{18}
       \field{year}{2013}
       \verb{file}
@@ -3244,6 +3539,34 @@
       \verb 13688804%2E2013%2E870749.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QNNQAMPG/13688804%2E2013%2E870749.pdf:application/pdf
       \endverb
       \keyw{20TH century,Archives,{DATABASES},{DIGITAL} preservation,{DIGITIZATION},{ELECTRONIC} newspapers,history,{MOVE} (Organization) bombing,Philadelphia,Pa.,1985,{NEWSPAPER} archives,newspapers,photographs,{PHOTOJOURNALISM},{RESEARCH}}
+    \endentry
+    \entry{mcbride_how_2014}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=a9d14a95929dd294fde2742f23c228fd}{{McBride}}{M\bibinitperiod}{Kelly}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a9d14a95929dd294fde2742f23c228fd}{{McBride}}{M\bibinitperiod}{Kelly}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a9d14a95929dd294fde2742f23c228fd}
+      \strng{fullhash}{a9d14a95929dd294fde2742f23c228fd}
+      \field{sortinit}{M}
+      \field{labeltitle}{How to build a news apps team (Hint}
+      \field{abstract}{A Global Leader in Journalism {\textbar} Journalism training, media news \& how to's}
+      \field{day}{29}
+      \field{month}{09}
+      \field{shorttitle}{How to build a news apps team (Hint}
+      \field{title}{How to build a news apps team}
+      \field{titleaddon}{Poynter}
+      \field{urlday}{22}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/VPT32JG6/how-to-build-a-news-apps-team-hint-if-you-dont-have-a-lot-of-money-settle-for-scrappy.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.poynter.org/news/mediawire/271823/how-to-build-a-news-apps-team-hint-if-you-dont-have-a-lot-of-money-settle-for-scrappy/
+      \endverb
     \endentry
     \entry{mccain_saving_2014}{online}{}
       \name{labelname}{1}{}{%
@@ -3443,9 +3766,6 @@
       \verb{file}
       \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NAWWVPTV/The_Internet_and_the_forces_of_massification.html:text/html
       \endverb
-      \verb{url}
-      \verb http://hdl.handle.net/2027/spo.5680986.0001.001
-      \endverb
       \keyw{academia,academics,Biology,Chemistry,Computer Science,Earth Sciences,Economics,English,Geography,history,hyperlinks,Law,Math,Medicine,Philosophy,Physics,Political Science,Psychology,Religion,{RESEARCH},universities}
     \endentry
     \entry{nelson_complex_1965}{inproceedings}{}
@@ -3469,9 +3789,6 @@
       \field{booktitle}{Proceedings of the 1965 20th National Conference}
       \field{shorttitle}{Complex Information Processing}
       \field{title}{Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{year}{1965}
       \field{pages}{84\bibrangedash 100}
       \verb{doi}
@@ -3479,9 +3796,6 @@
       \endverb
       \verb{file}
       \verb p84-nelson.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NUX6U3TK/p84-nelson.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://doi.acm.org/10.1145/800197.806036
       \endverb
       \keyw{xanadu}
     \endentry
@@ -3659,6 +3973,70 @@
       \endverb
       \keyw{{BUSH},Vannevar,1890-1974,{ESSAYS},{IDEALISM},Information technology,memex,{PRAGMATISM},{TECHNOLOGICAL} innovations}
     \endentry
+    \entry{oblak_lack_2005}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=88b72aab479e91f6aed0bbfd545c91d0}{Oblak}{O\bibinitperiod}{Tanja}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=88b72aab479e91f6aed0bbfd545c91d0}{Oblak}{O\bibinitperiod}{Tanja}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{88b72aab479e91f6aed0bbfd545c91d0}
+      \strng{fullhash}{88b72aab479e91f6aed0bbfd545c91d0}
+      \field{sortinit}{O}
+      \field{labeltitle}{The Lack of Interactivity and Hypertextuality in Online Media}
+      \field{abstract}{The main focus of this article is related to the forms of mediated content that are offered in online space. Two specific aspects of new cyber-textuality are discussed - the notion of hyper-textuality and the potential of interactivity. Both characteristics are understood as new challenges that reflect specific communication potentials of the internet. In an empirical sense, the article tries to show the extent these significant forms of mediation are used in online media news. For this reason a comparison between media content in print and online media has been made. The findings reveal the lack of interactivity in practice and explore its diversity as a communication form between media producers and reader. Regarding the hypertextuality, the analysis shows the complexity of this concept, which in the realm of news media online is still maturing.}
+      \field{day}{01}
+      \field{issn}{1748-0485, 1748-0493}
+      \field{journaltitle}{Gazette}
+      \field{langid}{english}
+      \field{month}{02}
+      \field{number}{1}
+      \field{shortjournal}{Gazette}
+      \field{title}{The Lack of Interactivity and Hypertextuality in Online Media}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2013}
+      \field{volume}{67}
+      \field{year}{2005}
+      \field{pages}{87\bibrangedash 106}
+      \verb{doi}
+      \verb 10.1177/0016549205049180
+      \endverb
+      \verb{file}
+      \verb 405851.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HVC8R2IQ/405851.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://gaz.sagepub.com/content/67/1/87
+      \endverb
+      \keyw{hypertextuality,interactivity,Internet,newspapers,Slovenia}
+    \endentry
+    \entry{odonovan_buzzfeed_2014}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=cd6e0883931926c00f12787f02d66115}{O'Donovan}{O\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cd6e0883931926c00f12787f02d66115}{O'Donovan}{O\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cd6e0883931926c00f12787f02d66115}
+      \strng{fullhash}{cd6e0883931926c00f12787f02d66115}
+      \field{sortinit}{O}
+      \field{labeltitle}{{BuzzFeed} is building a new mobile app just for news - theirs and everyone else{$\textquoteright$}s}
+      \field{abstract}{Ben Smith says it will be a guide through the noise of news in social media, and that journalists should realize they're "part of a collaborative project with other news outlets."}
+      \field{day}{31}
+      \field{month}{07}
+      \field{title}{{BuzzFeed} is building a new mobile app just for news - theirs and everyone else{$\textquoteright$}s}
+      \field{titleaddon}{Nieman Journalism Lab}
+      \field{urlday}{15}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/MDM6WV2B/buzzfeed-is-building-a-new-mobile-app-just-for-news-theirs-and-everyone-elses.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.niemanlab.org/2014/07/buzzfeed-is-building-a-new-mobile-app-just-for-news-theirs-and-everyone-elses/
+      \endverb
+    \endentry
     \entry{_one_2015}{online}{}
       \field{sortinit}{O}
       \field{labeltitle}{One in five online scholarly articles affected by {$\textquoteleft$}reference rot{$\textquoteright$}}
@@ -3716,13 +4094,36 @@
       \field{booktitle}{Digital Memory and the Archive}
       \field{langid}{english}
       \field{title}{Archival Media Theory: An Introduction to Wolfgang Ernst's Media Archaeology}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2014}
       \field{year}{2012}
       \field{pages}{1\bibrangedash 22}
+    \endentry
+    \entry{paul_content:_1995}{unpublished}{}
+      \name{labelname}{1}{}{%
+        {{hash=5a0d20b55b123008c94d04938c91401b}{Paul}{P\bibinitperiod}{Nora}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5a0d20b55b123008c94d04938c91401b}{Paul}{P\bibinitperiod}{Nora}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dallas, {TX}}%
+      }
+      \strng{namehash}{5a0d20b55b123008c94d04938c91401b}
+      \strng{fullhash}{5a0d20b55b123008c94d04938c91401b}
+      \field{sortinit}{P}
+      \field{labeltitle}{Content: A Re-Visioning}
+      \field{day}{06}
+      \field{month}{02}
+      \field{note}{Interactive Newspapers '95}
+      \field{title}{Content: A Re-Visioning}
+      \field{urlday}{08}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{year}{1995}
+      \verb{file}
+      \verb Content\: A Re-Visioning:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/BF93TWU8/366npaul.html:text/html
+      \endverb
       \verb{url}
-      \verb https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
+      \verb http://www.lehigh.edu/~jl0d/J366-99/366npaul.html
       \endverb
     \endentry
     \entry{reagle_good_2010}{book}{}
@@ -3897,17 +4298,11 @@
       \field{number}{1}
       \field{shortjournal}{Journal of the History of Ideas}
       \field{title}{Early Modern Information Overload}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{64}
       \field{year}{2003}
       \field{pages}{1\bibrangedash 9}
       \verb{file}
       \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/U3J8AU47/Rosenberg - 2003 - Introduction.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/3654292
       \endverb
       \keyw{info overload,link prehistory,renaissance}
     \endentry
@@ -3959,9 +4354,9 @@
       \field{number}{Working Paper {RWP}07-022}
       \field{shorttitle}{Useful Void}
       \field{title}{Useful Void: The Art of Forgetting in the Age of Ubiquitous Computing}
-      \field{urlday}{08}
-      \field{urlmonth}{12}
-      \field{urlyear}{2013}
+      \field{urlday}{21}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
       \field{year}{2007}
       \verb{file}
       \verb Mayer-Schonberger.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/EREXD5Z9/Mayer-Schonberger.pdf:application/pdf
@@ -4037,9 +4432,6 @@
       \field{journaltitle}{Limn}
       \field{number}{2}
       \field{title}{Algorithmic Recommendations and Synaptic Functions}
-      \field{urlday}{14}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
       \field{year}{2012}
       \field{pages}{44\bibrangedash 47}
       \verb{file}
@@ -4310,9 +4702,6 @@
       \field{shortjournal}{Science}
       \field{shorttitle}{Google Effects on Memory}
       \field{title}{Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{333}
       \field{year}{2011}
       \field{pages}{776\bibrangedash 778}
@@ -4321,45 +4710,6 @@
       \endverb
       \verb{file}
       \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/XZTW3K9N/776.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.sciencemag.org/content/333/6043/776
-      \endverb
-    \endentry
-    \entry{star_ethnography_1999}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=1afb554b186b7b6b58fa85d3d4864909}{Star}{S\bibinitperiod}{Susan\bibnamedelima Leigh}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=1afb554b186b7b6b58fa85d3d4864909}{Star}{S\bibinitperiod}{Susan\bibnamedelima Leigh}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{1afb554b186b7b6b58fa85d3d4864909}
-      \strng{fullhash}{1afb554b186b7b6b58fa85d3d4864909}
-      \field{sortinit}{S}
-      \field{labeltitle}{The Ethnography of Infrastructure}
-      \field{abstract}{This article asks methodological questions about studying infrastructure with some of the tools and perspectives of ethnography. Infrastructure is both relational and ecological{$\textemdash$}it means different things to different groups and it is part of the balance of action, tools, and the built environment, inseparable from them. It also is frequently mundane to the point of boredom, involving things such as plugs, standards, and bureaucratic forms. Some of the difficulties of studying infrastructure are how to scale up from traditional ethnographic sites, how to manage large quantities of data such as those produced by transaction logs, and how to understand the interplay of online and offline behavior. Some of the tricks of the trade involved in meeting these challenges include studying the design of infrastructure, understanding the paradoxes of infrastructure as both transparent and opaque, including invisible work in the ecological analysis, and pinpointing the epistemological status of indictors.}
-      \field{day}{01}
-      \field{issn}{0002-7642, 1552-3381}
-      \field{journaltitle}{American Behavioral Scientist}
-      \field{langid}{english}
-      \field{month}{11}
-      \field{number}{3}
-      \field{shortjournal}{American Behavioral Scientist}
-      \field{title}{The Ethnography of Infrastructure}
-      \field{urlday}{03}
-      \field{urlmonth}{05}
-      \field{urlyear}{2014}
-      \field{volume}{43}
-      \field{year}{1999}
-      \field{pages}{377\bibrangedash 391}
-      \verb{doi}
-      \verb 10.1177/00027649921955326
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/3H8H2G89/Star - 1999 - The Ethnography of Infrastructure.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/X72C96V2/377.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://abs.sagepub.com.libproxy.mit.edu/content/43/3/377
       \endverb
     \endentry
     \entry{starr_creation_2004}{book}{}
@@ -4467,6 +4817,107 @@
       \verb http://www.theatlantic.com/business/archive/2013/11/upworthy-i-thought-this-website-was-crazy-but-what-happened-next-changed-everything/281472/
       \endverb
     \endentry
+    \entry{_timeline_????}{online}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{Timeline}
+      \field{abstract}{News, in context. The news is the short tail of a very long string of events. Timeline weaves those events into rich, compelling stories. Get the app now!}
+      \field{title}{Timeline}
+      \field{titleaddon}{Timeline}
+      \field{urlday}{22}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/F3NQDK8C/timeline.com.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.timeline.com
+      \endverb
+    \endentry
+    \entry{li_applying_2013}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=8cf41f8e4d4e5a9f512a046ef5aec439}{Tremayne}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8cf41f8e4d4e5a9f512a046ef5aec439}{Tremayne}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=08d170d5c9511f77d024cca468dc5c1a}{Li}{L\bibinitperiod}{Xigen}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{8cf41f8e4d4e5a9f512a046ef5aec439}
+      \strng{fullhash}{8cf41f8e4d4e5a9f512a046ef5aec439}
+      \field{sortinit}{T}
+      \field{labeltitle}{Applying Network Theory to the Use of External Links on News Web Sites}
+      \field{abstract}{Internet Newspapers: The Making of a Mainstream Medium examines newspapers on the Internet, and addresses the emergence of online newspapers and the delivery of news through this outlet. Utilizing empirical research, chapters explore the theoretic}
+      \field{booktitle}{Internet Newspapers: The Making of a Mainstream Medium}
+      \field{day}{13}
+      \field{isbn}{9781136683916}
+      \field{langid}{english}
+      \field{month}{09}
+      \field{title}{Applying Network Theory to the Use of External Links on News Web Sites}
+      \field{year}{2013}
+      \keyw{Computers / Web / General,Language Arts \& Disciplines / Journalism,Social Science / Media Studies}
+    \endentry
+    \entry{tremayne_manipulating_2008}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8cf41f8e4d4e5a9f512a046ef5aec439}{Tremayne}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8cf41f8e4d4e5a9f512a046ef5aec439}{Tremayne}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8cf41f8e4d4e5a9f512a046ef5aec439}
+      \strng{fullhash}{8cf41f8e4d4e5a9f512a046ef5aec439}
+      \field{sortinit}{T}
+      \field{labeltitle}{Manipulating interactivity with thematically hyperlinked news texts}
+      \field{abstract}{This article concerns the influence of news presentation on the web. The study had two primary goals. The first was to test the effects of interactivity on learning, and the second was to explore the role of motivation in learning from interactive media. Hypotheses were tested using an experimental design. Study participants were assigned one of four web news stories with structures that encouraged varying degrees of interactivity. The results of hypothesis testing were heavily dependent on which measure of learning was employed. A traditional multiple-choice test of recognition verified an effect of motivation but not of interactive behaviour. A comprehension measure of learning, supported by the cognitive constructivism theory of learning employed in this study, supported an effect of interactive behaviour but not of motivation. Explanations for the findings are proposed and implications for mass communicators discussed.}
+      \field{day}{01}
+      \field{issn}{1461-4448, 1461-7315}
+      \field{journaltitle}{New Media \& Society}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{New Media Society}
+      \field{shorttitle}{Manipulating interactivity with thematically hyperlinked news texts}
+      \field{title}{Manipulating interactivity with thematically hyperlinked news texts: a media learning experiment}
+      \field{volume}{10}
+      \field{year}{2008}
+      \field{pages}{703\bibrangedash 727}
+      \verb{doi}
+      \verb 10.1177/1461444808094353
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ATCNZ3EG/Tremayne - 2008 - Manipulating interactivity with thematically hyper.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/TR95UGPW/703.html:text/html
+      \endverb
+      \keyw{cognition,constructivism,interactivity,Internet,journalism,learning,motivation,web}
+    \endentry
+    \entry{tremayne_web_2004}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8cf41f8e4d4e5a9f512a046ef5aec439}{Tremayne}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8cf41f8e4d4e5a9f512a046ef5aec439}{Tremayne}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8cf41f8e4d4e5a9f512a046ef5aec439}
+      \strng{fullhash}{8cf41f8e4d4e5a9f512a046ef5aec439}
+      \field{sortinit}{T}
+      \field{labeltitle}{The Web of Context}
+      \field{abstract}{This study applies emerging network theory to the use of hyperlinks in journalism stories on the Web. A five-year data set, including almost 1,500 Web news stories, is examined. The study conduces that the use of links in Web news stories is increasing in ways predicted by network theory. Stories may become both more event-driven and more contextual on the flexible platform of the Web.}
+      \field{issn}{10776990}
+      \field{journaltitle}{Journalism \& Mass Communication Quarterly}
+      \field{number}{2}
+      \field{shortjournal}{Journalism \& Mass Communication Quarterly}
+      \field{shorttitle}{The Web of Context}
+      \field{title}{The Web of Context: Applying Network Theory to the Use of Hyperlinks in Journalism on the Web}
+      \field{volume}{81}
+      \field{year}{2004}
+      \field{pages}{237\bibrangedash 253}
+      \verb{file}
+      \verb Tremayne.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/APB6BVAB/Tremayne.pdf:application/pdf
+      \endverb
+      \keyw{{HYPERLINKS},Internet,journalism,{JOURNALISTS},Websites,World Wide Web}
+    \endentry
     \entry{trevino_which_2014}{report}{}
       \name{labelname}{2}{}{%
         {{hash=681511eb12dc43339f219c5a9a4bee79}{Trevino}{T\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
@@ -4489,16 +4940,10 @@
       \field{month}{05}
       \field{number}{{WPS}6851}
       \field{title}{Which World Bank reports are widely read?}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{year}{2014}
       \field{pages}{1\bibrangedash 34}
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HAEMGD9R/Trevino and Doemeland - 2014 - Which World Bank reports are widely read .pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WM9ZPUZP/world-bank-reports-widely-read-world-bank-reports-widely-read.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://documents.worldbank.org/curated/en/2014/05/19456376/world-bank-reports-widely-read-world-bank-reports-widely-read
       \endverb
       \keyw{Access to Information,{ACRONYMS},advisory services,article,articles,Book Review}
     \endentry
@@ -4601,17 +5046,39 @@
       \field{month}{03}
       \field{shorttitle}{Big Questions for Social Media Big Data}
       \field{title}{Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls}
-      \field{urlday}{14}
-      \field{urlmonth}{05}
-      \field{urlyear}{2014}
       \field{year}{2014}
       \verb{file}
       \verb 1403.7400 PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/GSD5GJ3X/Tufekci - 2014 - Big Questions for Social Media Big Data Represent.pdf:application/pdf;arXiv.org Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/7DNRWWSW/1403.html:text/html
       \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/1403.7400
-      \endverb
       \keyw{Computer Science - Social and Information Networks,Physics - Physics and Society}
+    \endentry
+    \entry{ureta_potential_2011}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c5bd50b1861316ec80fa7bc9d9d7a10d}{Ureta}{U\bibinitperiod}{Ainara\bibnamedelima Larrondo}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c5bd50b1861316ec80fa7bc9d9d7a10d}{Ureta}{U\bibinitperiod}{Ainara\bibnamedelima Larrondo}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c5bd50b1861316ec80fa7bc9d9d7a10d}
+      \strng{fullhash}{c5bd50b1861316ec80fa7bc9d9d7a10d}
+      \field{sortinit}{U}
+      \field{labeltitle}{The Potential of Web-Only Feature Stories}
+      \field{abstract}{This article presents a case study that examines formal, stylistic and functional characteristics of the Web-only special features of three Spanish quality newspaper sites. The research, conducted in the framework of the author's doctoral dissertation, employs a mixed methodology based on an analysis of their links and their hypertextual structure, as well as on interviews with the editors concerned. The results show an extensive use of the technique of non-linear and multimedia writing, as well as specific narrative patterns that require further creative skills. These findings make it possible to understand why this type of production is today one of the main values in the informative and business strategy of the most popular online media. From a less pragmatic point of view, the case studies confirm the potential of this type of microsite for developing stories in depth, which supposes an enriching of the traditional genre of the feature or special report. The article discusses the implication of these findings for reporting practice and the need for further research about the impact of the Internet on the principles of journalism genres.}
+      \field{day}{01}
+      \field{issn}{1461-670X}
+      \field{journaltitle}{Journalism Studies}
+      \field{month}{04}
+      \field{number}{2}
+      \field{title}{The Potential of Web-Only Feature Stories}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{pages}{188\bibrangedash 204}
+      \verb{doi}
+      \verb 10.1080/1461670X.2010.491300
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/QJBAD2Z4/1461670X.2010.html:text/html
+      \endverb
     \endentry
     \entry{van_veelen_alle_1998}{video}{}
       \name{labelname}{1}{}{%
@@ -4640,6 +5107,40 @@
       \verb http://archive.org/details/paulotlet
       \endverb
       \keyw{Belgium,Documentation,Internet,Mundaneum,otlet,rayward}
+    \endentry
+    \entry{vobic_practice_2013}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=b295c2207dc9701fe50b4e66b0254378}{Vobi\v{c}}{V\bibinitperiod}{Igor}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b295c2207dc9701fe50b4e66b0254378}{Vobi\v{c}}{V\bibinitperiod}{Igor}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b295c2207dc9701fe50b4e66b0254378}
+      \strng{fullhash}{b295c2207dc9701fe50b4e66b0254378}
+      \field{sortinit}{V}
+      \field{labeltitle}{Practice of Hypertext: Insights from the online departments of two Slovenian newspapers}
+      \field{abstract}{Despite scholarly research inconsistencies in conceptualizations of hypertext, there seems to be a consensus among scholars from different epistemological grounds that hypertextuality as a communication potential refers to the interconnectivity and interlayering of textual parts in an extended nonlinear chain of integrated content that enables innovation in practices within the triad journalist{$\textendash$}text{$\textendash$}reader. However, within this rather large area of research, media and journalism scholars have paid minimal attention to hypertext as practice despite hypertext raising many questions regarding the processes and relations of news making. In this paper the author attempts to fill this research gap and to investigate how hypertext shapes different phases of online news making, that is, gathering, selecting, and assessing information, and how these processes influence journalist{$\textendash$}source{$\textendash$}audience relations. This study thus provides analysis of data gathered through participant observation in the online departments of two leading Slovenian print media organizations, Delo and Dnevnik, and in-depth interviews with their online journalists and editors. The analysis indicated that (1) lack of reasoning and a conservative mind-set prevail among online staffers when conceptualizing hypertext; (2) the normalization of hypertextual news making is subordinated to speed and timeliness in news delivery; and (3) nurtured journalist{$\textendash$}source{$\textendash$}audience relations bring little to strengthen the social relevance of news. These results confirmed hypertext as a commodity rather than emphasizing its public character. The practice of hypertext at the two Slovenian newspapers indicates a phenomenon that could be labelled as journalistic deskilling in online news making.}
+      \field{day}{08}
+      \field{issn}{1751-2786}
+      \field{journaltitle}{Journalism Practice}
+      \field{month}{08}
+      \field{number}{4}
+      \field{title}{Practice of Hypertext: Insights from the online departments of two Slovenian newspapers}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2013}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{357\bibrangedash 372}
+      \verb{doi}
+      \verb 10.1080/17512786.2013.821325
+      \endverb
+      \verb{file}
+      \verb 405849.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/GTEEZNQG/405849.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/17512786.2013.821325
+      \endverb
     \endentry
     \entry{walker_links_2002}{inproceedings}{}
       \name{labelname}{1}{}{%
@@ -4687,9 +5188,6 @@
       \field{shortjournal}{Science Technology Human Values}
       \field{shorttitle}{Experimenting with the Archive}
       \field{title}{Experimenting with the Archive: {STS}-ers As Analysts and Co-constructors of Databases and Other Archival Forms}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{35}
       \field{year}{2010}
       \field{pages}{645\bibrangedash 676}
@@ -4698,9 +5196,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/WTKQUSIC/Waterton - 2010 - Experimenting with the Archive STS-ers As Analyst.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/UFFP5TVV/645.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://sth.sagepub.com/content/35/5/645
       \endverb
       \keyw{archive,{DATABASES},emergence,memory,performance}
     \endentry
@@ -4890,16 +5385,10 @@
       \field{month}{06}
       \field{number}{6}
       \field{title}{The Curse of Xanadu}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{3}
       \field{year}{1995}
       \verb{file}
       \verb 3.06\: features:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/PTAJXX8T/xanadu_pr.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://www.wired.com/wired/archive/3.06/xanadu_pr.html
       \endverb
       \keyw{xanadu}
     \endentry
@@ -4948,9 +5437,6 @@
       \field{shortjournal}{Journal of the History of Ideas}
       \field{shorttitle}{A Solution to the Multitude of Books}
       \field{title}{A Solution to the Multitude of Books: Ephraim Chambers's "Cyclopaedia" (1728) as "The Best Book in the Universe"}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{64}
       \field{year}{2003}
       \field{pages}{61\bibrangedash 72}
@@ -4959,9 +5445,6 @@
       \endverb
       \verb{file}
       \verb JSTOR Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/HTHPF55W/Yeo - 2003 - A Solution to the Multitude of Books Ephraim Cham.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/3654296
       \endverb
       \keyw{encyclopedia,link prehistory,renaissance}
     \endentry
@@ -5013,9 +5496,6 @@
       \field{shortjournal}{New Media Society}
       \field{shorttitle}{Renvois of the past, present and future}
       \field{title}{Renvois of the Past, Present and Future: Hyperlinks and the Structuring of Knowledge from the Encyclop\'{e}die to Web 2.0}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{volume}{11}
       \field{year}{2009}
       \field{pages}{95\bibrangedash 113}
@@ -5024,9 +5504,6 @@
       \endverb
       \verb{file}
       \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/FSMEB6BE/Renvois of the Past, Present and Future_ H - Michael Zimmer.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/Z4G2RJ79/95.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://nms.sagepub.com/content/11/1-2/95
       \endverb
       \keyw{Diderot,encyclopedia,folksonomy,Hyperlink,Hypertext,memex,renaissance,renvois,semantic web,World Wide Web}
     \endentry
@@ -5053,15 +5530,9 @@
       \field{number}{{ID} 1618042}
       \field{title}{The Fourth Quadrant}
       \field{type}{{SSRN} Scholarly Paper}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{year}{2010}
       \verb{file}
       \verb Full Text PDF:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/UICIMC7H/Zittrain - 2010 - The Fourth Quadrant.pdf:application/pdf;Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/PFJ8IT6P/papers.html:text/html
-      \endverb
-      \verb{url}
-      \verb http://papers.ssrn.com/abstract=1618042
       \endverb
       \keyw{cybersecurity,cyberspace,Internet,lessig,regulation}
     \endentry
@@ -5093,15 +5564,9 @@
       \field{shorttitle}{Perma}
       \field{title}{Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations}
       \field{type}{{SSRN} Scholarly Paper}
-      \field{urlday}{20}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
       \field{year}{2013}
       \verb{file}
       \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/8Z7VGUXI/papers.html:text/html;SSRN-id2329161.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/A7NVGMC8/SSRN-id2329161.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb http://papers.ssrn.com/abstract=2329161
       \endverb
       \keyw{Archiving Preservation,Internet,Link Rot,link rot,Reference Rot,reference rot,{URLs}}
     \endentry
@@ -5149,9 +5614,6 @@
       \field{number}{2}
       \field{shortjournal}{Daedalus}
       \field{title}{International reporting in the age of participatory media}
-      \field{urlday}{15}
-      \field{urlmonth}{03}
-      \field{urlyear}{2015}
       \field{volume}{139}
       \field{year}{2010}
       \field{pages}{66\bibrangedash 75}
@@ -5161,30 +5623,8 @@
       \verb{file}
       \verb Daedalus Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/888BV4ZI/daed.2010.139.2.html:text/html
       \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1162/daed.2010.139.2.66
-      \endverb
     \endentry
   \endsortlist
-  \missing{tremayne_web_of_context}
-  \missing{????_news_2014}
-  \missing{ureta_2011}
-  \missing{gillmor_we_2003?}
-  \missing{manovich}
-  \missing{bolter}
-  \missing{de_maeyer_}
-  \missing{link apprentice}
-  \missing{automatically_embedding_newsworthy}
-  \missing{o'donovan_buzzfeed_2014}
-  \missing{helmond_examining_2013}
-  \missing{coddington_normalizing_2013}
-  \missing{fragoso_understanding}
-  \missing{tremayne_applying_network_theory}
-  \missing{park_sociology_????}
-  \missing{landow}
-  \missing{find the ACTUAL number for this}
-  \missing{paul_1995}
-  \missing{deuze etc.}
 \endrefsection
 \endinput
 
