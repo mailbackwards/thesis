@@ -25,7 +25,7 @@
 %% Page Intentionally Left Blank'', use the ``leftblank'' option, as
 %% above. 
 
-\documentclass[12pt,twoside]{mitthesis}
+\documentclass[12pt,vi,twoside]{mitthesis}
 \usepackage{lgrind}
 %% These have been added at the request of the MIT Libraries, because
 %% some PDF conversions mess up the ligatures.  -LB, 1/22/2014
@@ -33,8 +33,54 @@
 \usepackage[T1]{fontenc}
 \usepackage[notes, hyperref=true, doi=false, isbn=false, citereset=chapter, bibencoding=utf8, backend=biber]{biblatex-chicago}
 \usepackage[autostyle]{csquotes}
+\usepackage{graphicx}
 \addbibresource{thesis.bib}
 \pagestyle{plain}
+
+\DeclareBibliographyCategory{ignore}
+\addtocategory{ignore}{rothman_interview_2015}
+\addtocategory{ignore}{rothman_interview_2015-1}
+\addtocategory{ignore}{arthur_explaining_2014}
+\addtocategory{ignore}{bbc_putting_2010}
+\addtocategory{ignore}{beckett_editorial_2010}
+\addtocategory{ignore}{benkler_social_2013}
+\addtocategory{ignore}{bennett_lindsay_1969}
+\addtocategory{ignore}{bialik_samslusher_2015}
+\addtocategory{ignore}{carlson_upworthy_2014}
+\addtocategory{ignore}{carmody_pioneering_2014}
+\addtocategory{ignore}{cave_i_2000}
+\addtocategory{ignore}{_company_????}
+\addtocategory{ignore}{constine_google_2013}
+\addtocategory{ignore}{draper_46_2014}
+\addtocategory{ignore}{_explainthis.org_2010}
+\addtocategory{ignore}{gitelman_response_2013}
+\addtocategory{ignore}{graeff_battle_2014}
+\addtocategory{ignore}{graells-garrido_data_2013}
+\addtocategory{ignore}{greenwald_remember:_2015}
+\addtocategory{ignore}{hakim_right_2014}
+\addtocategory{ignore}{hern_worlds_2014}
+\addtocategory{ignore}{isaac_facebook_2015}
+\addtocategory{ignore}{johnson_repeat_2014}
+\addtocategory{ignore}{joshi_fleet_2014}
+\addtocategory{ignore}{karsch_it_2014}
+\addtocategory{ignore}{liversidge_whats_2012}
+\addtocategory{ignore}{lopez_everything_????}
+\addtocategory{ignore}{mcbride_how_2014}
+\addtocategory{ignore}{moulthrop_to_2013}
+\addtocategory{ignore}{_new_????}
+\addtocategory{ignore}{noguchi_a_2015}
+\addtocategory{ignore}{odonovan_buzzfeed_2014}
+\addtocategory{ignore}{rogers_digital_2013}
+\addtocategory{ignore}{salmon_why_2014}
+\addtocategory{ignore}{searls_earth_2014}
+\addtocategory{ignore}{shapiro_yale_2006}
+\addtocategory{ignore}{silver_yo_2015}
+\addtocategory{ignore}{smith_iv_heres_2015}
+\addtocategory{ignore}{taylor_new_2014}
+\addtocategory{ignore}{_timeline_????}
+\addtocategory{ignore}{ureta_potential_2011}
+\addtocategory{ignore}{whitacre_podcast:_2014}
+\addtocategory{ignore}{whitacre_podcast:_2014-1}
 
 %% This bit allows you to either specify only the files which you wish to
 %% process, or `all' to process all files which you \include.

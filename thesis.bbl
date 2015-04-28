@@ -340,6 +340,31 @@
       \endverb
       \keyw{xanadu}
     \endentry
+    \entry{baladi_vox_????}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=05f12e6c715345adae339416ef7a3803}{Baladi}{B\bibinitperiod}{Lara}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=05f12e6c715345adae339416ef7a3803}{Baladi}{B\bibinitperiod}{Lara}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{05f12e6c715345adae339416ef7a3803}
+      \strng{fullhash}{05f12e6c715345adae339416ef7a3803}
+      \field{sortinit}{B}
+      \field{labeltitle}{Vox Populi}
+      \field{abstract}{During the\x{00a0}\#Jan25 revolution{$\textemdash$}the hashtag used by online activists during the 2011 Egyptian uprising{$\textemdash$}the world watched as Egyptians toppled their president, Hosni Mubarak, transforming Tahrir Square into a vibrant place for demonstrations of social solidarity and political struggle. Just as the {YouTube} video\x{00a0}{$\textquotedblleft$}Tiananmen-Cairo Courage in Cairo{$\textquotedblright$} went viral, a friend posted on Facebook a\x{00a0}speech\x{00a0}Jean Paul Sartre had delivered to an audience of striking French autoworkers 40 years earlier. As the political tension grew, more and more images and videos of a packed Tahrir Square were uploaded to {YouTube} and other websites. They echoed footage from other uprisings across the Middle East and North Africa, as well as the sights and sounds of a vast array of past social movements. It was as though Sartre were\x{00a0}protesting with everyone\x{00a0}in Tahrir. As of today, the Egyptian revolution and its aftermath remain the most digitally documented and disseminated event in modern history. Vox Populi, Archiving a Revolution in the Digital Age, is a project based on an archive of articles, images, and {YouTube} videos {MIT} {OpenDocLab} Fellow Lara Baladi has gathered on and since the beginning of \#Jan25. It will come into being at the place where creative technologies, the challenges of archiving history at {$\dots$}}
+      \field{shorttitle}{Vox Populi}
+      \field{title}{Vox Populi: Archiving a Revolution in the Digital Age}
+      \field{titleaddon}{Open Documentary Lab at {MIT}}
+      \field{urlday}{26}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/75V33RWH/lara-baladi-vox-populi-archiving-a-revolution-in-the-digital-age.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://opendoclab.mit.edu/lara-baladi-vox-populi-archiving-a-revolution-in-the-digital-age
+      \endverb
+    \endentry
     \entry{barabasi_linked:_2003}{book}{}
       \name{labelname}{1}{}{%
         {{hash=b2d66ab85a6a23f6f1d4fd558eb1fd06}{Barabasi}{B\bibinitperiod}{Albert-Laszlo}{A\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
@@ -637,33 +662,6 @@
       \field{title}{An apprentice that discovers hypertext links}
       \field{year}{1990}
       \keyw{data structures,Hypermedia,information retrieval,microcomputer applications,software packages}
-    \endentry
-    \entry{bialik_samslusher_2015}{online}{}
-      \name{labelname}{1}{}{%
-        {{hash=c63e6ec5a9e34451cfd9b52833f7c2c1}{Bialik}{B\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=c63e6ec5a9e34451cfd9b52833f7c2c1}{Bialik}{B\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{c63e6ec5a9e34451cfd9b52833f7c2c1}
-      \strng{fullhash}{c63e6ec5a9e34451cfd9b52833f7c2c1}
-      \field{sortinit}{B}
-      \field{labeltitle}{@samslusher @sohri @{NateSilver}538 @voxdotcom Yes. Those links were added after our tweets.}
-      \field{day}{13}
-      \field{month}{04}
-      \field{title}{@samslusher @sohri @{NateSilver}538 @voxdotcom Yes. Those links were added after our tweets.}
-      \field{titleaddon}{@carlbialik}
-      \field{type}{microblog}
-      \field{urlday}{19}
-      \field{urlmonth}{04}
-      \field{urlyear}{2015}
-      \field{year}{2015}
-      \verb{file}
-      \verb Tweet Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/I4I497E7/587652712906543104.html:text/html
-      \endverb
-      \verb{url}
-      \verb https://twitter.com/carlbialik/status/587652712906543104
-      \endverb
     \endentry
     \entry{blair_note_2004}{article}{}
       \name{labelname}{1}{}{%
@@ -2937,6 +2935,34 @@
       \verb https://twitter.com/bennyjohnson/status/491953975785426944
       \endverb
     \endentry
+    \entry{joshi_fleet_2014}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=8a5c7d9ee2a489f20bfabb769f56ec0e}{Joshi}{J\bibinitperiod}{Bhautik}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8a5c7d9ee2a489f20bfabb769f56ec0e}{Joshi}{J\bibinitperiod}{Bhautik}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8a5c7d9ee2a489f20bfabb769f56ec0e}
+      \strng{fullhash}{8a5c7d9ee2a489f20bfabb769f56ec0e}
+      \field{sortinit}{J}
+      \field{labeltitle}{Fleet Week {SF} 2014}
+      \field{abstract}{The airshow as seen at Fleet Week San Francisco, Saturday Oct. 11 2014. Looming fog and wispy clouds made for a spectacular airshow. [Full Album {\textbar} 2012 {\textbar} 2011 {\textbar} 2010 {\textbar} 2009 {\textbar} 2008{\textgreater}/a{\textgreater}]}
+      \field{day}{11}
+      \field{month}{10}
+      \field{shorttitle}{Fleet Week {SF} 2014}
+      \field{title}{Fleet Week {SF} 2014: swoop}
+      \field{titleaddon}{Flickr}
+      \field{urlday}{24}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{file}
+      \verb Snapshot:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/ZRIG6G89/15324633898.html:text/html
+      \endverb
+      \verb{url}
+      \verb https://www.flickr.com/photos/captin_nod/15324633898/
+      \endverb
+    \endentry
     \entry{karlsson_hyperlinking_2014}{article}{}
       \name{labelname}{3}{}{%
         {{hash=c2eb1f7b619ba34316f05bd08031a2c5}{Karlsson}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
@@ -3819,30 +3845,6 @@
       \verb Attachment:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/95XJCTJ4/Computer Lib _ Dream Machines - Ted Nelson.pdf:application/pdf;[Ted_Nelson]_Computer_Lib_Dream_Machines.pdf:/Users/liam/Library/Application Support/Zotero/Profiles/dwy7wgsd.default/zotero/storage/NRKVFZ98/[Ted_Nelson]_Computer_Lib_Dream_Machines.pdf:application/pdf
       \endverb
       \keyw{hyperlinks,xanadu}
-    \endentry
-    \entry{nelson_literary_1987}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9cfe3c1ef0e7af03e2a12be7221e0567}{Nelson}{N\bibinitperiod}{Theodor\bibnamedelima H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Swarthmore, {PA}}%
-      }
-      \list{publisher}{1}{%
-        {Self-published}%
-      }
-      \strng{namehash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \strng{fullhash}{9cfe3c1ef0e7af03e2a12be7221e0567}
-      \field{sortinit}{N}
-      \field{labeltitle}{Literary machines}
-      \field{edition}{ed. 87.1}
-      \field{isbn}{0893470554}
-      \field{shorttitle}{Literary machines}
-      \field{title}{Literary Machines}
-      \field{year}{1987}
-      \keyw{Electronic publishing,Microcomputers -- Programming,Self-publishing -- Data processing,Word processing}
     \endentry
     \entry{nelson_ted_1999}{online}{}
       \name{labelname}{1}{}{%
