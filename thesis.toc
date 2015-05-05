@@ -10,7 +10,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1.2}The summer of archives}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Outline of chapters}{22}
+\contentsline {section}{\numberline {1.2}Outline of chapters}{23}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}The Size and Shape of Archives}{25}
 \defcounter {refsection}{0}\relax 
@@ -64,7 +64,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}Atoms of news}{106}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}From tags to links}{110}
+\contentsline {subsection}{\numberline {4.2.3}From tags to links}{109}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Conclusion}{116}
 \defcounter {refsection}{0}\relax 
@@ -76,18 +76,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.2}Staying in or going out?}{128}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Link analysis}{130}
+\contentsline {section}{\numberline {5.2}Link analysis}{131}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2.1}Methodology}{132}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2.2}Results}{134}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Conclusion}{139}
+\contentsline {chapter}{\numberline {6}Conclusion}{141}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}From links to apps}{141}
+\contentsline {section}{\numberline {6.1}From links to apps}{143}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Standardizing stories}{146}
+\contentsline {section}{\numberline {6.2}Standardizing stories}{148}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Future design}{148}
+\contentsline {subsection}{\numberline {6.2.1}Future design}{151}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}The art of the archive}{151}
+\contentsline {section}{\numberline {6.3}The art of the archive}{153}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Media Cloud and data sets}{155}

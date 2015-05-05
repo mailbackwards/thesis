@@ -1,7 +1,67 @@
-\chapter{Appendix}
+\chapter{Media Cloud and data sets}
 
-The appendix will go here. I will talk about Media Cloud, the data sets I acquired, and the link extraction software.
-% The Media Cloud software provides nearly comprehensive access to a wide variety of news media. Along with the repository, it also provides
+Media Cloud is a joint project between the Berkman Center for Internet \& Society at Harvard, and the Center for Civic Media at MIT. An open source, open data project, it provides nearly comprehensive access to a wide variety of news media, allowing researchers ``to answer complex quantitative and qualitative questions about the content of online media.'' Along with the extensive repository of stories, Media Cloud researchers have organized and classified many of its sources into groupings of ``media sets.'' For this project, I focused on two of Media Cloud's media sets: the Top 25 Mainstream Media, and Top 1000 Popular Blogs.\\
+
+\textbf{Top 25 Mainstream Media}\begin{itemize}
+\item New York Times
+\item San Francisco Chronicle
+\item CNET
+\item New York Post
+\item Boston Herald
+\item CBS News
+\item FOX News
+\item Los Angeles Times
+\item Time
+\item NBC News
+\item New York Daily News
+\item Reuters
+\item The Guardian
+\item Washington Post
+\item The Huffington Post
+\item CNN
+\item USA Today
+\item The Telegraph
+\item BBC
+\item Daily Mail
+\item The Examiner
+\item Forbes\end{itemize}
+
+\textbf{Sample of top 1000 Popular Blogs}\begin{itemize}
+\item Yahoo! News
+\item U.S. News
+\item ESPN.com
+\item BuzzFeed
+\item Reddit
+\item Hacker News
+\item Mashable
+\item Hype Machine
+\item Christian Science Monitor
+\item MTV News
+\item E! Online
+\item People.com
+\item TechCrunch
+\item Gizmodo
+\item ScienceDaily
+\item Laughing Squid
+\item MetaFilter
+\item Boing Boing
+\item Techmeme
+\item Stereogum
+\item Engadget
+\item Economist.com
+\item GigaOM
+\item Gothamist
+\item PCWorld
+\item Lifehacker
+\item Daily Kos\end{itemize}
+
+I selected the sample data sets based on a combination of variation and technical feasibility. Some Media Cloud downloads were made difficult due to corruptions or issues with the files, sometimes making obtaining data for consecutive dates impossible.
+
+For the first data set, I gathered link data from the Top 25 Mainstream Media in February 1-7, 2015, and March 1, 2013; I also collected from the Top 1000 Popular Blogs on February 1, 2, 6, 7, 11, and 12 of 2015 (this simulates a full week of stories, as it staggers the sample by the day of the week), and April 1, 2012.
+
+For the second data set, I collected all New York Times and Guardian stories from January 2015, February 2014, and March 2013. I also downloaded all Huffington Post stories from January 2015 and February 2014. This allowed for a nearly-annual set while avoiding any potential macro-level link pattern changes based on events in a given month.
+
+The custom link extraction software is called ``sausage'' and will be released under an open source license. Written in Python for a MongoDB database, it is an extension of MIT Center for Civic Media's Media Cloud API Client and incorporates several third-party libraries and tools, such as Newspaper, BeautifulSoup, and NetworkX. It is available as of May 8, 2015 at \texttt{http://github.com/mailbackwards/sausage}.
 
 \clearpage
 \newpage

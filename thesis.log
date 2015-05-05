@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 APR 2015 11:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  4 MAY 2015 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,6 +335,231 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gin@req@height=\dimen105
 \Gin@req@width=\dimen106
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen107
+\enit@toks=\toks16
+\enit@inbox=\box31
+\enitdp@description=\count217
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
 Enter file names to process, (chap1,chap2 ...), or `all' to process all files:
 
 \files=all
@@ -358,54 +583,57 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 Package biblatex Warning: Missing 'hyperref' package.
 (biblatex)                Setting hyperref=false.
 
+
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 97.
+
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
 Package csquotes Warning: No multilingual support.
-(csquotes)                Cannot enable multilingual quotes on input line 94.
+(csquotes)                Cannot enable multilingual quotes on input line 97.
 
 (./thesis.aux (./front/cover.aux) (./front/toc.aux) (./chaps/preface.aux)
 (./chaps/intro.aux) (./chaps/chap1.aux) (./chaps/chap2.aux) (./chaps/chap3.aux)
-(./chaps/chap4.aux) (./chaps/conc.aux) (./biblio/biblio.aux))
+(./chaps/chap4.aux) (./chaps/conc.aux) (./appends/appa.aux)
+(./biblio/biblio.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-Package biblatex Info: No input encoding detected.
-(biblatex)             Assuming 'ascii'.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             Backend will reencode on the fly.
+(biblatex)             No need to reencode data.
 \openout3 = `thesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 94.
-Package biblatex Info: Reference segment=0 on input line 94.
+Package biblatex Info: Reference section=0 on input line 97.
+Package biblatex Info: Reference segment=0 on input line 97.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count217
-\scratchdimen=\dimen107
-\scratchbox=\box31
-\nofMPsegments=\count218
-\nofMParguments=\count219
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count220
-\MPscratchDim=\dimen108
-\MPnumerator=\count221
-\makeMPintoPDFobject=\count222
-\everyMPtoPDFconversion=\toks17
+\scratchcounter=\count218
+\scratchdimen=\dimen108
+\scratchbox=\box32
+\nofMPsegments=\count219
+\nofMParguments=\count220
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count221
+\MPscratchDim=\dimen109
+\MPnumerator=\count222
+\makeMPintoPDFobject=\count223
+\everyMPtoPDFconversion=\toks20
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -453,7 +681,16 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-] (./front/abstract.tex) [3
+] (./front/abstract.tex<<ot1.cmap>><<oml.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+<<omx.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+)
+[3
 
 ] [4
 
@@ -464,16 +701,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 
 
 
-]
-(./thesis.toc<<ot1.cmap>><<oml.cmap>>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-<<omx.cmap>>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
- [7])
+] (./thesis.toc [7])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
@@ -517,23 +745,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Underfull \vbox (badness 4072) has occurred while \output is active []
 
  [14]
-[15] [16] [17]
-Underfull \vbox (badness 4072) has occurred while \output is active []
+[15]
+Underfull \vbox (badness 1810) has occurred while \output is active []
 
- [18]
+ [16]
+[17] [18] [19] [20] [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 35.
-
-
-Underfull \vbox (badness 2538) has occurred while \output is active []
-
- [19]
-[20]
-Underfull \vbox (badness 1048) has occurred while \output is active []
-
- [21]
-[22]
-Underfull \vbox (badness 1675) has occurred while \output is active []
+ [22]
+Underfull \vbox (badness 4229) has occurred while \output is active []
 
  [23])
 [24]
@@ -546,40 +766,39 @@ Package biblatex Info: Resetting trackers on input line 1.
 
 
 
-] [26] [27] [28] [29] [30] [31] [32] [33]
-<figures/layersofcontainment.jpg, id=127, 722.7pt x 542.025pt>
+] [26] [27] [28] [29] [30] [31]
+Underfull \vbox (badness 7344) has occurred while \output is active []
+
+ [32]
+[33] <figures/layersofcontainment.jpg, id=126, 722.7pt x 542.025pt>
 File: figures/layersofcontainment.jpg Graphic file (type jpg)
 
 <use figures/layersofcontainment.jpg>
-Package pdftex.def Info: figures/layersofcontainment.jpg used on input line 68.
+Package pdftex.def Info: figures/layersofcontainment.jpg used on input line 69.
 
 (pdftex.def)             Requested size: 250.0pt x 187.49506pt.
-
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
  [34]
-<figures/fleetweek.jpg, id=131, 642.4pt x 428.60126pt>
+<figures/fleetweek.jpg, id=130, 642.4pt x 428.60126pt>
 File: figures/fleetweek.jpg Graphic file (type jpg)
 
 <use figures/fleetweek.jpg>
-Package pdftex.def Info: figures/fleetweek.jpg used on input line 77.
+Package pdftex.def Info: figures/fleetweek.jpg used on input line 78.
 (pdftex.def)             Requested size: 375.0pt x 250.20425pt.
+
+Underfull \vbox (badness 2443) has occurred while \output is active []
+
  [35 <./figures/layersofcontainment.jpg>] [36 <./figures/fleetweek.jpg>]
-Underfull \vbox (badness 2538) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-<figures/annotatedurl.png, id=142, 692.5875pt x 191.71625pt>
+<figures/annotatedurl.png, id=141, 692.5875pt x 191.71625pt>
 File: figures/annotatedurl.png Graphic file (type png)
 
 <use figures/annotatedurl.png>
-Package pdftex.def Info: figures/annotatedurl.png used on input line 98.
+Package pdftex.def Info: figures/annotatedurl.png used on input line 99.
 (pdftex.def)             Requested size: 300.0pt x 83.04485pt.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 103.
-
-[38] [39 <./figures/annotatedurl.png>]
-Overfull \hbox (5.64285pt too wide) in paragraph at lines 109--110
+ [38] [39 <./figures/annotatedurl.png>]
+Overfull \hbox (5.64285pt too wide) in paragraph at lines 110--111
 \T1/cmr/m/n/12 or its most spe-cific (like ``pbs.twimg.com/media/Bm6QZAGCQAADEO
 k.png''). Short-
  []
@@ -588,21 +807,21 @@ k.png''). Short-
 Underfull \vbox (badness 1067) has occurred while \output is active []
 
  [40]
-<figures/linkedhierarchy.jpg, id=154, 722.7pt x 542.025pt>
+<figures/linkedhierarchy.jpg, id=153, 722.7pt x 542.025pt>
 File: figures/linkedhierarchy.jpg Graphic file (type jpg)
 
 <use figures/linkedhierarchy.jpg>
-Package pdftex.def Info: figures/linkedhierarchy.jpg used on input line 119.
-(pdftex.def)             Requested size: 400.0pt x 300.00037pt.
+Package pdftex.def Info: figures/linkedhierarchy.jpg used on input line 120.
+(pdftex.def)             Requested size: 420.0pt x 315.00328pt.
  [41 <./figures/linkedhierarchy.jpg>]
-<figures/annotatedlink.jpg, id=158, 722.7pt x 542.025pt>
+<figures/annotatedlink.jpg, id=157, 722.7pt x 542.025pt>
 File: figures/annotatedlink.jpg Graphic file (type jpg)
 
 <use figures/annotatedlink.jpg>
-Package pdftex.def Info: figures/annotatedlink.jpg used on input line 130.
+Package pdftex.def Info: figures/annotatedlink.jpg used on input line 131.
 (pdftex.def)             Requested size: 300.0pt x 225.00233pt.
 
-Overfull \hbox (0.52765pt too wide) in paragraph at lines 135--136
+Overfull \hbox (0.52765pt too wide) in paragraph at lines 136--137
 []\T1/cmr/m/n/12 The link is for-ever as-so-ci-ated with (and per-haps plagued 
 by) the foot-note. Theodor
  []
@@ -625,72 +844,56 @@ Underfull \vbox (badness 1072) has occurred while \output is active []
 Underfull \vbox (badness 1048) has occurred while \output is active []
 
  [48]
-[49] [50] [51] [52]
+[49] [50] [51] [52] [53]
+Underfull \vbox (badness 2875) has occurred while \output is active []
 
-LaTeX Warning: Command \textquoteleft invalid in math mode on input line 200.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 200.
-
-[53] [54]) [55] [56]
+ [54])
+[55]
 \openout2 = `chaps/chap2.aux'.
 
- (./chaps/chap2.tex
+ (./chaps/chap2.tex [56
+
+
+
+]
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 1.
-[57
+[57] [58]
+Underfull \vbox (badness 1048) has occurred while \output is active []
 
-
-
-] [58] [59]
+ [59]
 Underfull \vbox (badness 1688) has occurred while \output is active []
 
  [60]
-<figures/cyclopaedia-tree.jpg, id=221, 400.11736pt x 329.28317pt>
+<figures/cyclopaedia-tree.jpg, id=219, 400.11736pt x 329.28317pt>
 File: figures/cyclopaedia-tree.jpg Graphic file (type jpg)
 
 <use figures/cyclopaedia-tree.jpg>
 Package pdftex.def Info: figures/cyclopaedia-tree.jpg used on input line 31.
 (pdftex.def)             Requested size: 400.0pt x 329.20197pt.
- [61]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [62 <./figures/cyclopaedia-tree.jpg>]
-<figures/historictree.jpg, id=229, 518.93875pt x 776.9025pt>
+ [61] [62 <./figures/cyclopaedia-tree.jpg>]
+<figures/historictree.jpg, id=227, 518.93875pt x 776.9025pt>
 File: figures/historictree.jpg Graphic file (type jpg)
 
 <use figures/historictree.jpg>
 Package pdftex.def Info: figures/historictree.jpg used on input line 46.
 (pdftex.def)             Requested size: 267.18913pt x 400.0pt.
  [63] [64 <./figures/historictree.jpg>] [65]
-<figures/otlet.jpg, id=239, 404.51125pt x 159.59625pt>
+<figures/otlet.jpg, id=237, 404.51125pt x 159.59625pt>
 File: figures/otlet.jpg Graphic file (type jpg)
  <use figures/otlet.jpg>
 Package pdftex.def Info: figures/otlet.jpg used on input line 63.
 (pdftex.def)             Requested size: 300.0pt x 118.36479pt.
 
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 68.
-
-[66 <./figures/otlet.jpg>] [67] [68] [69]
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 96.
-
-[70]
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 100.
-
-<figures/memex.jpg, id=256, 722.7pt x 507.8975pt>
+[66 <./figures/otlet.jpg>] [67] [68] [69] [70]
+<figures/memex.jpg, id=254, 722.7pt x 507.8975pt>
 File: figures/memex.jpg Graphic file (type jpg)
  <use figures/memex.jpg>
 Package pdftex.def Info: figures/memex.jpg used on input line 104.
 (pdftex.def)             Requested size: 350.0pt x 245.9735pt.
 
-[71] [72 <./figures/memex.jpg>]
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 117.
-
-[73] [74] [75] <figures/xanadu.jpg, id=273, 541.02126pt x 400.49625pt>
+[71] [72 <./figures/memex.jpg>] [73] [74] [75]
+<figures/xanadu.jpg, id=271, 541.02126pt x 400.49625pt>
 File: figures/xanadu.jpg Graphic file (type jpg)
 
 <use figures/xanadu.jpg>
@@ -710,21 +913,14 @@ Package biblatex Info: Resetting trackers on input line 1.
 
 
 ]
-Underfull \vbox (badness 1062) has occurred while \output is active []
+Underfull \vbox (badness 1688) has occurred while \output is active []
 
  [82]
 [83] [84]
-Underfull \vbox (badness 4072) has occurred while \output is active []
+Underfull \vbox (badness 7116) has occurred while \output is active []
 
  [85]
-[86] [87] [88]
-Underfull \vbox (badness 1033) has occurred while \output is active []
-
- [89]
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 50.
-
-
+[86] [87] [88] [89]
 Underfull \vbox (badness 1048) has occurred while \output is active []
 
  [90]
@@ -733,22 +929,20 @@ Overfull \hbox (8.66339pt too wide) in paragraph at lines 54--55
 ish-ers have well-documented
  []
 
-[91]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 59.
+Underfull \vbox (badness 2913) has occurred while \output is active []
 
-[92] [93] [94]
+ [91]
+Underfull \vbox (badness 1048) has occurred while \output is active []
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 78.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 80.
-
-[95]
+ [92]
+[93] [94] [95]
 Underfull \vbox (badness 1033) has occurred while \output is active []
 
  [96]
-[97]
+Underfull \vbox (badness 2875) has occurred while \output is active []
+
+ [97]
 Underfull \vbox (badness 2875) has occurred while \output is active []
 
  [98]
@@ -760,10 +954,10 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 
  [103]
 [104]
-Underfull \vbox (badness 7344) has occurred while \output is active []
+Underfull \vbox (badness 1048) has occurred while \output is active []
 
  [105]
-<figures/storyschema.jpg, id=370, 561.09625pt x 363.3575pt>
+<figures/storyschema.jpg, id=368, 561.09625pt x 363.3575pt>
 File: figures/storyschema.jpg Graphic file (type jpg)
 
 <use figures/storyschema.jpg>
@@ -773,7 +967,11 @@ Package pdftex.def Info: figures/storyschema.jpg used on input line 143.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 157.
  [108]
-[109] [110] [111] [112] [113]
+[109]
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+ [110]
+[111] [112] [113]
 Underfull \vbox (badness 2913) has occurred while \output is active []
 
  [114]
@@ -793,94 +991,112 @@ si-fi-ca-tion re-flect the grow-
 Chapter 5.
 Package biblatex Info: Resetting trackers on input line 1.
 [119] [120]
-Underfull \vbox (badness 6364) has occurred while \output is active []
+Underfull \vbox (badness 7030) has occurred while \output is active []
 
  [121]
-Underfull \vbox (badness 2564) has occurred while \output is active []
+Underfull \vbox (badness 4072) has occurred while \output is active []
 
  [122]
-[123] [124] [125]
+[123] [124] [125] [126]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126]
-[127] [128]
-Underfull \vbox (badness 1596) has occurred while \output is active []
+ [127]
+[128] [129]
+Underfull \vbox (badness 1715) has occurred while \output is active []
 
- [129]
-[130] [131] [132]
-Underfull \vbox (badness 3492) has occurred while \output is active []
+ [130]
+Underfull \vbox (badness 4229) has occurred while \output is active []
 
- [133]
-[134] [135]
+ [131]
+[132] [133] [134] [135]
+<figures/nytvguardian-long.png, id=464, 777.90625pt x 742.775pt>
+File: figures/nytvguardian-long.png Graphic file (type png)
+
+<use figures/nytvguardian-long.png>
+Package pdftex.def Info: figures/nytvguardian-long.png used on input line 113.
+(pdftex.def)             Requested size: 400.0pt x 381.9497pt.
+
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [136])
-Underfull \vbox (badness 1675) has occurred while \output is active []
+ [136]
+<figures/nytvguardian-sections.jpg, id=468, 785.93625pt x 381.425pt>
+File: figures/nytvguardian-sections.jpg Graphic file (type jpg)
 
- [137]
-[138]
+<use figures/nytvguardian-sections.jpg>
+Package pdftex.def Info: figures/nytvguardian-sections.jpg used on input line 1
+24.
+(pdftex.def)             Requested size: 450.0pt x 218.39809pt.
+
+Overfull \hbox (16.38pt too wide) in paragraph at lines 124--125
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137 <./figures/nytvguardian-long.png>] [138 <./figures/nytvguardian-sections.
+jpg>])
+[139]
 \openout2 = `chaps/conc.aux'.
 
- (./chaps/conc.tex
+ (./chaps/conc.tex [140
+
+
+
+]
 Chapter 6.
 Package biblatex Info: Resetting trackers on input line 1.
-[139
+[141] [142] [143] [144] [145] [146]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-] [140] [141]
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 21.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 21.
-
-[142] [143] [144] [145]
-<figures/linkstructures-custom.jpg, id=498, 722.7pt x 542.025pt>
+ [147]
+<figures/linkstructures-custom.jpg, id=505, 722.7pt x 542.025pt>
 File: figures/linkstructures-custom.jpg Graphic file (type jpg)
 
 <use figures/linkstructures-custom.jpg>
 Package pdftex.def Info: figures/linkstructures-custom.jpg used on input line 4
 1.
 (pdftex.def)             Requested size: 433.62pt x 325.2175pt.
- [146] [147 <./figures/linkstructures-custom.jpg>] [148]
-Underfull \vbox (badness 1596) has occurred while \output is active []
-
- [149]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [148] [149 <./figures/linkstructures-custom.jpg>]
+Underfull \vbox (badness 5652) has occurred while \output is active []
 
  [150]
-[151]) [152]
+[151] [152] [153]) [154]
+\openout2 = `appends/appa.aux'.
+
+ (./appends/appa.tex
+Appendix A.
+Package biblatex Info: Resetting trackers on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+[155
+
+
+
+] [156] [157])
 \openout2 = `biblio/biblio.aux'.
 
- (./biblio/biblio.tex [153
+ (./biblio/biblio.tex [158
 
 
 
-]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
-
-[154]
+] [159] [160]
 Overfull \hbox (17.61649pt too wide) in paragraph at lines 8--8
 \T1/cmr/m/n/12 1728. $\T1/cmtt/m/n/12 http : / / uwdc . library . wisc . edu / 
 collections / HistSciTech / Cyclopaedia$\T1/cmr/m/n/12 . 
  []
 
-[155]
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
-
-
+[161]
 Overfull \hbox (12.77217pt too wide) in paragraph at lines 8--8
 [][]\T1/cmr/m/n/12 Dahlgren, Pe-ter. ^^P  Me-dia Logic in Cy-berspace: Repo-si-
 tion-ing Jour-nal-ism and its Publics.^^Q
  []
 
-[156]
+[162]
 Overfull \hbox (12.70662pt too wide) in paragraph at lines 8--8
 [][]\T1/cmr/m/n/12 Derrida, Jacques. ^^P  Archive Fever: A Freudian Im-pres-sio
 n.^^Q Trans-lated by Eric Prenowitz.
@@ -892,101 +1108,83 @@ Overfull \hbox (1.5723pt too wide) in paragraph at lines 8--8
 -man gen-er-ated lists US8108417
  []
 
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
-
-[157] [158]
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
-
-
+[163] [164]
 Overfull \hbox (1.2224pt too wide) in paragraph at lines 8--8
 [][]\T1/cmr/m/n/12 Holovaty, Adrian. ^^P  A fun-da-men-tal way news-pa-per site
 s need to change.^^Q Holo-vaty.com.
  []
 
-[159] [160] [161]
+[165] [166] [167]
 Overfull \hbox (8.51512pt too wide) in paragraph at lines 8--8
 \T1/cmr/m/n/12 2015. Ac-cessed April 20, 2015. $\T1/cmtt/m/n/12 http : / / www 
 . npr . org / blogs / alltechconsidered /
  []
 
+[168]
+Overfull \hbox (1.82477pt too wide) in paragraph at lines 8--8
+\T1/cmtt/m/n/12 paper / the -[] x -[] y -[] z -[] of -[] digital -[] storytelli
+ng -[] dramaturgy -[] directionality -[]
+ []
 
-LaTeX Warning: Command \textquoteleft invalid in math mode on input line 8.
 
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
-
-[162]
 Overfull \hbox (4.1796pt too wide) in paragraph at lines 8--8
 \T1/cmr/m/it/12 Com-put-ing \T1/cmr/m/n/12 Work-ing Pa-per RWP07-022. Cam-bridg
 e, MA: John F. Kennedy School
  []
 
-[163]
+[169] [170]
 Overfull \hbox (45.56534pt too wide) in paragraph at lines 8--8
 [][]\T1/cmr/m/n/12 Trevino, James, and Do-erte Doeme-land. \T1/cmr/m/it/12 Whic
 h World Bank re-ports are widely read? \T1/cmr/m/n/12 WPS6851.
  []
 
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
-
-[164]
+[171]
 Overfull \hbox (1.85574pt too wide) in paragraph at lines 8--8
 [][]\T1/cmr/m/n/12 Yglesias, Matthew. ^^P  Re-fresh-ing the ev-er-green.^^Q Vox
 . Jan-uary 15, 2015. Ac-cessed Febru-
  []
 
-[165]
+
 Overfull \hbox (11.52904pt too wide) in paragraph at lines 8--8
 [][]\T1/cmr/m/n/12 Zittrain, Jonathan. \T1/cmr/m/it/12 The Fourth Quad-rant\T1/
 cmr/m/n/12 . SSRN Schol-arly Pa-per ID 1618042. Rochester,
  []
 
-) [166] (./thesis.aux (./front/cover.aux) (./front/toc.aux)
+) [172] (./thesis.aux (./front/cover.aux) (./front/toc.aux)
 (./chaps/preface.aux) (./chaps/intro.aux) (./chaps/chap1.aux)
 (./chaps/chap2.aux) (./chaps/chap3.aux) (./chaps/chap4.aux) (./chaps/conc.aux)
-(./biblio/biblio.aux))
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+(./appends/appa.aux) (./biblio/biblio.aux))
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10237 strings out of 493117
- 184021 string characters out of 6135433
- 769737 words of memory out of 5000000
- 13455 multiletter control sequences out of 15000+600000
+ 10766 strings out of 493117
+ 191856 string characters out of 6135433
+ 783943 words of memory out of 5000000
+ 13955 multiletter control sequences out of 15000+600000
  17099 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,7n,80p,3009b,1606s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,7n,80p,2961b,1606s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2014/texmf-
-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on thesis.pdf (166 pages, 2127638 bytes).
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on thesis.pdf (172 pages, 2244823 bytes).
 PDF statistics:
- 632 PDF objects out of 1000 (max. 8388607)
- 423 compressed objects within 5 object streams
+ 638 PDF objects out of 1000 (max. 8388607)
+ 424 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
